@@ -7,14 +7,14 @@
 
  2, Achieved search function: search hero and return all information related to this hero; search comic and return all information related to this comic; search a propoerty(including super power) and return all the heros have this property.( as it is displayed in 3); Search 2 heros and return all the comics and all the same property of these 2 heros.
 
- 3, If I having more time, I will do comic recommendation(based on heros appears in these comics and some complex recommondation algorithm).
+ 3, If I have more time, I will do comic recommendation(based on heros appears in these comics and some complex recommondation algorithm).
 
 
 ## Data set:
  https://www.kaggle.com/dannielr/marvel-superheroes
 
 ## Data model:
-![data model]((/static/img/data_model.png)
+![data model](/static/img/data_model.png)
 
 ## Package Dependencies:
 Python, Django, javascripts, jquery, bootstrap, html/css, MySql
