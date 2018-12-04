@@ -1,0 +1,5722 @@
+Id,Hero,Power
+0,A-Bomb,Accelerated Healing
+1,A-Bomb,Durability
+2,A-Bomb,Longevity
+3,A-Bomb,Super Strength
+4,A-Bomb,Stamina
+5,A-Bomb,Camouflage
+6,A-Bomb,Self-Sustenance
+7,Abe Sapien,Agility
+8,Abe Sapien,Accelerated Healing
+9,Abe Sapien,Cold Resistance
+10,Abe Sapien,Durability
+11,Abe Sapien,Underwater breathing
+12,Abe Sapien,Marksmanship
+13,Abe Sapien,Weapons Master
+14,Abe Sapien,Longevity
+15,Abe Sapien,Intelligence
+16,Abe Sapien,Super Strength
+17,Abe Sapien,Telepathy
+18,Abe Sapien,Stamina
+19,Abe Sapien,Immortality
+20,Abe Sapien,Reflexes
+21,Abe Sapien,Enhanced Sight
+22,Abe Sapien,Sub-Mariner
+23,Abin Sur,Lantern Power Ring
+24,Abomination,Accelerated Healing
+25,Abomination,Intelligence
+26,Abomination,Super Strength
+27,Abomination,Stamina
+28,Abomination,Super Speed
+29,Abomination,Invulnerability
+30,Abomination,Animation
+31,Abomination,Super Breath
+32,Abraxas,Dimensional Awareness
+33,Abraxas,Flight
+34,Abraxas,Intelligence
+35,Abraxas,Super Strength
+36,Abraxas,Size Changing
+37,Abraxas,Super Speed
+38,Abraxas,Teleportation
+39,Abraxas,Magic
+40,Abraxas,Dimensional Travel
+41,Abraxas,Immortality
+42,Abraxas,Invulnerability
+43,Abraxas,Molecular Manipulation
+44,Abraxas,Energy Manipulation
+45,Abraxas,Power Cosmic
+46,Absorbing Man,Cold Resistance
+47,Absorbing Man,Durability
+48,Absorbing Man,Energy Absorption
+49,Absorbing Man,Super Strength
+50,Absorbing Man,Invulnerability
+51,Absorbing Man,Elemental Transmogrification
+52,Absorbing Man,Fire Resistance
+53,Absorbing Man,Natural Armor
+54,Absorbing Man,Molecular Manipulation
+55,Absorbing Man,Heat Resistance
+56,Absorbing Man,Matter Absorption
+57,Adam Monroe,Accelerated Healing
+58,Adam Monroe,Immortality
+59,Adam Monroe,Regeneration
+60,Adam Strange,Durability
+61,Adam Strange,Stealth
+62,Adam Strange,Flight
+63,Adam Strange,Marksmanship
+64,Adam Strange,Weapons Master
+65,Adam Strange,Intelligence
+66,Adam Strange,Super Speed
+67,Adam Strange,Fire Resistance
+68,Adam Strange,Enhanced Sight
+69,Adam Strange,Power Suit
+70,Agent Bob,Stealth
+71,Agent Zero,Energy Absorption
+72,Agent Zero,Longevity
+73,Agent Zero,Super Strength
+74,Agent Zero,Energy Blasts
+75,Agent Zero,Energy Beams
+76,Agent Zero,Power Suit
+77,Air-Walker,Flight
+78,Air-Walker,Super Strength
+79,Air-Walker,Super Speed
+80,Air-Walker,Self-Sustenance
+81,Air-Walker,Molecular Manipulation
+82,Air-Walker,Power Cosmic
+83,Ajax,Agility
+84,Ajax,Super Strength
+85,Ajax,Super Speed
+86,Ajax,Heat Generation
+87,Ajax,Power Suit
+88,Alan Scott,Flight
+89,Alan Scott,Danger Sense
+90,Alan Scott,Intelligence
+91,Alan Scott,Telepathy
+92,Alan Scott,Energy Blasts
+93,Alan Scott,Super Speed
+94,Alan Scott,Teleportation
+95,Alan Scott,Energy Beams
+96,Alan Scott,Phasing
+97,Alan Scott,Force Fields
+98,Alan Scott,Hypnokinesis
+99,Alan Scott,Energy Manipulation
+100,Alan Scott,Invisibility
+101,Alex Mercer,Agility
+102,Alex Mercer,Accelerated Healing
+103,Alex Mercer,Stealth
+104,Alex Mercer,Energy Absorption
+105,Alex Mercer,Danger Sense
+106,Alex Mercer,Marksmanship
+107,Alex Mercer,Weapons Master
+108,Alex Mercer,Longevity
+109,Alex Mercer,Super Strength
+110,Alex Mercer,Energy Blasts
+111,Alex Mercer,Stamina
+112,Alex Mercer,Super Speed
+113,Alex Mercer,Enhanced Senses
+114,Alex Mercer,Jump
+115,Alex Mercer,Shapeshifting
+116,Alex Mercer,Immortality
+117,Alex Mercer,Invulnerability
+118,Alex Mercer,Elasticity
+119,Alex Mercer,Substance Secretion
+120,Alex Mercer,Enhanced Hearing
+121,Alex Mercer,Natural Armor
+122,Alex Mercer,Adaptation
+123,Alex Mercer,Gliding
+124,Alex Mercer,Natural Weapons
+125,Alex Mercer,Wallcrawling
+126,Alex Mercer,Matter Absorption
+127,Alex Mercer,Vision - Thermal
+128,Alex Woolsly,Underwater breathing
+129,Alien,Agility
+130,Alien,Cold Resistance
+131,Alien,Durability
+132,Alien,Stealth
+133,Alien,Super Strength
+134,Alien,Super Speed
+135,Alien,Enhanced Senses
+136,Alien,Jump
+137,Alien,Substance Secretion
+138,Alien,Natural Armor
+139,Alien,Heat Resistance
+140,Alien,Natural Weapons
+141,Alien,Wallcrawling
+142,Alien,Vision - Thermal
+143,Allan Quatermain,Marksmanship
+144,Amazo,Agility
+145,Amazo,Lantern Power Ring
+146,Amazo,Durability
+147,Amazo,Flight
+148,Amazo,Underwater breathing
+149,Amazo,Marksmanship
+150,Amazo,Power Augmentation
+151,Amazo,Longevity
+152,Amazo,Intelligence
+153,Amazo,Super Strength
+154,Amazo,Cryokinesis
+155,Amazo,Telepathy
+156,Amazo,Energy Blasts
+157,Amazo,Duplication
+158,Amazo,Size Changing
+159,Amazo,Stamina
+160,Amazo,Super Speed
+161,Amazo,Weapon-based Powers
+162,Amazo,Teleportation
+163,Amazo,Enhanced Senses
+164,Amazo,Jump
+165,Amazo,Shapeshifting
+166,Amazo,Camouflage
+167,Amazo,Phasing
+168,Amazo,Fire Control
+169,Amazo,Enhanced Memory
+170,Amazo,Reflexes
+171,Amazo,Invulnerability
+172,Amazo,Energy Constructs
+173,Amazo,Force Fields
+174,Amazo,Power Absorption
+175,Amazo,Enhanced Hearing
+176,Amazo,Time Travel
+177,Amazo,Enhanced Smell
+178,Amazo,Water Control
+179,Amazo,Vision - Telescopic
+180,Amazo,Magnetism
+181,Amazo,Invisibility
+182,Amazo,Vision - Microscopic
+183,Amazo,Super Breath
+184,Amazo,Vision - Night
+185,Amazo,Vision - Heat
+186,Amazo,Vision - X-Ray
+187,Amazo,Vision - Thermal
+188,Ammo,Weapons Master
+189,Ando Masahashi,Power Augmentation
+190,Angel,Agility
+191,Angel,Accelerated Healing
+192,Angel,Durability
+193,Angel,Stealth
+194,Angel,Flight
+195,Angel,Longevity
+196,Angel,Super Strength
+197,Angel,Stamina
+198,Angel,Super Speed
+199,Angel,Enhanced Senses
+200,Angel,Magic
+201,Angel,Immortality
+202,Angel,Enhanced Memory
+203,Angel,Psionic Powers
+204,Angel,Enhanced Hearing
+205,Angel,Gliding
+206,Angel,Vision - Telescopic
+207,Angel,Toxin and Disease Resistance
+208,Angel Dust,Agility
+209,Angel Dust,Super Strength
+210,Angel Dust,Stamina
+211,Angel Dust,Super Speed
+212,Angel Salvadore,Flight
+213,Angel Salvadore,Animal Attributes
+214,Angel Salvadore,Animal Oriented Powers
+215,Angel Salvadore,Regeneration
+216,Angel Salvadore,Toxin and Disease Control
+217,Angela,Longevity
+218,Animal Man,Animal Attributes
+219,Animal Man,Telepathy
+220,Animal Man,Energy Blasts
+221,Animal Man,Animal Oriented Powers
+222,Animal Man,Empathy
+223,Annihilus,Agility
+224,Annihilus,Durability
+225,Annihilus,Flight
+226,Annihilus,Super Strength
+227,Annihilus,Stamina
+228,Annihilus,Super Speed
+229,Annihilus,Reflexes
+230,Ant-Man,Intelligence
+231,Ant-Man,Size Changing
+232,Ant-Man II,Agility
+233,Ant-Man II,Stealth
+234,Ant-Man II,Intelligence
+235,Ant-Man II,Super Strength
+236,Ant-Man II,Telepathy
+237,Ant-Man II,Size Changing
+238,Ant-Man II,Stamina
+239,Ant-Man II,Animal Oriented Powers
+240,Ant-Man II,Animal Control
+241,Anti-Monitor,Accelerated Healing
+242,Anti-Monitor,Dimensional Awareness
+243,Anti-Monitor,Durability
+244,Anti-Monitor,Energy Absorption
+245,Anti-Monitor,Flight
+246,Anti-Monitor,Power Augmentation
+247,Anti-Monitor,Intelligence
+248,Anti-Monitor,Super Strength
+249,Anti-Monitor,Telepathy
+250,Anti-Monitor,Energy Blasts
+251,Anti-Monitor,Size Changing
+252,Anti-Monitor,Darkforce Manipulation
+253,Anti-Monitor,Teleportation
+254,Anti-Monitor,Energy Beams
+255,Anti-Monitor,Immortality
+256,Anti-Monitor,Invulnerability
+257,Anti-Monitor,Energy Constructs
+258,Anti-Monitor,Molecular Manipulation
+259,Anti-Monitor,Power Suit
+260,Anti-Monitor,Time Travel
+261,Anti-Monitor,Time Manipulation
+262,Anti-Monitor,Matter Absorption
+263,Anti-Monitor,Reality Warping
+264,Anti-Spawn,Durability
+265,Anti-Spawn,Super Strength
+266,Anti-Spawn,Energy Blasts
+267,Anti-Spawn,Stamina
+268,Anti-Spawn,Teleportation
+269,Anti-Spawn,Energy Manipulation
+270,Anti-Venom,Accelerated Healing
+271,Anti-Venom,Durability
+272,Anti-Venom,Danger Sense
+273,Anti-Venom,Super Strength
+274,Anti-Venom,Stamina
+275,Anti-Venom,Enhanced Senses
+276,Anti-Venom,Shapeshifting
+277,Anti-Venom,Camouflage
+278,Anti-Venom,Reflexes
+279,Anti-Venom,Elasticity
+280,Anti-Venom,Toxin and Disease Resistance
+281,Anti-Venom,Wallcrawling
+282,Anti-Venom,Web Creation
+283,Anti-Venom,Symbiote Costume
+284,Apocalypse,Agility
+285,Apocalypse,Accelerated Healing
+286,Apocalypse,Energy Absorption
+287,Apocalypse,Flight
+288,Apocalypse,Power Augmentation
+289,Apocalypse,Longevity
+290,Apocalypse,Super Strength
+291,Apocalypse,Telepathy
+292,Apocalypse,Energy Blasts
+293,Apocalypse,Size Changing
+294,Apocalypse,Stamina
+295,Apocalypse,Super Speed
+296,Apocalypse,Teleportation
+297,Apocalypse,Telekinesis
+298,Apocalypse,Shapeshifting
+299,Apocalypse,Immortality
+300,Apocalypse,Reflexes
+301,Apocalypse,Invulnerability
+302,Apocalypse,Force Fields
+303,Apocalypse,Natural Armor
+304,Apocalypse,Molecular Manipulation
+305,Apocalypse,Levitation
+306,Apocalypse,Biokinesis
+307,Aquababy,Underwater breathing
+308,Aquababy,Super Strength
+309,Aquababy,Water Control
+310,Aqualad,Durability
+311,Aqualad,Underwater breathing
+312,Aqualad,Super Strength
+313,Aqualad,Cryokinesis
+314,Aqualad,Telepathy
+315,Aqualad,Stamina
+316,Aqualad,Super Speed
+317,Aqualad,Energy Beams
+318,Aqualad,Magic
+319,Aqualad,Enhanced Hearing
+320,Aqualad,Heat Generation
+321,Aqualad,Water Control
+322,Aqualad,Vision - Night
+323,Aquaman,Agility
+324,Aquaman,Accelerated Healing
+325,Aquaman,Cold Resistance
+326,Aquaman,Durability
+327,Aquaman,Stealth
+328,Aquaman,Underwater breathing
+329,Aquaman,Longevity
+330,Aquaman,Intelligence
+331,Aquaman,Super Strength
+332,Aquaman,Telepathy
+333,Aquaman,Stamina
+334,Aquaman,Super Speed
+335,Aquaman,Enhanced Senses
+336,Aquaman,Reflexes
+337,Aquaman,Invulnerability
+338,Aquaman,Enhanced Hearing
+339,Aquaman,Animal Control
+340,Aquaman,Enhanced Sight
+341,Aquaman,Heat Resistance
+342,Aquaman,Enhanced Smell
+343,Aquaman,Water Control
+344,Aquaman,Sonar
+345,Aquaman,Sub-Mariner
+346,Aquaman,Vision - Night
+347,Arachne,Agility
+348,Arachne,Accelerated Healing
+349,Arachne,Durability
+350,Arachne,Super Strength
+351,Arachne,Stamina
+352,Arachne,Super Speed
+353,Arachne,Reflexes
+354,Arachne,Psionic Powers
+355,Arachne,Toxin and Disease Resistance
+356,Arachne,Enhanced Touch
+357,Arachne,Wallcrawling
+358,Arachne,Web Creation
+359,Archangel,Agility
+360,Archangel,Accelerated Healing
+361,Archangel,Durability
+362,Archangel,Flight
+363,Archangel,Super Strength
+364,Archangel,Stamina
+365,Archangel,Gliding
+366,Archangel,Vision - Telescopic
+367,Arclight,Durability
+368,Arclight,Super Strength
+369,Arclight,Stamina
+370,Arclight,Seismic Power
+371,Ardina,Agility
+372,Ardina,Accelerated Healing
+373,Ardina,Cold Resistance
+374,Ardina,Durability
+375,Ardina,Flight
+376,Ardina,Super Strength
+377,Ardina,Energy Blasts
+378,Ardina,Super Speed
+379,Ardina,Enhanced Senses
+380,Ardina,Reflexes
+381,Ardina,Invulnerability
+382,Ardina,Self-Sustenance
+383,Ardina,Empathy
+384,Ardina,Molecular Manipulation
+385,Ardina,Energy Manipulation
+386,Ardina,Heat Resistance
+387,Ardina,Power Cosmic
+388,Ares,Agility
+389,Ares,Accelerated Healing
+390,Ares,Durability
+391,Ares,Super Strength
+392,Ares,Stamina
+393,Ares,Super Speed
+394,Ares,Immortality
+395,Ares,Reflexes
+396,Ariel,Telepathy
+397,Ariel,Teleportation
+398,Armor,Super Strength
+399,Armor,Energy Armor
+400,Armor,Psionic Powers
+401,Astro Boy,Flight
+402,Astro Boy,Super Strength
+403,Astro Boy,Energy Blasts
+404,Astro Boy,Super Speed
+405,Astro Boy,Weapon-based Powers
+406,Astro Boy,Enhanced Hearing
+407,Astro Boy,Vision - Telescopic
+408,Astro Boy,Omnilingualism
+409,Atlas,Durability
+410,Atlas,Stealth
+411,Atlas,Intelligence
+412,Atlas,Super Strength
+413,Atlas,Size Changing
+414,Atlas,Stamina
+415,Atlas,Super Speed
+416,Atlas,Immortality
+417,Atlas,Reflexes
+418,Atlas,Invulnerability
+419,Atlas,Self-Sustenance
+420,Atom,Longevity
+421,Atom,Super Strength
+422,Atom,Duplication
+423,Atom,Stamina
+424,Atom,Super Speed
+425,Atom,Radiation Immunity
+426,Atom Girl,Size Changing
+427,Atom II,Flight
+428,Atom II,Super Strength
+429,Atom II,Size Changing
+430,Atom II,Density Control
+431,Atom II,Gliding
+432,Atom III,Size Changing
+433,Atom IV,Intelligence
+434,Aurora,Accelerated Healing
+435,Aurora,Durability
+436,Aurora,Flight
+437,Aurora,Energy Blasts
+438,Aurora,Super Speed
+439,Aurora,Reflexes
+440,Aurora,Molecular Manipulation
+441,Aurora,Light Control
+442,Aurora,Illumination
+443,Aurora,Molecular Combustion
+444,Azazel,Accelerated Healing
+445,Azazel,Longevity
+446,Azazel,Teleportation
+447,Azazel,Dimensional Travel
+448,Azazel,Shapeshifting
+449,Azazel,Regeneration
+450,Azrael,Weapons Master
+451,Azrael,Super Strength
+452,Azrael,Stamina
+453,Azrael,Super Speed
+454,Azrael,Weapon-based Powers
+455,Aztar,Flight
+456,Aztar,Super Strength
+457,Aztar,Telepathy
+458,Aztar,Stamina
+459,Aztar,Astral Travel
+460,Aztar,Super Speed
+461,Aztar,Teleportation
+462,Aztar,Magic
+463,Aztar,Invulnerability
+464,Aztar,Precognition
+465,Aztar,Intangibility
+466,Aztar,Illusions
+467,Aztar,Invisibility
+468,Bane,Durability
+469,Bane,Super Strength
+470,Bane,Stamina
+471,Bane,Super Speed
+472,Bane,Enhanced Memory
+473,Bane,Reflexes
+474,Banshee,Flight
+475,Banshee,Audio Control
+476,Banshee,Force Fields
+477,Banshee,Enhanced Hearing
+478,Banshee,Sonar
+479,Banshee,Sonic Scream
+480,Bantam,Durability
+481,Bantam,Super Strength
+482,Bantam,Stamina
+483,Batgirl,Stealth
+484,Batgirl,Marksmanship
+485,Batgirl,Weapons Master
+486,Batgirl,Intelligence
+487,Batgirl,Stamina
+488,Batgirl,Weapon-based Powers
+489,Batgirl,Reflexes
+490,Batgirl IV,Agility
+491,Batgirl IV,Stealth
+492,Batgirl IV,Weapons Master
+493,Batgirl IV,Peak Human Condition
+494,Batgirl IV,Toxin and Disease Resistance
+495,Batgirl VI,Agility
+496,Batgirl VI,Marksmanship
+497,Batgirl VI,Stamina
+498,Batgirl VI,Weapon-based Powers
+499,Batman,Agility
+500,Batman,Durability
+501,Batman,Stealth
+502,Batman,Underwater breathing
+503,Batman,Marksmanship
+504,Batman,Weapons Master
+505,Batman,Intelligence
+506,Batman,Super Strength
+507,Batman,Stamina
+508,Batman,Super Speed
+509,Batman,Weapon-based Powers
+510,Batman,Peak Human Condition
+511,Batman,Reflexes
+512,Batman,Gliding
+513,Batman,Power Suit
+514,Batman,Vision - Night
+515,Batman,Vision - Infrared
+516,Batman II,Agility
+517,Batman II,Stealth
+518,Batman II,Marksmanship
+519,Batman II,Weapons Master
+520,Batman II,Intelligence
+521,Batman II,Stamina
+522,Batman II,Weapon-based Powers
+523,Batman II,Peak Human Condition
+524,Battlestar,Agility
+525,Battlestar,Durability
+526,Battlestar,Super Strength
+527,Battlestar,Stamina
+528,Battlestar,Super Speed
+529,Battlestar,Reflexes
+530,Batwoman V,Stealth
+531,Batwoman V,Marksmanship
+532,Batwoman V,Weapons Master
+533,Batwoman V,Intelligence
+534,Batwoman V,Stamina
+535,Batwoman V,Dexterity
+536,Beak,Flight
+537,Beak,Gliding
+538,Beak,Vision - Telescopic
+539,Beast,Agility
+540,Beast,Accelerated Healing
+541,Beast,Animal Attributes
+542,Beast,Intelligence
+543,Beast,Super Strength
+544,Beast,Stamina
+545,Beast,Dexterity
+546,Beast,Super Speed
+547,Beast,Enhanced Senses
+548,Beast,Jump
+549,Beast,Reflexes
+550,Beast,Natural Weapons
+551,Beast,Wallcrawling
+552,Beast,Vision - Night
+553,Beast Boy,Agility
+554,Beast Boy,Durability
+555,Beast Boy,Flight
+556,Beast Boy,Animal Attributes
+557,Beast Boy,Super Strength
+558,Beast Boy,Size Changing
+559,Beast Boy,Super Speed
+560,Beast Boy,Animal Oriented Powers
+561,Beast Boy,Shapeshifting
+562,Beast Boy,Empathy
+563,Beast Boy,Natural Armor
+564,Beast Boy,Natural Weapons
+565,Beast Boy,Sub-Mariner
+566,Beast Boy,Wallcrawling
+567,Ben 10,Omnitrix
+568,Ben 10,Shapeshifting
+569,Beta Ray Bill,Accelerated Healing
+570,Beta Ray Bill,Super Strength
+571,Beta Ray Bill,Stamina
+572,Beta Ray Bill,Super Speed
+573,Beta Ray Bill,Immortality
+574,Beta Ray Bill,Invulnerability
+575,Beta Ray Bill,Toxin and Disease Resistance
+576,Beyonder,Accelerated Healing
+577,Beyonder,Dimensional Awareness
+578,Beyonder,Energy Absorption
+579,Beyonder,Flight
+580,Beyonder,Super Strength
+581,Beyonder,Telepathy
+582,Beyonder,Energy Blasts
+583,Beyonder,Size Changing
+584,Beyonder,Super Speed
+585,Beyonder,Teleportation
+586,Beyonder,Telekinesis
+587,Beyonder,Shapeshifting
+588,Beyonder,Immortality
+589,Beyonder,Invulnerability
+590,Beyonder,Force Fields
+591,Beyonder,Psionic Powers
+592,Beyonder,Energy Manipulation
+593,Beyonder,Omnipotent
+594,Beyonder,Reality Warping
+595,Big Barda,Agility
+596,Big Barda,Durability
+597,Big Barda,Flight
+598,Big Barda,Longevity
+599,Big Barda,Super Strength
+600,Big Barda,Stamina
+601,Big Barda,Immortality
+602,Big Barda,Reflexes
+603,Big Barda,Invulnerability
+604,Big Barda,Toxin and Disease Resistance
+605,Big Daddy,Stamina
+606,Big Man,Marksmanship
+607,Bill Harken,Super Strength
+608,Bill Harken,Super Speed
+609,Bill Harken,Toxin and Disease Resistance
+610,Billy Kincaid,Possession
+611,Binary,Durability
+612,Binary,Energy Absorption
+613,Binary,Flight
+614,Binary,Super Strength
+615,Binary,Energy Blasts
+616,Binary,Super Speed
+617,Bionic Woman,Agility
+618,Bionic Woman,Durability
+619,Bionic Woman,Super Strength
+620,Bionic Woman,Stamina
+621,Bionic Woman,Super Speed
+622,Bionic Woman,Jump
+623,Bionic Woman,Enhanced Hearing
+624,Bird-Brain,Flight
+625,Bird-Brain,Animal Attributes
+626,Bird-Brain,Natural Weapons
+627,Bird-Man,Flight
+628,Bird-Man,Super Strength
+629,Bird-Man,Animal Oriented Powers
+630,Bird-Man,Natural Weapons
+631,Bird-Man II,Flight
+632,Bird-Man II,Power Suit
+633,Birdman,Agility
+634,Birdman,Energy Absorption
+635,Birdman,Flight
+636,Birdman,Longevity
+637,Birdman,Intelligence
+638,Birdman,Super Strength
+639,Birdman,Energy Blasts
+640,Birdman,Stamina
+641,Birdman,Immortality
+642,Birdman,Force Fields
+643,Bishop,Accelerated Healing
+644,Bishop,Energy Absorption
+645,Bishop,Super Strength
+646,Bishop,Energy Blasts
+647,Bishop,Stamina
+648,Bishop,Invulnerability
+649,Bishop,Time Travel
+650,Bishop,Energy Resistance
+651,Bizarro,Agility
+652,Bizarro,Accelerated Healing
+653,Bizarro,Durability
+654,Bizarro,Energy Absorption
+655,Bizarro,Flight
+656,Bizarro,Marksmanship
+657,Bizarro,Longevity
+658,Bizarro,Super Strength
+659,Bizarro,Cryokinesis
+660,Bizarro,Stamina
+661,Bizarro,Super Speed
+662,Bizarro,Enhanced Senses
+663,Bizarro,Jump
+664,Bizarro,Invulnerability
+665,Bizarro,Self-Sustenance
+666,Bizarro,Enhanced Hearing
+667,Bizarro,Hypnokinesis
+668,Bizarro,Enhanced Sight
+669,Bizarro,Vision - Telescopic
+670,Bizarro,Vision - Microscopic
+671,Bizarro,Super Breath
+672,Bizarro,Vision - X-Ray
+673,Bizarro,Vision - Cryo
+674,Black Abbott,Telepathy
+675,Black Abbott,Energy Blasts
+676,Black Abbott,Telekinesis
+677,Black Abbott,Mind Control
+678,Black Abbott,Mind Blast
+679,Black Adam,Accelerated Healing
+680,Black Adam,Flight
+681,Black Adam,Longevity
+682,Black Adam,Intelligence
+683,Black Adam,Super Strength
+684,Black Adam,Energy Blasts
+685,Black Adam,Stamina
+686,Black Adam,Super Speed
+687,Black Adam,Telekinesis
+688,Black Adam,Magic
+689,Black Adam,Clairvoyance
+690,Black Adam,Invulnerability
+691,Black Adam,Self-Sustenance
+692,Black Adam,Enhanced Hearing
+693,Black Bolt,Agility
+694,Black Bolt,Durability
+695,Black Bolt,Energy Absorption
+696,Black Bolt,Flight
+697,Black Bolt,Longevity
+698,Black Bolt,Super Strength
+699,Black Bolt,Telepathy
+700,Black Bolt,Energy Blasts
+701,Black Bolt,Stamina
+702,Black Bolt,Super Speed
+703,Black Bolt,Reflexes
+704,Black Bolt,Molecular Manipulation
+705,Black Bolt,Sonic Scream
+706,Black Canary,Agility
+707,Black Canary,Stealth
+708,Black Canary,Marksmanship
+709,Black Canary,Weapons Master
+710,Black Canary,Intelligence
+711,Black Canary,Stamina
+712,Black Canary,Audio Control
+713,Black Canary,Reflexes
+714,Black Canary,Sonic Scream
+715,Black Cat,Agility
+716,Black Cat,Super Strength
+717,Black Cat,Stamina
+718,Black Cat,Super Speed
+719,Black Cat,Reflexes
+720,Black Cat,Probability Manipulation
+721,Black Cat,Vision - Infrared
+722,Black Flash,Agility
+723,Black Flash,Stealth
+724,Black Flash,Flight
+725,Black Flash,Super Strength
+726,Black Flash,Stamina
+727,Black Flash,Super Speed
+728,Black Flash,Death Touch
+729,Black Flash,Enhanced Senses
+730,Black Flash,Dimensional Travel
+731,Black Flash,Immortality
+732,Black Flash,Intangibility
+733,Black Flash,Natural Weapons
+734,Black Flash,Time Manipulation
+735,Black Knight III,Weapon-based Powers
+736,Black Lightning,Energy Absorption
+737,Black Lightning,Flight
+738,Black Lightning,Energy Blasts
+739,Black Lightning,Electrokinesis
+740,Black Lightning,Peak Human Condition
+741,Black Lightning,Force Fields
+742,Black Lightning,Energy Manipulation
+743,Black Mamba,Darkforce Manipulation
+744,Black Mamba,Hypnokinesis
+745,Black Mamba,Illusions
+746,Black Manta,Agility
+747,Black Manta,Cold Resistance
+748,Black Manta,Durability
+749,Black Manta,Stealth
+750,Black Manta,Underwater breathing
+751,Black Manta,Marksmanship
+752,Black Manta,Weapons Master
+753,Black Manta,Super Strength
+754,Black Manta,Energy Blasts
+755,Black Manta,Stamina
+756,Black Manta,Super Speed
+757,Black Manta,Jump
+758,Black Manta,Peak Human Condition
+759,Black Manta,Camouflage
+760,Black Manta,Power Suit
+761,Black Manta,Vision - Telescopic
+762,Black Manta,Sub-Mariner
+763,Black Manta,Vision - Infrared
+764,Black Panther,Agility
+765,Black Panther,Stealth
+766,Black Panther,Marksmanship
+767,Black Panther,Weapons Master
+768,Black Panther,Stamina
+769,Black Panther,Enhanced Senses
+770,Black Panther,Peak Human Condition
+771,Black Panther,Enhanced Memory
+772,Black Panther,Reflexes
+773,Black Panther,Enhanced Hearing
+774,Black Panther,Enhanced Smell
+775,Black Panther,Vision - Telescopic
+776,Black Panther,Vision - Night
+777,Black Widow,Agility
+778,Black Widow,Stealth
+779,Black Widow,Marksmanship
+780,Black Widow,Weapons Master
+781,Black Widow,Longevity
+782,Black Widow,Intelligence
+783,Black Widow,Stamina
+784,Black Widow,Peak Human Condition
+785,Black Widow,Reflexes
+786,Blackout,Agility
+787,Blackout,Accelerated Healing
+788,Blackout,Durability
+789,Blackout,Super Strength
+790,Blackout,Stamina
+791,Blackout,Super Speed
+792,Blackout,Camouflage
+793,Blackout,Reflexes
+794,Blackout,Vision - Telescopic
+795,Blackout,Vision - Night
+796,Blackwing,Flight
+797,Blackwing,Telepathy
+798,Blackwulf,Durability
+799,Blackwulf,Super Strength
+800,Blackwulf,Energy Blasts
+801,Blackwulf,Death Touch
+802,Blade,Agility
+803,Blade,Accelerated Healing
+804,Blade,Weapons Master
+805,Blade,Super Strength
+806,Blade,Stamina
+807,Blade,Super Speed
+808,Blade,Enhanced Senses
+809,Blade,Enhanced Hearing
+810,Blade,Enhanced Smell
+811,Blade,Vision - Telescopic
+812,Blade,Vision - Night
+813,Bling!,Durability
+814,Bling!,Natural Armor
+815,Bling!,Natural Weapons
+816,Blink,Teleportation
+817,Blizzard,Cryokinesis
+818,Blizzard,Weapon-based Powers
+819,Blizzard II,Cryokinesis
+820,Blob,Durability
+821,Blob,Super Strength
+822,Blob,Gravity Control
+823,Bloodaxe,Agility
+824,Bloodaxe,Durability
+825,Bloodaxe,Super Strength
+826,Bloodaxe,Cryokinesis
+827,Bloodaxe,Energy Blasts
+828,Bloodaxe,Stamina
+829,Bloodaxe,Super Speed
+830,Bloodaxe,Weapon-based Powers
+831,Bloodaxe,Teleportation
+832,Bloodaxe,Fire Control
+833,Bloodaxe,Reflexes
+834,Bloodaxe,Invulnerability
+835,Bloodaxe,Magnetism
+836,Bloodhawk,Flight
+837,Bloodhawk,Enhanced Senses
+838,Bloodhawk,Shapeshifting
+839,Bloodhawk,Regeneration
+840,Bloodhawk,Natural Weapons
+841,Bloodhawk,Radiation Immunity
+842,Bloodhawk,Toxin and Disease Resistance
+843,Bloodwraith,Energy Absorption
+844,Bloodwraith,Weapons Master
+845,Bloodwraith,Super Strength
+846,Bloodwraith,Energy Blasts
+847,Bloodwraith,Weapon-based Powers
+848,Bloodwraith,Teleportation
+849,Bloodwraith,Telekinesis
+850,Bloodwraith,Magic
+851,Bloodwraith,Invulnerability
+852,Blue Beetle,Flight
+853,Blue Beetle,Super Strength
+854,Blue Beetle,Energy Blasts
+855,Blue Beetle II,Intelligence
+856,Blue Beetle III,Agility
+857,Blue Beetle III,Accelerated Healing
+858,Blue Beetle III,Cold Resistance
+859,Blue Beetle III,Flight
+860,Blue Beetle III,Super Strength
+861,Blue Beetle III,Energy Blasts
+862,Blue Beetle III,Force Fields
+863,Blue Beetle III,Technopath/Cyberpath
+864,Blue Beetle III,Power Suit
+865,Blue Beetle III,Energy Manipulation
+866,Blue Beetle III,Heat Resistance
+867,Blue Beetle III,Symbiote Costume
+868,Boba Fett,Agility
+869,Boba Fett,Stealth
+870,Boba Fett,Flight
+871,Boba Fett,Marksmanship
+872,Boba Fett,Weapons Master
+873,Boba Fett,Intelligence
+874,Boba Fett,Stamina
+875,Boba Fett,Enhanced Hearing
+876,Boba Fett,Enhanced Sight
+877,Boba Fett,Power Suit
+878,Boba Fett,Radar Sense
+879,Bomb Queen,Accelerated Healing
+880,Bomb Queen,Energy Blasts
+881,Boom-Boom,Agility
+882,Boom-Boom,Energy Absorption
+883,Boom-Boom,Energy Blasts
+884,Boom-Boom,Energy Beams
+885,Boom-Boom,Psionic Powers
+886,Boom-Boom,Energy Manipulation
+887,Booster Gold,Agility
+888,Booster Gold,Durability
+889,Booster Gold,Flight
+890,Booster Gold,Weapons Master
+891,Booster Gold,Longevity
+892,Booster Gold,Intelligence
+893,Booster Gold,Super Strength
+894,Booster Gold,Energy Blasts
+895,Booster Gold,Enhanced Senses
+896,Booster Gold,Invulnerability
+897,Booster Gold,Force Fields
+898,Booster Gold,Precognition
+899,Booster Gold,Enhanced Hearing
+900,Booster Gold,Power Suit
+901,Booster Gold,Time Travel
+902,Booster Gold,Time Manipulation
+903,Booster Gold,Vision - Infrared
+904,Booster Gold,Vision - X-Ray
+905,Box IV,Telekinesis
+906,Brainiac,Durability
+907,Brainiac,Flight
+908,Brainiac,Longevity
+909,Brainiac,Intelligence
+910,Brainiac,Super Strength
+911,Brainiac,Telepathy
+912,Brainiac,Super Speed
+913,Brainiac,Telekinesis
+914,Brainiac,Force Fields
+915,Brainiac,Self-Sustenance
+916,Brainiac,Omnilingualism
+917,Brainiac 5,Intelligence
+918,Brainiac 5,Energy Beams
+919,Brainiac 5,Force Fields
+920,Brother Voodoo,Magic
+921,Brundlefly,Agility
+922,Brundlefly,Stealth
+923,Brundlefly,Super Strength
+924,Brundlefly,Stamina
+925,Brundlefly,Toxin and Disease Control
+926,Brundlefly,Wallcrawling
+927,Buffy,Agility
+928,Buffy,Accelerated Healing
+929,Buffy,Durability
+930,Buffy,Stealth
+931,Buffy,Danger Sense
+932,Buffy,Super Strength
+933,Buffy,Stamina
+934,Buffy,Super Speed
+935,Buffy,Enhanced Memory
+936,Buffy,Reflexes
+937,Buffy,Psionic Powers
+938,Buffy,Vision - Telescopic
+939,Bullseye,Durability
+940,Bullseye,Marksmanship
+941,Bullseye,Weapons Master
+942,Bumblebee,Stealth
+943,Bumblebee,Flight
+944,Bumblebee,Intelligence
+945,Bumblebee,Super Strength
+946,Bumblebee,Energy Blasts
+947,Bumblebee,Size Changing
+948,Bumblebee,Stamina
+949,Bumblebee,Electrokinesis
+950,Bumblebee,Enhanced Sight
+951,Bumblebee,Power Suit
+952,Bumbleboy,Flight
+953,Bumbleboy,Telepathy
+954,Bushido,Agility
+955,Bushido,Weapons Master
+956,Cable,Agility
+957,Cable,Accelerated Healing
+958,Cable,Durability
+959,Cable,Stealth
+960,Cable,Flight
+961,Cable,Marksmanship
+962,Cable,Weapons Master
+963,Cable,Intelligence
+964,Cable,Super Strength
+965,Cable,Telepathy
+966,Cable,Energy Blasts
+967,Cable,Stamina
+968,Cable,Dexterity
+969,Cable,Super Speed
+970,Cable,Teleportation
+971,Cable,Telekinesis
+972,Cable,Astral Projection
+973,Cable,Force Fields
+974,Cable,Psionic Powers
+975,Cable,Technopath/Cyberpath
+976,Cable,Precognition
+977,Cable,Mind Control
+978,Cable,Molecular Manipulation
+979,Cable,Mind Blast
+980,Cable,Time Travel
+981,Cable,Illusions
+982,Cable,Cloaking
+983,Cable,Telepathy Resistance
+984,Cable,Mind Control Resistance
+985,Cable,Vision - Thermal
+986,Callisto,Agility
+987,Callisto,Accelerated Healing
+988,Callisto,Super Strength
+989,Callisto,Enhanced Senses
+990,Callisto,Reflexes
+991,Callisto,Wallcrawling
+992,Callisto,Vision - Night
+993,Cameron Hicks,Marksmanship
+994,Cameron Hicks,Hyperkinesis
+995,Cameron Hicks,Spatial Awareness
+996,Cannonball,Energy Absorption
+997,Cannonball,Flight
+998,Cannonball,Energy Armor
+999,Cannonball,Super Speed
+1000,Cannonball,Immortality
+1001,Captain America,Agility
+1002,Captain America,Durability
+1003,Captain America,Stealth
+1004,Captain America,Marksmanship
+1005,Captain America,Weapons Master
+1006,Captain America,Longevity
+1007,Captain America,Stamina
+1008,Captain America,Weapon-based Powers
+1009,Captain America,Peak Human Condition
+1010,Captain America,Reflexes
+1011,Captain Atom,Agility
+1012,Captain Atom,Accelerated Healing
+1013,Captain Atom,Energy Absorption
+1014,Captain Atom,Flight
+1015,Captain Atom,Weapons Master
+1016,Captain Atom,Super Strength
+1017,Captain Atom,Energy Blasts
+1018,Captain Atom,Super Speed
+1019,Captain Atom,Enhanced Senses
+1020,Captain Atom,Immortality
+1021,Captain Atom,Phasing
+1022,Captain Atom,Invulnerability
+1023,Captain Atom,Force Fields
+1024,Captain Atom,Self-Sustenance
+1025,Captain Atom,Radiation Control
+1026,Captain Atom,Technopath/Cyberpath
+1027,Captain Atom,Natural Armor
+1028,Captain Atom,Enhanced Sight
+1029,Captain Atom,Molecular Manipulation
+1030,Captain Atom,Heat Generation
+1031,Captain Atom,Energy Manipulation
+1032,Captain Atom,Time Travel
+1033,Captain Atom,Radiation Immunity
+1034,Captain Atom,Energy Resistance
+1035,Captain Atom,Time Manipulation
+1036,Captain Atom,Invisibility
+1037,Captain Atom,Radiation Absorption
+1038,Captain Britain,Agility
+1039,Captain Britain,Durability
+1040,Captain Britain,Stealth
+1041,Captain Britain,Flight
+1042,Captain Britain,Super Strength
+1043,Captain Britain,Stamina
+1044,Captain Britain,Super Speed
+1045,Captain Britain,Enhanced Senses
+1046,Captain Britain,Reflexes
+1047,Captain Britain,Force Fields
+1048,Captain Cold,Cryokinesis
+1049,Captain Cold,Weapon-based Powers
+1050,Captain Epic,Super Strength
+1051,Captain Epic,Super Speed
+1052,Captain Epic,Jump
+1053,Captain Hindsight,Flight
+1054,Captain Hindsight,Super Speed
+1055,Captain Hindsight,Enhanced Senses
+1056,Captain Marvel,Agility
+1057,Captain Marvel,Accelerated Healing
+1058,Captain Marvel,Cold Resistance
+1059,Captain Marvel,Durability
+1060,Captain Marvel,Energy Absorption
+1061,Captain Marvel,Flight
+1062,Captain Marvel,Danger Sense
+1063,Captain Marvel,Marksmanship
+1064,Captain Marvel,Longevity
+1065,Captain Marvel,Intelligence
+1066,Captain Marvel,Super Strength
+1067,Captain Marvel,Energy Blasts
+1068,Captain Marvel,Stamina
+1069,Captain Marvel,Super Speed
+1070,Captain Marvel,Teleportation
+1071,Captain Marvel,Magic
+1072,Captain Marvel,Clairvoyance
+1073,Captain Marvel,Immortality
+1074,Captain Marvel,Enhanced Memory
+1075,Captain Marvel,Reflexes
+1076,Captain Marvel,Invulnerability
+1077,Captain Marvel,Energy Constructs
+1078,Captain Marvel,Self-Sustenance
+1079,Captain Marvel,Precognition
+1080,Captain Marvel,Enhanced Hearing
+1081,Captain Marvel,Hypnokinesis
+1082,Captain Marvel,Levitation
+1083,Captain Marvel,Energy Manipulation
+1084,Captain Marvel,Heat Resistance
+1085,Captain Marvel,Toxin and Disease Resistance
+1086,Captain Marvel,Omnilingualism
+1087,Captain Marvel,Magic Resistance
+1088,Captain Marvel,Super Breath
+1089,Captain Marvel II,Intelligence
+1090,Captain Marvel II,Super Strength
+1091,Captain Marvel II,Clairvoyance
+1092,Captain Marvel II,Invulnerability
+1093,Captain Marvel II,Hypnokinesis
+1094,Captain Marvel II,Omnilingualism
+1095,Captain Midnight,Stealth
+1096,Captain Midnight,Flight
+1097,Captain Midnight,Marksmanship
+1098,Captain Midnight,Intelligence
+1099,Captain Planet,Flight
+1100,Captain Planet,Super Strength
+1101,Captain Planet,Cryokinesis
+1102,Captain Planet,Telepathy
+1103,Captain Planet,Energy Blasts
+1104,Captain Planet,Stamina
+1105,Captain Planet,Super Speed
+1106,Captain Planet,Electrokinesis
+1107,Captain Planet,Enhanced Senses
+1108,Captain Planet,Telekinesis
+1109,Captain Planet,Shapeshifting
+1110,Captain Planet,Immortality
+1111,Captain Planet,Element Control
+1112,Captain Planet,Fire Control
+1113,Captain Planet,Invulnerability
+1114,Captain Planet,Empathy
+1115,Captain Planet,Elemental Transmogrification
+1116,Captain Planet,Enhanced Hearing
+1117,Captain Planet,Enhanced Sight
+1118,Captain Planet,Molecular Manipulation
+1119,Captain Planet,Enhanced Smell
+1120,Captain Planet,Water Control
+1121,Captain Planet,Plant Control
+1122,Captain Planet,Sub-Mariner
+1123,Captain Planet,Super Breath
+1124,Captain Planet,Terrakinesis
+1125,Captain Universe,Cold Resistance
+1126,Captain Universe,Flight
+1127,Captain Universe,Power Augmentation
+1128,Captain Universe,Energy Blasts
+1129,Captain Universe,Enhanced Senses
+1130,Captain Universe,Molecular Manipulation
+1131,Captain Universe,Energy Manipulation
+1132,Captain Universe,Heat Resistance
+1133,Carnage,Agility
+1134,Carnage,Accelerated Healing
+1135,Carnage,Durability
+1136,Carnage,Danger Sense
+1137,Carnage,Super Strength
+1138,Carnage,Stamina
+1139,Carnage,Super Speed
+1140,Carnage,Weapon-based Powers
+1141,Carnage,Jump
+1142,Carnage,Shapeshifting
+1143,Carnage,Camouflage
+1144,Carnage,Reflexes
+1145,Carnage,Natural Weapons
+1146,Carnage,Wallcrawling
+1147,Carnage,Web Creation
+1148,Carnage,Symbiote Costume
+1149,Cat,Agility
+1150,Cat,Super Strength
+1151,Cat,Stamina
+1152,Cat,Enhanced Senses
+1153,Cat,Jump
+1154,Catwoman,Agility
+1155,Catwoman,Stealth
+1156,Catwoman,Marksmanship
+1157,Catwoman,Animal Attributes
+1158,Catwoman,Stamina
+1159,Catwoman,Dexterity
+1160,Catwoman,Peak Human Condition
+1161,Catwoman,Empathy
+1162,Century,Teleportation
+1163,Century,Dimensional Travel
+1164,Century,Regeneration
+1165,Cerebra,Power Sense
+1166,Chamber,Telepathy
+1167,Chamber,Energy Beams
+1168,Chamber,Psionic Powers
+1169,Chamber,Mind Blast
+1170,Chameleon,Shapeshifting
+1171,Changeling,Telepathy
+1172,Changeling,Telekinesis
+1173,Changeling,Shapeshifting
+1174,Cheetah,Agility
+1175,Cheetah,Stealth
+1176,Cheetah,Stamina
+1177,Cheetah,Animal Oriented Powers
+1178,Cheetah,Reflexes
+1179,Cheetah II,Agility
+1180,Cheetah II,Super Strength
+1181,Cheetah II,Stamina
+1182,Cheetah II,Super Speed
+1183,Cheetah II,Animal Oriented Powers
+1184,Cheetah II,Reflexes
+1185,Cheetah III,Agility
+1186,Cheetah III,Durability
+1187,Cheetah III,Stealth
+1188,Cheetah III,Animal Attributes
+1189,Cheetah III,Intelligence
+1190,Cheetah III,Super Strength
+1191,Cheetah III,Stamina
+1192,Cheetah III,Super Speed
+1193,Cheetah III,Animal Oriented Powers
+1194,Cheetah III,Enhanced Senses
+1195,Cheetah III,Jump
+1196,Cheetah III,Shapeshifting
+1197,Cheetah III,Reflexes
+1198,Cheetah III,Enhanced Hearing
+1199,Cheetah III,Animal Control
+1200,Cheetah III,Enhanced Sight
+1201,Cheetah III,Enhanced Smell
+1202,Cheetah III,Vision - Night
+1203,Chromos,Agility
+1204,Chromos,Super Strength
+1205,Chromos,Energy Blasts
+1206,Chromos,Stamina
+1207,Chromos,Teleportation
+1208,Chromos,Energy Beams
+1209,Chromos,Fire Control
+1210,Chromos,Reflexes
+1211,Chromos,Probability Manipulation
+1212,Chromos,Heat Resistance
+1213,Chromos,Telepathy Resistance
+1214,Chromos,Vision - Heat
+1215,Chuck Norris,Peak Human Condition
+1216,Citizen Steel,Agility
+1217,Citizen Steel,Durability
+1218,Citizen Steel,Super Strength
+1219,Citizen Steel,Super Speed
+1220,Citizen Steel,Jump
+1221,Citizen Steel,Reflexes
+1222,Citizen Steel,Natural Armor
+1223,Claire Bennet,Accelerated Healing
+1224,Claire Bennet,Regeneration
+1225,Cloak,Dimensional Awareness
+1226,Cloak,Darkforce Manipulation
+1227,Cloak,Teleportation
+1228,Cloak,Force Fields
+1229,Cloak,Intangibility
+1230,Cogliostro,Immortality
+1231,Cogliostro,Invulnerability
+1232,Colossus,Cold Resistance
+1233,Colossus,Durability
+1234,Colossus,Super Strength
+1235,Colossus,Stamina
+1236,Colossus,Super Speed
+1237,Colossus,Invulnerability
+1238,Colossus,Self-Sustenance
+1239,Colossus,Natural Armor
+1240,Colossus,Heat Resistance
+1241,Copycat,Stealth
+1242,Copycat,Weapons Master
+1243,Copycat,Shapeshifting
+1244,Copycat,Camouflage
+1245,Copycat,Power Absorption
+1246,Cottonmouth,Super Strength
+1247,Crimson Crusader,Flight
+1248,Crimson Crusader,Longevity
+1249,Crimson Crusader,Force Fields
+1250,Crimson Crusader,Gravity Control
+1251,Crimson Dynamo,Durability
+1252,Crimson Dynamo,Flight
+1253,Crimson Dynamo,Super Strength
+1254,Crimson Dynamo,Energy Blasts
+1255,Crystal,Super Strength
+1256,Crystal,Stamina
+1257,Crystal,Super Speed
+1258,Crystal,Element Control
+1259,Crystal,Fire Control
+1260,Crystal,Reflexes
+1261,Crystal,Water Control
+1262,Crystal,Wind Control
+1263,Curse,Intelligence
+1264,Curse,Energy Blasts
+1265,Curse,Magic
+1266,Cy-Gor,Animal Attributes
+1267,Cy-Gor,Super Strength
+1268,Cy-Gor,Stamina
+1269,Cy-Gor,Dexterity
+1270,Cy-Gor,Super Speed
+1271,Cy-Gor,Enhanced Senses
+1272,Cy-Gor,Technopath/Cyberpath
+1273,Cyborg,Durability
+1274,Cyborg,Flight
+1275,Cyborg,Super Strength
+1276,Cyborg,Stamina
+1277,Cyborg,Super Speed
+1278,Cyborg,Weapon-based Powers
+1279,Cyborg,Enhanced Senses
+1280,Cyborg,Technopath/Cyberpath
+1281,Cyborg,Enhanced Hearing
+1282,Cyborg,Natural Armor
+1283,Cyborg,Power Suit
+1284,Cyborg,Vision - Thermal
+1285,Cyborg Superman,Durability
+1286,Cyborg Superman,Energy Absorption
+1287,Cyborg Superman,Flight
+1288,Cyborg Superman,Super Strength
+1289,Cyborg Superman,Stamina
+1290,Cyborg Superman,Super Speed
+1291,Cyborg Superman,Immortality
+1292,Cyborg Superman,Invulnerability
+1293,Cyborg Superman,Energy Constructs
+1294,Cyborg Superman,Technopath/Cyberpath
+1295,Cyborg Superman,Enhanced Hearing
+1296,Cyborg Superman,Molecular Manipulation
+1297,Cyborg Superman,Energy Manipulation
+1298,Cyborg Superman,Vision - Telescopic
+1299,Cyborg Superman,Vision - Microscopic
+1300,Cyborg Superman,Vision - Night
+1301,Cyborg Superman,Vision - Heat
+1302,Cyborg Superman,Qwardian Power Ring
+1303,Cyborg Superman,Vision - X-Ray
+1304,Cyclops,Agility
+1305,Cyclops,Energy Absorption
+1306,Cyclops,Marksmanship
+1307,Cyclops,Intelligence
+1308,Cyclops,Energy Blasts
+1309,Cyclops,Energy Beams
+1310,Cyclops,Energy Resistance
+1311,DL Hawkins,Phasing
+1312,Dagger,Energy Blasts
+1313,Dagger,Light Control
+1314,Dagger,Natural Weapons
+1315,Daphne Powell,Telepathy
+1316,Daredevil,Agility
+1317,Daredevil,Stealth
+1318,Daredevil,Marksmanship
+1319,Daredevil,Weapons Master
+1320,Daredevil,Intelligence
+1321,Daredevil,Telepathy
+1322,Daredevil,Stamina
+1323,Daredevil,Enhanced Senses
+1324,Daredevil,Reflexes
+1325,Daredevil,Enhanced Hearing
+1326,Daredevil,Echolocation
+1327,Daredevil,Enhanced Smell
+1328,Daredevil,Enhanced Touch
+1329,Daredevil,Radar Sense
+1330,Darkhawk,Durability
+1331,Darkhawk,Flight
+1332,Darkhawk,Energy Blasts
+1333,Darkhawk,Weapon-based Powers
+1334,Darkhawk,Force Fields
+1335,Darkhawk,Power Suit
+1336,Darkhawk,Vision - Telescopic
+1337,Darkhawk,Vision - Infrared
+1338,Darkman,Durability
+1339,Darkman,Intelligence
+1340,Darkman,Super Strength
+1341,Darkseid,Agility
+1342,Darkseid,Accelerated Healing
+1343,Darkseid,Dimensional Awareness
+1344,Darkseid,Flight
+1345,Darkseid,Marksmanship
+1346,Darkseid,Intelligence
+1347,Darkseid,Super Strength
+1348,Darkseid,Telepathy
+1349,Darkseid,Energy Blasts
+1350,Darkseid,Size Changing
+1351,Darkseid,Stamina
+1352,Darkseid,Super Speed
+1353,Darkseid,Teleportation
+1354,Darkseid,Telekinesis
+1355,Darkseid,Energy Beams
+1356,Darkseid,Dimensional Travel
+1357,Darkseid,Immortality
+1358,Darkseid,Astral Projection
+1359,Darkseid,Reflexes
+1360,Darkseid,Invulnerability
+1361,Darkseid,Force Fields
+1362,Darkseid,Psionic Powers
+1363,Darkseid,Mind Control
+1364,Darkseid,Molecular Manipulation
+1365,Darkseid,Levitation
+1366,Darkseid,Energy Manipulation
+1367,Darkseid,Toxin and Disease Resistance
+1368,Darkseid,Resurrection
+1369,Darkstar,Flight
+1370,Darkstar,Energy Blasts
+1371,Darkstar,Teleportation
+1372,Darkstar,Energy Constructs
+1373,Darkstar,Energy Manipulation
+1374,Darth Maul,Agility
+1375,Darth Maul,Durability
+1376,Darth Maul,Stealth
+1377,Darth Maul,Danger Sense
+1378,Darth Maul,Marksmanship
+1379,Darth Maul,Weapons Master
+1380,Darth Maul,Super Strength
+1381,Darth Maul,Telepathy
+1382,Darth Maul,Stamina
+1383,Darth Maul,Electrokinesis
+1384,Darth Maul,Darkforce Manipulation
+1385,Darth Maul,Telekinesis
+1386,Darth Maul,Illusions
+1387,Darth Maul,The Force
+1388,Darth Vader,Agility
+1389,Darth Vader,Accelerated Healing
+1390,Darth Vader,Durability
+1391,Darth Vader,Stealth
+1392,Darth Vader,Danger Sense
+1393,Darth Vader,Marksmanship
+1394,Darth Vader,Weapons Master
+1395,Darth Vader,Intelligence
+1396,Darth Vader,Telepathy
+1397,Darth Vader,Energy Blasts
+1398,Darth Vader,Super Speed
+1399,Darth Vader,Electrokinesis
+1400,Darth Vader,Enhanced Senses
+1401,Darth Vader,Telekinesis
+1402,Darth Vader,Jump
+1403,Darth Vader,Astral Projection
+1404,Darth Vader,Reflexes
+1405,Darth Vader,Force Fields
+1406,Darth Vader,Psionic Powers
+1407,Darth Vader,Precognition
+1408,Darth Vader,Enhanced Hearing
+1409,Darth Vader,Hypnokinesis
+1410,Darth Vader,Light Control
+1411,Darth Vader,Illusions
+1412,Darth Vader,Cloaking
+1413,Darth Vader,The Force
+1414,Dash,Agility
+1415,Dash,Stamina
+1416,Dash,Super Speed
+1417,Dash,Reflexes
+1418,Data,Agility
+1419,Data,Cold Resistance
+1420,Data,Durability
+1421,Data,Longevity
+1422,Data,Intelligence
+1423,Data,Super Strength
+1424,Data,Super Speed
+1425,Data,Enhanced Senses
+1426,Data,Enhanced Memory
+1427,Data,Reflexes
+1428,Data,Technopath/Cyberpath
+1429,Data,Enhanced Hearing
+1430,Data,Enhanced Sight
+1431,Data,Heat Resistance
+1432,Data,Enhanced Smell
+1433,Data,Omnilingualism
+1434,Dazzler,Agility
+1435,Dazzler,Energy Absorption
+1436,Dazzler,Marksmanship
+1437,Dazzler,Energy Blasts
+1438,Dazzler,Stamina
+1439,Dazzler,Audio Control
+1440,Dazzler,Energy Beams
+1441,Dazzler,Energy Constructs
+1442,Dazzler,Force Fields
+1443,Dazzler,Heat Generation
+1444,Dazzler,Light Control
+1445,Dazzler,Levitation
+1446,Dazzler,Energy Manipulation
+1447,Dazzler,Illusions
+1448,Dazzler,Resurrection
+1449,Deadman,Agility
+1450,Deadman,Lantern Power Ring
+1451,Deadman,Flight
+1452,Deadman,Stamina
+1453,Deadman,Possession
+1454,Deadman,Teleportation
+1455,Deadman,Magic
+1456,Deadman,Immortality
+1457,Deadman,Phasing
+1458,Deadman,Intangibility
+1459,Deadman,Levitation
+1460,Deadman,Invisibility
+1461,Deadpool,Agility
+1462,Deadpool,Accelerated Healing
+1463,Deadpool,Dimensional Awareness
+1464,Deadpool,Stealth
+1465,Deadpool,Marksmanship
+1466,Deadpool,Weapons Master
+1467,Deadpool,Longevity
+1468,Deadpool,Stamina
+1469,Deadpool,Weapon-based Powers
+1470,Deadpool,Teleportation
+1471,Deadpool,Immortality
+1472,Deadpool,Reflexes
+1473,Deadpool,Regeneration
+1474,Deadpool,Toxin and Disease Resistance
+1475,Deadpool,Telepathy Resistance
+1476,Deadpool,Mind Control Resistance
+1477,Deadshot,Stealth
+1478,Deadshot,Marksmanship
+1479,Deadshot,Weapons Master
+1480,Deadshot,Stamina
+1481,Deathlok,Agility
+1482,Deathlok,Durability
+1483,Deathlok,Intelligence
+1484,Deathlok,Super Strength
+1485,Deathlok,Stamina
+1486,Deathlok,Super Speed
+1487,Deathlok,Enhanced Memory
+1488,Deathlok,Reflexes
+1489,Deathlok,Vision - Telescopic
+1490,Deathlok,Vision - Microscopic
+1491,Deathlok,Vision - Infrared
+1492,Deathstroke,Agility
+1493,Deathstroke,Accelerated Healing
+1494,Deathstroke,Durability
+1495,Deathstroke,Weapons Master
+1496,Deathstroke,Longevity
+1497,Deathstroke,Super Strength
+1498,Deathstroke,Super Speed
+1499,Deathstroke,Weapon-based Powers
+1500,Deathstroke,Enhanced Senses
+1501,Deathstroke,Reflexes
+1502,Deathstroke,Toxin and Disease Resistance
+1503,Demogoblin,Agility
+1504,Demogoblin,Super Strength
+1505,Demogoblin,Telepathy
+1506,Demogoblin,Stamina
+1507,Demogoblin,Super Speed
+1508,Demogoblin,Magic
+1509,Demogoblin,Reflexes
+1510,Demogoblin,Natural Weapons
+1511,Destroyer,Super Strength
+1512,Destroyer,Energy Blasts
+1513,Destroyer,Size Changing
+1514,Destroyer,Molecular Manipulation
+1515,Destroyer,Levitation
+1516,Diamondback,Marksmanship
+1517,Diamondback,Weapons Master
+1518,Doc Samson,Durability
+1519,Doc Samson,Super Strength
+1520,Doc Samson,Stamina
+1521,Doctor Doom,Durability
+1522,Doctor Doom,Flight
+1523,Doctor Doom,Super Strength
+1524,Doctor Doom,Energy Blasts
+1525,Doctor Doom,Stamina
+1526,Doctor Doom,Astral Travel
+1527,Doctor Doom,Super Speed
+1528,Doctor Doom,Weapon-based Powers
+1529,Doctor Doom,Electrokinesis
+1530,Doctor Doom,Teleportation
+1531,Doctor Doom,Magic
+1532,Doctor Doom,Dimensional Travel
+1533,Doctor Doom,Summoning
+1534,Doctor Doom,Force Fields
+1535,Doctor Doom,Time Travel
+1536,Doctor Doom II,Flight
+1537,Doctor Doom II,Super Strength
+1538,Doctor Doom II,Energy Blasts
+1539,Doctor Doom II,Force Fields
+1540,Doctor Doom II,Psionic Powers
+1541,Doctor Fate,Accelerated Healing
+1542,Doctor Fate,Dimensional Awareness
+1543,Doctor Fate,Flight
+1544,Doctor Fate,Longevity
+1545,Doctor Fate,Super Strength
+1546,Doctor Fate,Telepathy
+1547,Doctor Fate,Energy Blasts
+1548,Doctor Fate,Super Speed
+1549,Doctor Fate,Teleportation
+1550,Doctor Fate,Telekinesis
+1551,Doctor Fate,Dimensional Travel
+1552,Doctor Fate,Phasing
+1553,Doctor Fate,Astral Projection
+1554,Doctor Fate,Energy Constructs
+1555,Doctor Fate,Mind Control
+1556,Doctor Fate,Molecular Manipulation
+1557,Doctor Fate,Illusions
+1558,Doctor Fate,Energy Resistance
+1559,Doctor Fate,Magnetism
+1560,Doctor Fate,Time Manipulation
+1561,Doctor Fate,Invisibility
+1562,Doctor Fate,Resurrection
+1563,Doctor Octopus,Agility
+1564,Doctor Octopus,Marksmanship
+1565,Doctor Octopus,Intelligence
+1566,Doctor Octopus,Super Strength
+1567,Doctor Octopus,Stamina
+1568,Doctor Octopus,Super Speed
+1569,Doctor Octopus,Weapon-based Powers
+1570,Doctor Octopus,Technopath/Cyberpath
+1571,Doctor Octopus,Power Suit
+1572,Doctor Octopus,Wallcrawling
+1573,Doctor Strange,Dimensional Awareness
+1574,Doctor Strange,Flight
+1575,Doctor Strange,Longevity
+1576,Doctor Strange,Telepathy
+1577,Doctor Strange,Energy Blasts
+1578,Doctor Strange,Teleportation
+1579,Doctor Strange,Telekinesis
+1580,Doctor Strange,Magic
+1581,Doctor Strange,Dimensional Travel
+1582,Doctor Strange,Phasing
+1583,Doctor Strange,Astral Projection
+1584,Doctor Strange,Summoning
+1585,Doctor Strange,Force Fields
+1586,Doctor Strange,Hypnokinesis
+1587,Doctor Strange,Intangibility
+1588,Doctor Strange,Banish
+1589,Doctor Strange,Time Travel
+1590,Doctor Strange,Illusions
+1591,Doctor Strange,Time Manipulation
+1592,Doctor Strange,Invisibility
+1593,Domino,Agility
+1594,Domino,Marksmanship
+1595,Domino,Reflexes
+1596,Domino,Probability Manipulation
+1597,Donatello,Agility
+1598,Donatello,Accelerated Healing
+1599,Donatello,Stealth
+1600,Donatello,Marksmanship
+1601,Donatello,Weapons Master
+1602,Donatello,Stamina
+1603,Donatello,Jump
+1604,Donatello,Natural Armor
+1605,Donatello,Sub-Mariner
+1606,Donna Troy,Flight
+1607,Donna Troy,Super Strength
+1608,Donna Troy,Super Speed
+1609,Doomsday,Agility
+1610,Doomsday,Accelerated Healing
+1611,Doomsday,Cold Resistance
+1612,Doomsday,Durability
+1613,Doomsday,Energy Absorption
+1614,Doomsday,Super Strength
+1615,Doomsday,Stamina
+1616,Doomsday,Super Speed
+1617,Doomsday,Jump
+1618,Doomsday,Reflexes
+1619,Doomsday,Invulnerability
+1620,Doomsday,Self-Sustenance
+1621,Doomsday,Power Absorption
+1622,Doomsday,Natural Armor
+1623,Doomsday,Adaptation
+1624,Doomsday,Regeneration
+1625,Doomsday,Heat Resistance
+1626,Doomsday,Natural Weapons
+1627,Doomsday,Energy Resistance
+1628,Doomsday,Resurrection
+1629,Doppelganger,Agility
+1630,Doppelganger,Accelerated Healing
+1631,Doppelganger,Super Strength
+1632,Doppelganger,Stamina
+1633,Doppelganger,Super Speed
+1634,Doppelganger,Shapeshifting
+1635,Doppelganger,Reflexes
+1636,Doppelganger,Natural Weapons
+1637,Doppelganger,Wallcrawling
+1638,Dormammu,Power Augmentation
+1639,Dormammu,Super Strength
+1640,Dormammu,Telepathy
+1641,Dormammu,Size Changing
+1642,Dormammu,Stamina
+1643,Dormammu,Super Speed
+1644,Dormammu,Darkforce Manipulation
+1645,Dormammu,Teleportation
+1646,Dormammu,Magic
+1647,Dormammu,Dimensional Travel
+1648,Dormammu,Shapeshifting
+1649,Dormammu,Immortality
+1650,Dormammu,Molecular Manipulation
+1651,Dr Manhattan,Accelerated Healing
+1652,Dr Manhattan,Durability
+1653,Dr Manhattan,Energy Absorption
+1654,Dr Manhattan,Flight
+1655,Dr Manhattan,Longevity
+1656,Dr Manhattan,Intelligence
+1657,Dr Manhattan,Super Strength
+1658,Dr Manhattan,Energy Blasts
+1659,Dr Manhattan,Duplication
+1660,Dr Manhattan,Size Changing
+1661,Dr Manhattan,Density Control
+1662,Dr Manhattan,Super Speed
+1663,Dr Manhattan,Teleportation
+1664,Dr Manhattan,Telekinesis
+1665,Dr Manhattan,Immortality
+1666,Dr Manhattan,Phasing
+1667,Dr Manhattan,Invulnerability
+1668,Dr Manhattan,Energy Constructs
+1669,Dr Manhattan,Force Fields
+1670,Dr Manhattan,Self-Sustenance
+1671,Dr Manhattan,Precognition
+1672,Dr Manhattan,Intangibility
+1673,Dr Manhattan,Molecular Manipulation
+1674,Dr Manhattan,Energy Manipulation
+1675,Dr Manhattan,Time Travel
+1676,Dr Manhattan,Omnilingualism
+1677,Dr Manhattan,Time Manipulation
+1678,Dr Manhattan,Matter Absorption
+1679,Dr Manhattan,Molecular Dissipation
+1680,Drax the Destroyer,Agility
+1681,Drax the Destroyer,Accelerated Healing
+1682,Drax the Destroyer,Cold Resistance
+1683,Drax the Destroyer,Durability
+1684,Drax the Destroyer,Weapons Master
+1685,Drax the Destroyer,Super Strength
+1686,Drax the Destroyer,Stamina
+1687,Drax the Destroyer,Enhanced Senses
+1688,Drax the Destroyer,Self-Sustenance
+1689,Drax the Destroyer,Heat Resistance
+1690,Drax the Destroyer,Enhanced Smell
+1691,Ego,Energy Absorption
+1692,Ego,Super Strength
+1693,Ego,Super Speed
+1694,Elastigirl,Agility
+1695,Elastigirl,Durability
+1696,Elastigirl,Super Strength
+1697,Elastigirl,Size Changing
+1698,Elastigirl,Shapeshifting
+1699,Elastigirl,Invulnerability
+1700,Elastigirl,Elasticity
+1701,Electro,Super Speed
+1702,Electro,Electrokinesis
+1703,Electro,Electrical Transport
+1704,Elektra,Agility
+1705,Elektra,Stealth
+1706,Elektra,Danger Sense
+1707,Elektra,Marksmanship
+1708,Elektra,Weapons Master
+1709,Elektra,Intelligence
+1710,Elektra,Telepathy
+1711,Elektra,Peak Human Condition
+1712,Elektra,Hypnokinesis
+1713,Elektra,Telepathy Resistance
+1714,Elle Bishop,Electrokinesis
+1715,Elongated Man,Agility
+1716,Elongated Man,Durability
+1717,Elongated Man,Size Changing
+1718,Elongated Man,Shapeshifting
+1719,Elongated Man,Elasticity
+1720,Emma Frost,Durability
+1721,Emma Frost,Super Strength
+1722,Emma Frost,Telepathy
+1723,Emma Frost,Density Control
+1724,Emma Frost,Stamina
+1725,Emma Frost,Possession
+1726,Emma Frost,Camouflage
+1727,Emma Frost,Astral Projection
+1728,Emma Frost,Psionic Powers
+1729,Emma Frost,Mind Control
+1730,Emma Frost,Natural Armor
+1731,Emma Frost,Illusions
+1732,Emma Frost,Telepathy Resistance
+1733,Emma Frost,Mind Control Resistance
+1734,Enchantress,Accelerated Healing
+1735,Enchantress,Durability
+1736,Enchantress,Flight
+1737,Enchantress,Super Strength
+1738,Enchantress,Teleportation
+1739,Enchantress,Enhanced Senses
+1740,Enchantress,Magic
+1741,Enchantress,Element Control
+1742,Enchantress,Phasing
+1743,Enchantress,Fire Control
+1744,Enchantress,Reflexes
+1745,Enchantress,Energy Constructs
+1746,Enchantress,Intangibility
+1747,Enchantress,Illusions
+1748,Energy,Flight
+1749,Energy,Electrokinesis
+1750,Energy,Energy Manipulation
+1751,Ethan Hunt,Agility
+1752,Ethan Hunt,Durability
+1753,Ethan Hunt,Stealth
+1754,Ethan Hunt,Marksmanship
+1755,Ethan Hunt,Weapons Master
+1756,Ethan Hunt,Intelligence
+1757,Ethan Hunt,Stamina
+1758,Ethan Hunt,Reflexes
+1759,Etrigan,Accelerated Healing
+1760,Etrigan,Durability
+1761,Etrigan,Super Strength
+1762,Etrigan,Energy Blasts
+1763,Etrigan,Enhanced Senses
+1764,Etrigan,Magic
+1765,Etrigan,Jump
+1766,Etrigan,Immortality
+1767,Etrigan,Precognition
+1768,Etrigan,Natural Weapons
+1769,Evil Deadpool,Agility
+1770,Evil Deadpool,Accelerated Healing
+1771,Evil Deadpool,Dimensional Awareness
+1772,Evil Deadpool,Stealth
+1773,Evil Deadpool,Marksmanship
+1774,Evil Deadpool,Weapons Master
+1775,Evil Deadpool,Longevity
+1776,Evil Deadpool,Stamina
+1777,Evil Deadpool,Weapon-based Powers
+1778,Evil Deadpool,Teleportation
+1779,Evil Deadpool,Immortality
+1780,Evil Deadpool,Reflexes
+1781,Evil Deadpool,Regeneration
+1782,Evil Deadpool,Toxin and Disease Resistance
+1783,Evil Deadpool,Telepathy Resistance
+1784,Evil Deadpool,Mind Control Resistance
+1785,Evilhawk,Accelerated Healing
+1786,Evilhawk,Durability
+1787,Evilhawk,Flight
+1788,Evilhawk,Super Strength
+1789,Evilhawk,Energy Blasts
+1790,Evilhawk,Weapon-based Powers
+1791,Evilhawk,Force Fields
+1792,Evilhawk,Power Suit
+1793,Evilhawk,Vision - Telescopic
+1794,Evilhawk,Vision - Infrared
+1795,Exodus,Accelerated Healing
+1796,Exodus,Flight
+1797,Exodus,Telepathy
+1798,Exodus,Energy Blasts
+1799,Exodus,Teleportation
+1800,Exodus,Telekinesis
+1801,Exodus,Astral Projection
+1802,Exodus,Psionic Powers
+1803,Exodus,Mind Blast
+1804,Exodus,Regeneration
+1805,Exodus,Illusions
+1806,Exodus,Resurrection
+1807,Fabian Cortez,Power Augmentation
+1808,Falcon,Flight
+1809,Falcon,Telepathy
+1810,Falcon,Animal Oriented Powers
+1811,Falcon,Gliding
+1812,Fallen One II,Accelerated Healing
+1813,Fallen One II,Durability
+1814,Fallen One II,Energy Absorption
+1815,Fallen One II,Flight
+1816,Fallen One II,Super Strength
+1817,Fallen One II,Telepathy
+1818,Fallen One II,Energy Blasts
+1819,Fallen One II,Size Changing
+1820,Fallen One II,Super Speed
+1821,Fallen One II,Darkforce Manipulation
+1822,Fallen One II,Enhanced Senses
+1823,Fallen One II,Phasing
+1824,Fallen One II,Invulnerability
+1825,Fallen One II,Self-Sustenance
+1826,Fallen One II,Gravity Control
+1827,Fallen One II,Energy Manipulation
+1828,Fallen One II,Time Travel
+1829,Fallen One II,Illusions
+1830,Faora,Accelerated Healing
+1831,Faora,Durability
+1832,Faora,Energy Absorption
+1833,Faora,Flight
+1834,Faora,Longevity
+1835,Faora,Intelligence
+1836,Faora,Super Strength
+1837,Faora,Stamina
+1838,Faora,Super Speed
+1839,Faora,Enhanced Senses
+1840,Faora,Jump
+1841,Faora,Invulnerability
+1842,Faora,Enhanced Hearing
+1843,Faora,Hypnokinesis
+1844,Faora,Vision - Telescopic
+1845,Faora,Vision - Microscopic
+1846,Faora,Super Breath
+1847,Faora,Vision - Heat
+1848,Faora,Vision - X-Ray
+1849,Feral,Agility
+1850,Feral,Accelerated Healing
+1851,Feral,Super Strength
+1852,Feral,Super Speed
+1853,Feral,Animal Oriented Powers
+1854,Feral,Enhanced Senses
+1855,Feral,Jump
+1856,Feral,Reflexes
+1857,Feral,Natural Weapons
+1858,Fighting Spirit,Flight
+1859,Fighting Spirit,Super Strength
+1860,Fighting Spirit,Invulnerability
+1861,Fin Fang Foom,Accelerated Healing
+1862,Fin Fang Foom,Durability
+1863,Fin Fang Foom,Flight
+1864,Fin Fang Foom,Longevity
+1865,Fin Fang Foom,Super Strength
+1866,Fin Fang Foom,Telepathy
+1867,Fin Fang Foom,Stamina
+1868,Fin Fang Foom,Possession
+1869,Fin Fang Foom,Shapeshifting
+1870,Fin Fang Foom,Substance Secretion
+1871,Firebird,Flight
+1872,Firebird,Energy Blasts
+1873,Firebird,Immortality
+1874,Firebird,Fire Control
+1875,Firebird,Fire Resistance
+1876,Firebird,Energy Manipulation
+1877,Firebird,Heat Resistance
+1878,Firelord,Durability
+1879,Firelord,Flight
+1880,Firelord,Energy Blasts
+1881,Firelord,Fire Control
+1882,Firelord,Energy Manipulation
+1883,Firelord,Heat Resistance
+1884,Firestar,Flight
+1885,Firestar,Energy Blasts
+1886,Firestar,Enhanced Senses
+1887,Firestar,Heat Generation
+1888,Firestar,Energy Manipulation
+1889,Firestar,Energy Resistance
+1890,Firestorm,Durability
+1891,Firestorm,Energy Absorption
+1892,Firestorm,Flight
+1893,Firestorm,Super Strength
+1894,Firestorm,Energy Blasts
+1895,Firestorm,Density Control
+1896,Firestorm,Shapeshifting
+1897,Firestorm,Phasing
+1898,Firestorm,Fire Control
+1899,Firestorm,Enhanced Memory
+1900,Firestorm,Energy Constructs
+1901,Firestorm,Self-Sustenance
+1902,Firestorm,Psionic Powers
+1903,Firestorm,Molecular Manipulation
+1904,Firestorm,Heat Generation
+1905,Firestorm,Regeneration
+1906,Firestorm,Energy Manipulation
+1907,Firestorm,Heat Resistance
+1908,Firestorm,Vision - Telescopic
+1909,Firestorm,Vision - Microscopic
+1910,Firestorm,Vision - X-Ray
+1911,Firestorm,Vision - Thermal
+1912,Flash,Accelerated Healing
+1913,Flash,Energy Absorption
+1914,Flash,Flight
+1915,Flash,Longevity
+1916,Flash,Stamina
+1917,Flash,Super Speed
+1918,Flash,Enhanced Senses
+1919,Flash,Phasing
+1920,Flash,Reflexes
+1921,Flash,Energy Constructs
+1922,Flash,Self-Sustenance
+1923,Flash Gordon,Marksmanship
+1924,Flash II,Agility
+1925,Flash II,Accelerated Healing
+1926,Flash II,Energy Absorption
+1927,Flash II,Flight
+1928,Flash II,Longevity
+1929,Flash II,Energy Blasts
+1930,Flash II,Stamina
+1931,Flash II,Super Speed
+1932,Flash II,Enhanced Senses
+1933,Flash II,Phasing
+1934,Flash II,Reflexes
+1935,Flash II,Energy Constructs
+1936,Flash II,Self-Sustenance
+1937,Flash II,Time Travel
+1938,Flash II,Speed Force
+1939,Flash III,Accelerated Healing
+1940,Flash III,Flight
+1941,Flash III,Longevity
+1942,Flash III,Super Strength
+1943,Flash III,Stamina
+1944,Flash III,Super Speed
+1945,Flash III,Enhanced Senses
+1946,Flash III,Dimensional Travel
+1947,Flash III,Phasing
+1948,Flash III,Reflexes
+1949,Flash III,Energy Constructs
+1950,Flash III,Self-Sustenance
+1951,Flash III,Power Absorption
+1952,Flash III,Time Travel
+1953,Flash IV,Accelerated Healing
+1954,Flash IV,Super Speed
+1955,Flash IV,Dimensional Travel
+1956,Flash IV,Enhanced Memory
+1957,Flash IV,Reflexes
+1958,Flash IV,Energy Constructs
+1959,Flash IV,Time Travel
+1960,Forge,Intelligence
+1961,Forge,Magic
+1962,Franklin Richards,Agility
+1963,Franklin Richards,Dimensional Awareness
+1964,Franklin Richards,Durability
+1965,Franklin Richards,Flight
+1966,Franklin Richards,Longevity
+1967,Franklin Richards,Intelligence
+1968,Franklin Richards,Super Strength
+1969,Franklin Richards,Telepathy
+1970,Franklin Richards,Energy Blasts
+1971,Franklin Richards,Duplication
+1972,Franklin Richards,Stamina
+1973,Franklin Richards,Super Speed
+1974,Franklin Richards,Teleportation
+1975,Franklin Richards,Telekinesis
+1976,Franklin Richards,Immortality
+1977,Franklin Richards,Astral Projection
+1978,Franklin Richards,Invulnerability
+1979,Franklin Richards,Force Fields
+1980,Franklin Richards,Animation
+1981,Franklin Richards,Precognition
+1982,Franklin Richards,Molecular Manipulation
+1983,Franklin Richards,Energy Manipulation
+1984,Franklin Richards,Time Travel
+1985,Franklin Richards,Illusions
+1986,Franklin Richards,Omnipotent
+1987,Franklin Richards,Telepathy Resistance
+1988,Franklin Richards,Time Manipulation
+1989,Franklin Richards,Grim Reaping
+1990,Franklin Richards,Reality Warping
+1991,Frenzy,Cold Resistance
+1992,Frenzy,Super Strength
+1993,Frenzy,Stamina
+1994,Frenzy,Invulnerability
+1995,Frenzy,Heat Resistance
+1996,Frigga,Super Strength
+1997,Frigga,Magic
+1998,Galactus,Accelerated Healing
+1999,Galactus,Dimensional Awareness
+2000,Galactus,Durability
+2001,Galactus,Energy Absorption
+2002,Galactus,Flight
+2003,Galactus,Marksmanship
+2004,Galactus,Longevity
+2005,Galactus,Intelligence
+2006,Galactus,Super Strength
+2007,Galactus,Telepathy
+2008,Galactus,Energy Blasts
+2009,Galactus,Size Changing
+2010,Galactus,Stamina
+2011,Galactus,Super Speed
+2012,Galactus,Teleportation
+2013,Galactus,Telekinesis
+2014,Galactus,Energy Beams
+2015,Galactus,Dimensional Travel
+2016,Galactus,Immortality
+2017,Galactus,Invulnerability
+2018,Galactus,Force Fields
+2019,Galactus,Psionic Powers
+2020,Galactus,Molecular Manipulation
+2021,Galactus,Regeneration
+2022,Galactus,Levitation
+2023,Galactus,Energy Manipulation
+2024,Galactus,Power Cosmic
+2025,Galactus,Toxin and Disease Resistance
+2026,Galactus,Portal Creation
+2027,Galactus,Grim Reaping
+2028,Galactus,Resurrection
+2029,Galactus,Vitakinesis
+2030,Gambit,Agility
+2031,Gambit,Telekinesis
+2032,Gambit,Psionic Powers
+2033,Gambit,Energy Manipulation
+2034,Gambit,Telepathy Resistance
+2035,Gamora,Agility
+2036,Gamora,Accelerated Healing
+2037,Gamora,Durability
+2038,Gamora,Stealth
+2039,Gamora,Marksmanship
+2040,Gamora,Weapons Master
+2041,Gamora,Intelligence
+2042,Gamora,Super Strength
+2043,Gamora,Stamina
+2044,Gamora,Super Speed
+2045,Gamora,Enhanced Senses
+2046,Gamora,Reflexes
+2047,Gamora,Telepathy Resistance
+2048,Garbage Man,Accelerated Healing
+2049,Gary Bell,Intelligence
+2050,Gary Bell,Enhanced Senses
+2051,General Zod,Accelerated Healing
+2052,General Zod,Durability
+2053,General Zod,Energy Absorption
+2054,General Zod,Flight
+2055,General Zod,Longevity
+2056,General Zod,Intelligence
+2057,General Zod,Super Strength
+2058,General Zod,Stamina
+2059,General Zod,Super Speed
+2060,General Zod,Enhanced Senses
+2061,General Zod,Jump
+2062,General Zod,Invulnerability
+2063,General Zod,Enhanced Hearing
+2064,General Zod,Hypnokinesis
+2065,General Zod,Vision - Telescopic
+2066,General Zod,Vision - Microscopic
+2067,General Zod,Super Breath
+2068,General Zod,Vision - Heat
+2069,General Zod,Vision - X-Ray
+2070,Genesis,Projection
+2071,Genesis,Psionic Powers
+2072,Ghost Rider,Agility
+2073,Ghost Rider,Accelerated Healing
+2074,Ghost Rider,Durability
+2075,Ghost Rider,Marksmanship
+2076,Ghost Rider,Longevity
+2077,Ghost Rider,Super Strength
+2078,Ghost Rider,Energy Blasts
+2079,Ghost Rider,Stamina
+2080,Ghost Rider,Super Speed
+2081,Ghost Rider,Weapon-based Powers
+2082,Ghost Rider,Magic
+2083,Ghost Rider,Shapeshifting
+2084,Ghost Rider,Fire Control
+2085,Ghost Rider,Invulnerability
+2086,Ghost Rider,Psionic Powers
+2087,Ghost Rider,Fire Resistance
+2088,Ghost Rider,Heat Generation
+2089,Ghost Rider,Heat Resistance
+2090,Ghost Rider,Magic Resistance
+2091,Ghost Rider II,Durability
+2092,Ghost Rider II,Super Strength
+2093,Ghost Rider II,Fire Control
+2094,Ghost Rider II,Fire Resistance
+2095,Ghost Rider II,Heat Resistance
+2096,Giganta,Durability
+2097,Giganta,Intelligence
+2098,Giganta,Super Strength
+2099,Giganta,Size Changing
+2100,Gladiator,Agility
+2101,Gladiator,Accelerated Healing
+2102,Gladiator,Flight
+2103,Gladiator,Longevity
+2104,Gladiator,Super Strength
+2105,Gladiator,Stamina
+2106,Gladiator,Super Speed
+2107,Gladiator,Reflexes
+2108,Gladiator,Invulnerability
+2109,Gladiator,Enhanced Hearing
+2110,Gladiator,Enhanced Smell
+2111,Gladiator,Telepathy Resistance
+2112,Gladiator,Vision - Microscopic
+2113,Gladiator,Super Breath
+2114,Gladiator,Vision - Heat
+2115,Goblin Queen,Telepathy
+2116,Goblin Queen,Telekinesis
+2117,Goblin Queen,Summoning
+2118,Godzilla,Agility
+2119,Godzilla,Durability
+2120,Godzilla,Energy Absorption
+2121,Godzilla,Danger Sense
+2122,Godzilla,Longevity
+2123,Godzilla,Super Strength
+2124,Godzilla,Energy Blasts
+2125,Godzilla,Stamina
+2126,Godzilla,Energy Beams
+2127,Godzilla,Immortality
+2128,Godzilla,Invulnerability
+2129,Godzilla,Enhanced Hearing
+2130,Godzilla,Natural Armor
+2131,Godzilla,Enhanced Sight
+2132,Godzilla,Heat Resistance
+2133,Godzilla,Natural Weapons
+2134,Godzilla,Enhanced Smell
+2135,Godzilla,Sub-Mariner
+2136,Gog,Agility
+2137,Gog,Super Strength
+2138,Gog,Natural Weapons
+2139,Goku,Agility
+2140,Goku,Accelerated Healing
+2141,Goku,Flight
+2142,Goku,Danger Sense
+2143,Goku,Marksmanship
+2144,Goku,Weapons Master
+2145,Goku,Longevity
+2146,Goku,Super Strength
+2147,Goku,Telepathy
+2148,Goku,Energy Blasts
+2149,Goku,Duplication
+2150,Goku,Stamina
+2151,Goku,Super Speed
+2152,Goku,Electrokinesis
+2153,Goku,Teleportation
+2154,Goku,Jump
+2155,Goku,Shapeshifting
+2156,Goku,Immortality
+2157,Goku,Invulnerability
+2158,Goku,Energy Constructs
+2159,Goku,Force Fields
+2160,Goku,Levitation
+2161,Goku,Energy Manipulation
+2162,Goku,Enhanced Smell
+2163,Goku,Radar Sense
+2164,Goliath IV,Super Strength
+2165,Goliath IV,Size Changing
+2166,Gorilla Grodd,Agility
+2167,Gorilla Grodd,Durability
+2168,Gorilla Grodd,Animal Attributes
+2169,Gorilla Grodd,Intelligence
+2170,Gorilla Grodd,Super Strength
+2171,Gorilla Grodd,Telepathy
+2172,Gorilla Grodd,Energy Blasts
+2173,Gorilla Grodd,Telekinesis
+2174,Gorilla Grodd,Mind Control
+2175,Gorilla Grodd,Enhanced Hearing
+2176,Gorilla Grodd,Animal Control
+2177,Gorilla Grodd,Molecular Manipulation
+2178,Gorilla Grodd,Natural Weapons
+2179,Granny Goodness,Durability
+2180,Granny Goodness,Super Strength
+2181,Gravity,Flight
+2182,Gravity,Energy Blasts
+2183,Gravity,Force Fields
+2184,Gravity,Molecular Manipulation
+2185,Gravity,Gravity Control
+2186,Greedo,Weapons Master
+2187,Green Arrow,Agility
+2188,Green Arrow,Stealth
+2189,Green Arrow,Marksmanship
+2190,Green Arrow,Weapons Master
+2191,Green Arrow,Stamina
+2192,Green Arrow,Peak Human Condition
+2193,Green Goblin,Agility
+2194,Green Goblin,Accelerated Healing
+2195,Green Goblin,Durability
+2196,Green Goblin,Marksmanship
+2197,Green Goblin,Intelligence
+2198,Green Goblin,Super Strength
+2199,Green Goblin,Stamina
+2200,Green Goblin,Super Speed
+2201,Green Goblin,Reflexes
+2202,Green Goblin,Insanity
+2203,Green Goblin II,Accelerated Healing
+2204,Green Goblin II,Durability
+2205,Green Goblin II,Intelligence
+2206,Green Goblin II,Super Strength
+2207,Green Goblin II,Stamina
+2208,Green Goblin II,Super Speed
+2209,Green Goblin II,Reflexes
+2210,Green Goblin II,Insanity
+2211,Green Goblin III,Durability
+2212,Green Goblin III,Super Strength
+2213,Green Goblin IV,Durability
+2214,Green Goblin IV,Super Strength
+2215,Groot,Durability
+2216,Groot,Longevity
+2217,Groot,Intelligence
+2218,Groot,Super Strength
+2219,Groot,Duplication
+2220,Groot,Size Changing
+2221,Groot,Stamina
+2222,Groot,Invulnerability
+2223,Groot,Fire Resistance
+2224,Groot,Regeneration
+2225,Groot,Plant Control
+2226,Groot,Matter Absorption
+2227,Groot,Resurrection
+2228,Guy Gardner,Lantern Power Ring
+2229,Guy Gardner,Durability
+2230,Guy Gardner,Flight
+2231,Guy Gardner,Marksmanship
+2232,Guy Gardner,Super Strength
+2233,Guy Gardner,Energy Blasts
+2234,Guy Gardner,Stamina
+2235,Guy Gardner,Super Speed
+2236,Guy Gardner,Energy Beams
+2237,Guy Gardner,Reflexes
+2238,Guy Gardner,Energy Constructs
+2239,Guy Gardner,Force Fields
+2240,Hal Jordan,Agility
+2241,Hal Jordan,Lantern Power Ring
+2242,Hal Jordan,Flight
+2243,Hal Jordan,Marksmanship
+2244,Hal Jordan,Weapons Master
+2245,Hal Jordan,Super Strength
+2246,Hal Jordan,Energy Armor
+2247,Hal Jordan,Energy Blasts
+2248,Hal Jordan,Stamina
+2249,Hal Jordan,Super Speed
+2250,Hal Jordan,Weapon-based Powers
+2251,Hal Jordan,Energy Beams
+2252,Hal Jordan,Reflexes
+2253,Hal Jordan,Energy Constructs
+2254,Hal Jordan,Force Fields
+2255,Han Solo,Agility
+2256,Han Solo,Stealth
+2257,Han Solo,Marksmanship
+2258,Han Solo,Weapons Master
+2259,Han Solo,Stamina
+2260,Hancock,Agility
+2261,Hancock,Accelerated Healing
+2262,Hancock,Durability
+2263,Hancock,Flight
+2264,Hancock,Super Strength
+2265,Hancock,Stamina
+2266,Hancock,Super Speed
+2267,Hancock,Immortality
+2268,Hancock,Reflexes
+2269,Hancock,Invulnerability
+2270,Hancock,Toxin and Disease Resistance
+2271,Harley Quinn,Agility
+2272,Harley Quinn,Accelerated Healing
+2273,Harley Quinn,Stealth
+2274,Harley Quinn,Marksmanship
+2275,Harley Quinn,Intelligence
+2276,Harley Quinn,Super Strength
+2277,Harley Quinn,Stamina
+2278,Harley Quinn,Peak Human Condition
+2279,Harley Quinn,Reflexes
+2280,Harley Quinn,Toxin and Disease Resistance
+2281,Harry Potter,Agility
+2282,Harry Potter,Accelerated Healing
+2283,Harry Potter,Stealth
+2284,Harry Potter,Intelligence
+2285,Harry Potter,Telepathy
+2286,Harry Potter,Energy Blasts
+2287,Harry Potter,Stamina
+2288,Harry Potter,Teleportation
+2289,Harry Potter,Telekinesis
+2290,Harry Potter,Magic
+2291,Harry Potter,Shapeshifting
+2292,Harry Potter,Energy Constructs
+2293,Harry Potter,Force Fields
+2294,Harry Potter,Hypnokinesis
+2295,Harry Potter,Animal Control
+2296,Harry Potter,Illusions
+2297,Harry Potter,Invisibility
+2298,Harry Potter,Reality Warping
+2299,Havok,Energy Absorption
+2300,Havok,Flight
+2301,Havok,Energy Blasts
+2302,Havok,Power Suit
+2303,Havok,Heat Resistance
+2304,Havok,Radiation Immunity
+2305,Hawk,Accelerated Healing
+2306,Hawk,Flight
+2307,Hawk,Super Strength
+2308,Hawk,Stamina
+2309,Hawk,Super Speed
+2310,Hawk,Invulnerability
+2311,Hawk,Natural Weapons
+2312,Hawkeye,Agility
+2313,Hawkeye,Stealth
+2314,Hawkeye,Marksmanship
+2315,Hawkeye,Weapons Master
+2316,Hawkeye,Stamina
+2317,Hawkeye,Peak Human Condition
+2318,Hawkeye II,Weapons Master
+2319,Hawkeye II,Stamina
+2320,Hawkeye II,Enhanced Memory
+2321,Hawkeye II,Photographic Reflexes
+2322,Hawkgirl,Accelerated Healing
+2323,Hawkgirl,Cold Resistance
+2324,Hawkgirl,Durability
+2325,Hawkgirl,Flight
+2326,Hawkgirl,Super Strength
+2327,Hawkgirl,Immortality
+2328,Hawkgirl,Reflexes
+2329,Hawkgirl,Vision - Telescopic
+2330,Hawkman,Animal Oriented Powers
+2331,Heat Wave,Weapon-based Powers
+2332,Hela,Agility
+2333,Hela,Accelerated Healing
+2334,Hela,Durability
+2335,Hela,Longevity
+2336,Hela,Super Strength
+2337,Hela,Stamina
+2338,Hela,Super Speed
+2339,Hela,Death Touch
+2340,Hela,Teleportation
+2341,Hela,Magic
+2342,Hela,Astral Projection
+2343,Hela,Invulnerability
+2344,Hela,Enhanced Hearing
+2345,Hela,Enhanced Sight
+2346,Hela,Illusions
+2347,Hela,Omnilingualism
+2348,Hellboy,Accelerated Healing
+2349,Hellboy,Durability
+2350,Hellboy,Weapons Master
+2351,Hellboy,Longevity
+2352,Hellboy,Super Strength
+2353,Hellboy,Stamina
+2354,Hellboy,Enhanced Senses
+2355,Hellboy,Magic
+2356,Hellboy,Invulnerability
+2357,Hellboy,Fire Resistance
+2358,Hellboy,Enhanced Sight
+2359,Hellboy,Heat Resistance
+2360,Hellboy,Grim Reaping
+2361,Hellcat,Agility
+2362,Hellcat,Danger Sense
+2363,Hellcat,Intelligence
+2364,Hellcat,Super Strength
+2365,Hellcat,Peak Human Condition
+2366,Hellcat,Natural Weapons
+2367,Hellcat,Magic Resistance
+2368,Hellstorm,Accelerated Healing
+2369,Hellstorm,Flight
+2370,Hellstorm,Energy Blasts
+2371,Hellstorm,Teleportation
+2372,Hellstorm,Magic
+2373,Hellstorm,Fire Control
+2374,Hellstorm,Time Travel
+2375,Hercules,Accelerated Healing
+2376,Hercules,Durability
+2377,Hercules,Longevity
+2378,Hercules,Super Strength
+2379,Hercules,Stamina
+2380,Hercules,Super Speed
+2381,Hercules,Immortality
+2382,Hercules,Invulnerability
+2383,Hiro Nakamura,Teleportation
+2384,Hiro Nakamura,Time Travel
+2385,Hit-Girl,Agility
+2386,Hit-Girl,Stealth
+2387,Hit-Girl,Intelligence
+2388,Hit-Girl,Stamina
+2389,Hit-Girl,Weapon-based Powers
+2390,Hit-Girl,Reflexes
+2391,Hobgoblin,Super Strength
+2392,Hobgoblin,Stamina
+2393,Hobgoblin,Super Speed
+2394,Hobgoblin,Reflexes
+2395,Hollow,Durability
+2396,Hollow,Natural Weapons
+2397,Hollow,Telepathy Resistance
+2398,Hope Summers,Energy Absorption
+2399,Hope Summers,Telepathy
+2400,Hope Summers,Energy Blasts
+2401,Hope Summers,Telekinesis
+2402,Hope Summers,Power Absorption
+2403,Hope Summers,Natural Armor
+2404,Hope Summers,Vision - Heat
+2405,Hulk,Agility
+2406,Hulk,Accelerated Healing
+2407,Hulk,Cold Resistance
+2408,Hulk,Durability
+2409,Hulk,Longevity
+2410,Hulk,Super Strength
+2411,Hulk,Stamina
+2412,Hulk,Super Speed
+2413,Hulk,Jump
+2414,Hulk,Reflexes
+2415,Hulk,Invulnerability
+2416,Hulk,Self-Sustenance
+2417,Hulk,Heat Resistance
+2418,Hulk,Radiation Immunity
+2419,Hulk,Toxin and Disease Resistance
+2420,Hulk,Mind Control Resistance
+2421,Hulk,Radiation Absorption
+2422,Hulk,Super Breath
+2423,Human Torch,Agility
+2424,Human Torch,Energy Absorption
+2425,Human Torch,Flight
+2426,Human Torch,Marksmanship
+2427,Human Torch,Energy Blasts
+2428,Human Torch,Super Speed
+2429,Human Torch,Fire Control
+2430,Human Torch,Fire Resistance
+2431,Human Torch,Heat Generation
+2432,Human Torch,Heat Resistance
+2433,Human Torch,Super Breath
+2434,Huntress,Marksmanship
+2435,Huntress,Peak Human Condition
+2436,Husk,Durability
+2437,Husk,Super Strength
+2438,Husk,Density Control
+2439,Husk,Super Speed
+2440,Husk,Shapeshifting
+2441,Husk,Molecular Manipulation
+2442,Hybrid,Agility
+2443,Hybrid,Accelerated Healing
+2444,Hybrid,Durability
+2445,Hybrid,Stealth
+2446,Hybrid,Flight
+2447,Hybrid,Danger Sense
+2448,Hybrid,Marksmanship
+2449,Hybrid,Super Strength
+2450,Hybrid,Stamina
+2451,Hybrid,Super Speed
+2452,Hybrid,Jump
+2453,Hybrid,Shapeshifting
+2454,Hybrid,Camouflage
+2455,Hybrid,Reflexes
+2456,Hybrid,Substance Secretion
+2457,Hybrid,Natural Armor
+2458,Hybrid,Gliding
+2459,Hybrid,Natural Weapons
+2460,Hybrid,Wallcrawling
+2461,Hybrid,Matter Absorption
+2462,Hybrid,Web Creation
+2463,Hybrid,Symbiote Costume
+2464,Hydro-Man,Underwater breathing
+2465,Hydro-Man,Size Changing
+2466,Hydro-Man,Shapeshifting
+2467,Hydro-Man,Invulnerability
+2468,Hydro-Man,Psionic Powers
+2469,Hydro-Man,Natural Weapons
+2470,Hydro-Man,Water Control
+2471,Hyperion,Agility
+2472,Hyperion,Durability
+2473,Hyperion,Flight
+2474,Hyperion,Longevity
+2475,Hyperion,Intelligence
+2476,Hyperion,Super Strength
+2477,Hyperion,Stamina
+2478,Hyperion,Super Speed
+2479,Hyperion,Enhanced Senses
+2480,Hyperion,Energy Beams
+2481,Hyperion,Invulnerability
+2482,Hyperion,Enhanced Hearing
+2483,Hyperion,Enhanced Sight
+2484,Hyperion,Vision - Microscopic
+2485,Hyperion,Super Breath
+2486,Hyperion,Vision - Infrared
+2487,Hyperion,Vision - Heat
+2488,Hyperion,Vision - X-Ray
+2489,Iceman,Agility
+2490,Iceman,Accelerated Healing
+2491,Iceman,Cold Resistance
+2492,Iceman,Durability
+2493,Iceman,Marksmanship
+2494,Iceman,Super Strength
+2495,Iceman,Cryokinesis
+2496,Iceman,Energy Blasts
+2497,Iceman,Duplication
+2498,Iceman,Size Changing
+2499,Iceman,Stamina
+2500,Iceman,Invulnerability
+2501,Iceman,Elemental Transmogrification
+2502,Iceman,Heat Generation
+2503,Iceman,Water Control
+2504,Iceman,Vision - Thermal
+2505,Impulse,Accelerated Healing
+2506,Impulse,Flight
+2507,Impulse,Longevity
+2508,Impulse,Stamina
+2509,Impulse,Super Speed
+2510,Impulse,Enhanced Senses
+2511,Impulse,Phasing
+2512,Impulse,Enhanced Memory
+2513,Impulse,Energy Constructs
+2514,Impulse,Enhanced Hearing
+2515,Impulse,Enhanced Smell
+2516,Impulse,Enhanced Touch
+2517,Indiana Jones,Intelligence
+2518,Indiana Jones,Stamina
+2519,Indiana Jones,Reflexes
+2520,Indigo,Lantern Power Ring
+2521,Indigo,Flight
+2522,Indigo,Intelligence
+2523,Indigo,Teleportation
+2524,Indigo,Energy Constructs
+2525,Indigo,Force Fields
+2526,Ink,Accelerated Healing
+2527,Ink,Flight
+2528,Ink,Super Strength
+2529,Ink,Telepathy
+2530,Ink,Toxin and Disease Control
+2531,Ink,Molecular Combustion
+2532,Ink,Vitakinesis
+2533,Invisible Woman,Stealth
+2534,Invisible Woman,Intelligence
+2535,Invisible Woman,Energy Constructs
+2536,Invisible Woman,Force Fields
+2537,Invisible Woman,Psionic Powers
+2538,Invisible Woman,Levitation
+2539,Invisible Woman,Invisibility
+2540,Iron Fist,Agility
+2541,Iron Fist,Accelerated Healing
+2542,Iron Fist,Cold Resistance
+2543,Iron Fist,Durability
+2544,Iron Fist,Energy Absorption
+2545,Iron Fist,Danger Sense
+2546,Iron Fist,Weapons Master
+2547,Iron Fist,Longevity
+2548,Iron Fist,Super Strength
+2549,Iron Fist,Energy Blasts
+2550,Iron Fist,Stamina
+2551,Iron Fist,Super Speed
+2552,Iron Fist,Enhanced Senses
+2553,Iron Fist,Peak Human Condition
+2554,Iron Fist,Reflexes
+2555,Iron Fist,Empathy
+2556,Iron Fist,Psionic Powers
+2557,Iron Fist,Heat Resistance
+2558,Iron Fist,Illusions
+2559,Iron Fist,Toxin and Disease Resistance
+2560,Iron Fist,Magic Resistance
+2561,Iron Man,Accelerated Healing
+2562,Iron Man,Durability
+2563,Iron Man,Energy Absorption
+2564,Iron Man,Flight
+2565,Iron Man,Underwater breathing
+2566,Iron Man,Marksmanship
+2567,Iron Man,Super Strength
+2568,Iron Man,Energy Blasts
+2569,Iron Man,Stamina
+2570,Iron Man,Super Speed
+2571,Iron Man,Weapon-based Powers
+2572,Iron Man,Energy Beams
+2573,Iron Man,Reflexes
+2574,Iron Man,Force Fields
+2575,Iron Man,Power Suit
+2576,Iron Man,Radiation Immunity
+2577,Iron Man,Vision - Telescopic
+2578,Iron Man,Magnetism
+2579,Iron Man,Invisibility
+2580,Iron Man,Vision - Night
+2581,Iron Man,Vision - Thermal
+2582,Iron Monger,Durability
+2583,Iron Monger,Flight
+2584,Iron Monger,Intelligence
+2585,Iron Monger,Super Strength
+2586,Iron Monger,Energy Beams
+2587,Isis,Accelerated Healing
+2588,Isis,Durability
+2589,Isis,Flight
+2590,Isis,Intelligence
+2591,Isis,Super Strength
+2592,Isis,Stamina
+2593,Isis,Super Speed
+2594,Isis,Telekinesis
+2595,Isis,Element Control
+2596,Isis,Plant Control
+2597,JJ Powell,Intelligence
+2598,Jack of Hearts,Accelerated Healing
+2599,Jack of Hearts,Cold Resistance
+2600,Jack of Hearts,Durability
+2601,Jack of Hearts,Flight
+2602,Jack of Hearts,Intelligence
+2603,Jack of Hearts,Super Strength
+2604,Jack of Hearts,Energy Blasts
+2605,Jack of Hearts,Stamina
+2606,Jack of Hearts,Super Speed
+2607,Jack of Hearts,Heat Resistance
+2608,Jack-Jack,Agility
+2609,Jack-Jack,Flight
+2610,Jack-Jack,Super Strength
+2611,Jack-Jack,Density Control
+2612,Jack-Jack,Super Speed
+2613,Jack-Jack,Teleportation
+2614,Jack-Jack,Enhanced Senses
+2615,Jack-Jack,Telekinesis
+2616,Jack-Jack,Shapeshifting
+2617,Jack-Jack,Phasing
+2618,Jack-Jack,Invulnerability
+2619,Jack-Jack,Substance Secretion
+2620,Jack-Jack,Intangibility
+2621,Jack-Jack,Molecular Manipulation
+2622,Jack-Jack,Heat Generation
+2623,Jack-Jack,Levitation
+2624,Jack-Jack,Vision - Heat
+2625,Jack-Jack,Vision - X-Ray
+2626,James Bond,Durability
+2627,James Bond,Stealth
+2628,James Bond,Marksmanship
+2629,James Bond,Weapons Master
+2630,James Bond,Intelligence
+2631,James Bond,Stamina
+2632,James Bond,Reflexes
+2633,James T. Kirk,Stealth
+2634,James T. Kirk,Marksmanship
+2635,James T. Kirk,Weapons Master
+2636,James T. Kirk,Intelligence
+2637,James T. Kirk,Stamina
+2638,Jar Jar Binks,Agility
+2639,Jar Jar Binks,Stealth
+2640,Jar Jar Binks,Enhanced Smell
+2641,Jar Jar Binks,Sub-Mariner
+2642,Jason Bourne,Agility
+2643,Jason Bourne,Durability
+2644,Jason Bourne,Stealth
+2645,Jason Bourne,Marksmanship
+2646,Jason Bourne,Weapons Master
+2647,Jason Bourne,Intelligence
+2648,Jason Bourne,Stamina
+2649,Jason Bourne,Reflexes
+2650,Jean Grey,Energy Absorption
+2651,Jean Grey,Telepathy
+2652,Jean Grey,Telekinesis
+2653,Jean Grey,Astral Projection
+2654,Jean Grey,Force Fields
+2655,Jean Grey,Psionic Powers
+2656,Jean Grey,Mind Control
+2657,Jean Grey,Mind Blast
+2658,Jean Grey,Levitation
+2659,Jean Grey,Energy Manipulation
+2660,Jean Grey,Illusions
+2661,Jean Grey,Telepathy Resistance
+2662,Jennifer Kale,Magic
+2663,Jennifer Kale,Force Fields
+2664,Jennifer Kale,Portal Creation
+2665,Jessica Cruz,Agility
+2666,Jessica Cruz,Lantern Power Ring
+2667,Jessica Cruz,Flight
+2668,Jessica Cruz,Marksmanship
+2669,Jessica Cruz,Super Strength
+2670,Jessica Cruz,Energy Armor
+2671,Jessica Cruz,Energy Blasts
+2672,Jessica Cruz,Stamina
+2673,Jessica Cruz,Super Speed
+2674,Jessica Cruz,Energy Beams
+2675,Jessica Cruz,Reflexes
+2676,Jessica Cruz,Energy Constructs
+2677,Jessica Cruz,Force Fields
+2678,Jessica Jones,Durability
+2679,Jessica Jones,Flight
+2680,Jessica Jones,Super Strength
+2681,Jessica Jones,Super Speed
+2682,Jessica Jones,Telepathy Resistance
+2683,Jim Powell,Durability
+2684,Jim Powell,Super Strength
+2685,Jim Powell,Jump
+2686,Johann Krauss,Telepathy
+2687,Johann Krauss,Self-Sustenance
+2688,John Constantine,Accelerated Healing
+2689,John Constantine,Magic
+2690,John Constantine,Summoning
+2691,John Constantine,Illusions
+2692,John Constantine,Telepathy Resistance
+2693,John Stewart,Lantern Power Ring
+2694,John Stewart,Durability
+2695,John Stewart,Flight
+2696,John Stewart,Marksmanship
+2697,John Stewart,Weapons Master
+2698,John Stewart,Intelligence
+2699,John Stewart,Super Strength
+2700,John Stewart,Energy Armor
+2701,John Stewart,Energy Blasts
+2702,John Stewart,Super Speed
+2703,John Stewart,Energy Beams
+2704,John Stewart,Energy Constructs
+2705,John Stewart,Force Fields
+2706,John Stewart,Energy Manipulation
+2707,John Wraith,Longevity
+2708,John Wraith,Teleportation
+2709,John Wraith,Psionic Powers
+2710,Joker,Durability
+2711,Joker,Stealth
+2712,Joker,Marksmanship
+2713,Joker,Weapons Master
+2714,Joker,Intelligence
+2715,Joker,Stamina
+2716,Joker,Insanity
+2717,Joker,Toxin and Disease Resistance
+2718,Jolt,Super Strength
+2719,Jolt,Energy Blasts
+2720,Jolt,Super Speed
+2721,Jolt,Reflexes
+2722,Jubilee,Energy Absorption
+2723,Jubilee,Energy Blasts
+2724,Jubilee,Energy Manipulation
+2725,Judge Dredd,Agility
+2726,Judge Dredd,Marksmanship
+2727,Judge Dredd,Weapons Master
+2728,Judge Dredd,Stamina
+2729,Judge Dredd,Weapon-based Powers
+2730,Judge Dredd,Peak Human Condition
+2731,Judge Dredd,Reflexes
+2732,Judge Dredd,Enhanced Sight
+2733,Judge Dredd,Vision - Telescopic
+2734,Judge Dredd,Vision - Night
+2735,Juggernaut,Accelerated Healing
+2736,Juggernaut,Durability
+2737,Juggernaut,Super Strength
+2738,Juggernaut,Stamina
+2739,Juggernaut,Super Speed
+2740,Juggernaut,Invulnerability
+2741,Juggernaut,Force Fields
+2742,Juggernaut,Self-Sustenance
+2743,Juggernaut,Toxin and Disease Resistance
+2744,Junkpile,Durability
+2745,Junkpile,Super Strength
+2746,Junkpile,Stamina
+2747,Junkpile,Telekinesis
+2748,Junkpile,Invulnerability
+2749,Junkpile,Regeneration
+2750,Junkpile,Magnetism
+2751,Justice,Flight
+2752,Justice,Energy Blasts
+2753,Justice,Super Speed
+2754,Justice,Telekinesis
+2755,Justice,Force Fields
+2756,Justice,Psionic Powers
+2757,K-2SO,Durability
+2758,K-2SO,Marksmanship
+2759,K-2SO,Stamina
+2760,K-2SO,Natural Armor
+2761,Kang,Durability
+2762,Kang,Longevity
+2763,Kang,Super Strength
+2764,Kang,Energy Blasts
+2765,Kang,Electrokinesis
+2766,Kang,Force Fields
+2767,Kang,Anti-Gravity
+2768,Kang,Levitation
+2769,Kang,Time Travel
+2770,Karate Kid,Agility
+2771,Karate Kid,Stealth
+2772,Karate Kid,Flight
+2773,Karate Kid,Weapons Master
+2774,Karate Kid,Intelligence
+2775,Karate Kid,Super Strength
+2776,Karate Kid,Super Speed
+2777,Karate Kid,Reflexes
+2778,Karate Kid,Mind Control Resistance
+2779,Kathryn Janeway,Intelligence
+2780,Katniss Everdeen,Agility
+2781,Katniss Everdeen,Stealth
+2782,Katniss Everdeen,Marksmanship
+2783,Katniss Everdeen,Weapons Master
+2784,Katniss Everdeen,Stamina
+2785,Katniss Everdeen,Reflexes
+2786,Kevin 11,Agility
+2787,Kevin 11,Accelerated Healing
+2788,Kevin 11,Energy Absorption
+2789,Kevin 11,Flight
+2790,Kevin 11,Super Strength
+2791,Kevin 11,Density Control
+2792,Kevin 11,Stamina
+2793,Kevin 11,Super Speed
+2794,Kevin 11,Shapeshifting
+2795,Kevin 11,Power Absorption
+2796,Kevin 11,Molecular Manipulation
+2797,Kevin 11,Matter Absorption
+2798,Kick-Ass,Agility
+2799,Kick-Ass,Durability
+2800,Kick-Ass,Stamina
+2801,Kick-Ass,Weapon-based Powers
+2802,Kid Flash,Accelerated Healing
+2803,Kid Flash,Super Speed
+2804,Killer Croc,Agility
+2805,Killer Croc,Accelerated Healing
+2806,Killer Croc,Durability
+2807,Killer Croc,Super Strength
+2808,Killer Croc,Stamina
+2809,Killer Croc,Super Speed
+2810,Killer Croc,Enhanced Senses
+2811,Killer Croc,Reflexes
+2812,Killer Croc,Enhanced Hearing
+2813,Killer Croc,Natural Armor
+2814,Killer Croc,Natural Weapons
+2815,Killer Croc,Enhanced Smell
+2816,Killer Croc,Sub-Mariner
+2817,Killer Frost,Cold Resistance
+2818,Killer Frost,Durability
+2819,Killer Frost,Energy Absorption
+2820,Killer Frost,Cryokinesis
+2821,Killer Frost,Natural Weapons
+2822,Killer Frost,Super Breath
+2823,Kilowog,Accelerated Healing
+2824,Kilowog,Lantern Power Ring
+2825,Kilowog,Durability
+2826,Kilowog,Underwater breathing
+2827,Kilowog,Super Strength
+2828,Kilowog,Telepathy
+2829,Kilowog,Stamina
+2830,King Kong,Agility
+2831,King Kong,Durability
+2832,King Kong,Stealth
+2833,King Kong,Longevity
+2834,King Kong,Super Strength
+2835,King Kong,Stamina
+2836,King Kong,Super Speed
+2837,King Kong,Jump
+2838,King Kong,Reflexes
+2839,King Kong,Enhanced Hearing
+2840,King Kong,Natural Weapons
+2841,King Kong,Enhanced Smell
+2842,King Shark,Cold Resistance
+2843,King Shark,Durability
+2844,King Shark,Stealth
+2845,King Shark,Underwater breathing
+2846,King Shark,Animal Attributes
+2847,King Shark,Longevity
+2848,King Shark,Super Strength
+2849,King Shark,Stamina
+2850,King Shark,Super Speed
+2851,King Shark,Animal Oriented Powers
+2852,King Shark,Invulnerability
+2853,King Shark,Natural Armor
+2854,King Shark,Enhanced Sight
+2855,King Shark,Regeneration
+2856,King Shark,Natural Weapons
+2857,King Shark,Enhanced Smell
+2858,King Shark,Sub-Mariner
+2859,King Shark,Radar Sense
+2860,Klaw,Durability
+2861,Klaw,Super Strength
+2862,Klaw,Energy Blasts
+2863,Klaw,Audio Control
+2864,Klaw,Invulnerability
+2865,Klaw,Self-Sustenance
+2866,Klaw,Telepathy Resistance
+2867,Kool-Aid Man,Durability
+2868,Kool-Aid Man,Thirstokinesis
+2869,Kraven II,Agility
+2870,Kraven II,Accelerated Healing
+2871,Kraven II,Super Strength
+2872,Kraven II,Stamina
+2873,Kraven II,Super Speed
+2874,Kraven II,Animal Oriented Powers
+2875,Kraven II,Enhanced Senses
+2876,Kraven the Hunter,Agility
+2877,Kraven the Hunter,Longevity
+2878,Kraven the Hunter,Super Strength
+2879,Kraven the Hunter,Stamina
+2880,Kraven the Hunter,Super Speed
+2881,Kraven the Hunter,Reflexes
+2882,Krypto,Accelerated Healing
+2883,Krypto,Flight
+2884,Krypto,Super Strength
+2885,Krypto,Stamina
+2886,Krypto,Super Speed
+2887,Krypto,Animal Oriented Powers
+2888,Krypto,Invulnerability
+2889,Krypto,Enhanced Hearing
+2890,Krypto,Vision - Telescopic
+2891,Krypto,Vision - Microscopic
+2892,Krypto,Super Breath
+2893,Krypto,Vision - Infrared
+2894,Krypto,Vision - Heat
+2895,Krypto,Vision - X-Ray
+2896,Kyle Rayner,Lantern Power Ring
+2897,Kyle Rayner,Flight
+2898,Kyle Rayner,Marksmanship
+2899,Kyle Rayner,Super Strength
+2900,Kyle Rayner,Energy Blasts
+2901,Kyle Rayner,Super Speed
+2902,Kyle Rayner,Energy Beams
+2903,Kyle Rayner,Energy Constructs
+2904,Kyle Rayner,Force Fields
+2905,Kyle Rayner,Empathy
+2906,Kyle Rayner,Energy Manipulation
+2907,Kyle Rayner,Omnilingualism
+2908,Kylo Ren,Agility
+2909,Kylo Ren,Accelerated Healing
+2910,Kylo Ren,Durability
+2911,Kylo Ren,Stealth
+2912,Kylo Ren,Danger Sense
+2913,Kylo Ren,Marksmanship
+2914,Kylo Ren,Weapons Master
+2915,Kylo Ren,Intelligence
+2916,Kylo Ren,Super Strength
+2917,Kylo Ren,Telepathy
+2918,Kylo Ren,Energy Blasts
+2919,Kylo Ren,Super Speed
+2920,Kylo Ren,Enhanced Senses
+2921,Kylo Ren,Telekinesis
+2922,Kylo Ren,Jump
+2923,Kylo Ren,Reflexes
+2924,Kylo Ren,Force Fields
+2925,Kylo Ren,Psionic Powers
+2926,Kylo Ren,Precognition
+2927,Kylo Ren,Hypnokinesis
+2928,Kylo Ren,Light Control
+2929,Kylo Ren,Illusions
+2930,Kylo Ren,The Force
+2931,Lady Bullseye,Marksmanship
+2932,Lady Deathstrike,Agility
+2933,Lady Deathstrike,Accelerated Healing
+2934,Lady Deathstrike,Durability
+2935,Lady Deathstrike,Stealth
+2936,Lady Deathstrike,Intelligence
+2937,Lady Deathstrike,Super Strength
+2938,Lady Deathstrike,Stamina
+2939,Lady Deathstrike,Super Speed
+2940,Lady Deathstrike,Reflexes
+2941,Lady Deathstrike,Technopath/Cyberpath
+2942,Lady Deathstrike,Natural Weapons
+2943,Leader,Intelligence
+2944,Leader,Telepathy
+2945,Leader,Telekinesis
+2946,Leech,Power Nullifier
+2947,Legion,Agility
+2948,Legion,Accelerated Healing
+2949,Legion,Stealth
+2950,Legion,Flight
+2951,Legion,Super Strength
+2952,Legion,Telepathy
+2953,Legion,Duplication
+2954,Legion,Stamina
+2955,Legion,Super Speed
+2956,Legion,Animal Oriented Powers
+2957,Legion,Teleportation
+2958,Legion,Telekinesis
+2959,Legion,Shapeshifting
+2960,Legion,Astral Projection
+2961,Legion,Fire Control
+2962,Legion,Force Fields
+2963,Legion,Power Nullifier
+2964,Legion,Psionic Powers
+2965,Legion,Power Absorption
+2966,Legion,Molecular Manipulation
+2967,Legion,Adaptation
+2968,Legion,Mind Blast
+2969,Legion,Levitation
+2970,Legion,Time Travel
+2971,Legion,Time Manipulation
+2972,Legion,Reality Warping
+2973,Leonardo,Agility
+2974,Leonardo,Accelerated Healing
+2975,Leonardo,Stealth
+2976,Leonardo,Marksmanship
+2977,Leonardo,Weapons Master
+2978,Leonardo,Stamina
+2979,Leonardo,Jump
+2980,Leonardo,Reflexes
+2981,Leonardo,Natural Armor
+2982,Leonardo,Sub-Mariner
+2983,Lex Luthor,Durability
+2984,Lex Luthor,Flight
+2985,Lex Luthor,Weapons Master
+2986,Lex Luthor,Intelligence
+2987,Lex Luthor,Super Strength
+2988,Lex Luthor,Energy Blasts
+2989,Lex Luthor,Energy Beams
+2990,Lex Luthor,Energy Constructs
+2991,Lex Luthor,Force Fields
+2992,Lex Luthor,Power Suit
+2993,Light Lass,Flight
+2994,Light Lass,Electrokinesis
+2995,Light Lass,Gravity Control
+2996,Lightning Lad,Electrokinesis
+2997,Lightning Lord,Energy Absorption
+2998,Lightning Lord,Electrokinesis
+2999,Living Brain,Durability
+3000,Living Brain,Flight
+3001,Living Brain,Intelligence
+3002,Living Brain,Super Strength
+3003,Living Tribunal,Agility
+3004,Living Tribunal,Accelerated Healing
+3005,Living Tribunal,Dimensional Awareness
+3006,Living Tribunal,Stealth
+3007,Living Tribunal,Energy Absorption
+3008,Living Tribunal,Flight
+3009,Living Tribunal,Intelligence
+3010,Living Tribunal,Super Strength
+3011,Living Tribunal,Telepathy
+3012,Living Tribunal,Energy Blasts
+3013,Living Tribunal,Size Changing
+3014,Living Tribunal,Super Speed
+3015,Living Tribunal,Death Touch
+3016,Living Tribunal,Telekinesis
+3017,Living Tribunal,Energy Beams
+3018,Living Tribunal,Dimensional Travel
+3019,Living Tribunal,Immortality
+3020,Living Tribunal,Astral Projection
+3021,Living Tribunal,Fire Control
+3022,Living Tribunal,Invulnerability
+3023,Living Tribunal,Energy Constructs
+3024,Living Tribunal,Force Fields
+3025,Living Tribunal,Probability Manipulation
+3026,Living Tribunal,Gravity Control
+3027,Living Tribunal,Light Control
+3028,Living Tribunal,Energy Manipulation
+3029,Living Tribunal,Time Travel
+3030,Living Tribunal,Illusions
+3031,Living Tribunal,Omnipotent
+3032,Living Tribunal,Energy Resistance
+3033,Living Tribunal,Magnetism
+3034,Living Tribunal,Time Manipulation
+3035,Living Tribunal,Invisibility
+3036,Living Tribunal,Matter Absorption
+3037,Living Tribunal,Reality Warping
+3038,Liz Sherman,Fire Control
+3039,Lizard,Durability
+3040,Lizard,Animal Attributes
+3041,Lizard,Super Strength
+3042,Lizard,Telepathy
+3043,Lizard,Stamina
+3044,Lizard,Super Speed
+3045,Lizard,Animal Oriented Powers
+3046,Lizard,Enhanced Senses
+3047,Lizard,Jump
+3048,Lizard,Reflexes
+3049,Lizard,Natural Armor
+3050,Lizard,Regeneration
+3051,Lizard,Natural Weapons
+3052,Lizard,Wallcrawling
+3053,Lobo,Durability
+3054,Lobo,Longevity
+3055,Lobo,Intelligence
+3056,Lobo,Super Strength
+3057,Lobo,Duplication
+3058,Lobo,Stamina
+3059,Lobo,Enhanced Senses
+3060,Lobo,Immortality
+3061,Lobo,Invulnerability
+3062,Lobo,Self-Sustenance
+3063,Lobo,Regeneration
+3064,Lobo,Toxin and Disease Resistance
+3065,Lobo,Omnilingualism
+3066,Loki,Accelerated Healing
+3067,Loki,Durability
+3068,Loki,Flight
+3069,Loki,Longevity
+3070,Loki,Intelligence
+3071,Loki,Super Strength
+3072,Loki,Stamina
+3073,Loki,Energy Beams
+3074,Loki,Magic
+3075,Loki,Shapeshifting
+3076,Loki,Psionic Powers
+3077,Loki,Toxin and Disease Resistance
+3078,Loki,Omnilingualism
+3079,Loki,Portal Creation
+3080,Longshot,Agility
+3081,Longshot,Telepathy
+3082,Longshot,Stamina
+3083,Longshot,Super Speed
+3084,Longshot,Reflexes
+3085,Longshot,Psionic Powers
+3086,Longshot,Probability Manipulation
+3087,Luke Cage,Accelerated Healing
+3088,Luke Cage,Durability
+3089,Luke Cage,Super Strength
+3090,Luke Cage,Stamina
+3091,Luke Cage,Jump
+3092,Luke Cage,Invulnerability
+3093,Luke Campbell,Radiation Control
+3094,Luke Skywalker,Agility
+3095,Luke Skywalker,Accelerated Healing
+3096,Luke Skywalker,Stealth
+3097,Luke Skywalker,Danger Sense
+3098,Luke Skywalker,Marksmanship
+3099,Luke Skywalker,Weapons Master
+3100,Luke Skywalker,Intelligence
+3101,Luke Skywalker,Telepathy
+3102,Luke Skywalker,Energy Blasts
+3103,Luke Skywalker,Super Speed
+3104,Luke Skywalker,Enhanced Senses
+3105,Luke Skywalker,Telekinesis
+3106,Luke Skywalker,Jump
+3107,Luke Skywalker,Astral Projection
+3108,Luke Skywalker,Reflexes
+3109,Luke Skywalker,Force Fields
+3110,Luke Skywalker,Empathy
+3111,Luke Skywalker,Psionic Powers
+3112,Luke Skywalker,Precognition
+3113,Luke Skywalker,Enhanced Hearing
+3114,Luke Skywalker,Hypnokinesis
+3115,Luke Skywalker,Light Control
+3116,Luke Skywalker,Illusions
+3117,Luke Skywalker,Cloaking
+3118,Luke Skywalker,The Force
+3119,Luna,Psionic Powers
+3120,Lyja,Energy Blasts
+3121,Lyja,Size Changing
+3122,Lyja,Shapeshifting
+3123,MODOK,Agility
+3124,MODOK,Flight
+3125,MODOK,Weapons Master
+3126,MODOK,Longevity
+3127,MODOK,Intelligence
+3128,MODOK,Telepathy
+3129,MODOK,Energy Blasts
+3130,MODOK,Telekinesis
+3131,MODOK,Force Fields
+3132,MODOK,Empathy
+3133,MODOK,Psionic Powers
+3134,MODOK,Technopath/Cyberpath
+3135,MODOK,Heat Generation
+3136,MODOK,Levitation
+3137,MODOK,Illusions
+3138,Mach-IV,Durability
+3139,Mach-IV,Flight
+3140,Mach-IV,Super Strength
+3141,Mach-IV,Super Speed
+3142,Mach-IV,Weapon-based Powers
+3143,Machine Man,Durability
+3144,Machine Man,Flight
+3145,Machine Man,Super Strength
+3146,Machine Man,Stamina
+3147,Machine Man,Weapon-based Powers
+3148,Magneto,Durability
+3149,Magneto,Flight
+3150,Magneto,Intelligence
+3151,Magneto,Super Strength
+3152,Magneto,Stamina
+3153,Magneto,Enhanced Senses
+3154,Magneto,Energy Beams
+3155,Magneto,Force Fields
+3156,Magneto,Telepathy Resistance
+3157,Magneto,Magnetism
+3158,Magog,Durability
+3159,Magog,Super Strength
+3160,Magog,Energy Blasts
+3161,Magog,Energy Beams
+3162,Magus,Energy Absorption
+3163,Magus,Flight
+3164,Magus,Super Strength
+3165,Magus,Size Changing
+3166,Magus,Electrokinesis
+3167,Magus,Shapeshifting
+3168,Magus,Immortality
+3169,Magus,Elasticity
+3170,Magus,Technopath/Cyberpath
+3171,Magus,Omnilingualism
+3172,Man of Miracles,Accelerated Healing
+3173,Man of Miracles,Dimensional Awareness
+3174,Man of Miracles,Energy Absorption
+3175,Man of Miracles,Danger Sense
+3176,Man of Miracles,Longevity
+3177,Man of Miracles,Intelligence
+3178,Man of Miracles,Super Strength
+3179,Man of Miracles,Telepathy
+3180,Man of Miracles,Super Speed
+3181,Man of Miracles,Teleportation
+3182,Man of Miracles,Telekinesis
+3183,Man of Miracles,Magic
+3184,Man of Miracles,Immortality
+3185,Man of Miracles,Element Control
+3186,Man of Miracles,Phasing
+3187,Man of Miracles,Astral Projection
+3188,Man of Miracles,Invulnerability
+3189,Man of Miracles,Energy Constructs
+3190,Man of Miracles,Precognition
+3191,Man of Miracles,Enhanced Hearing
+3192,Man of Miracles,Enhanced Sight
+3193,Man of Miracles,Molecular Manipulation
+3194,Man of Miracles,Adaptation
+3195,Man of Miracles,Probability Manipulation
+3196,Man of Miracles,Gravity Control
+3197,Man of Miracles,Energy Manipulation
+3198,Man of Miracles,Time Travel
+3199,Man of Miracles,Enhanced Smell
+3200,Man of Miracles,Omnipotent
+3201,Man of Miracles,Omnilingualism
+3202,Man of Miracles,Time Manipulation
+3203,Man of Miracles,Reality Warping
+3204,Man of Miracles,Omnipresent
+3205,Man of Miracles,Omniscient
+3206,Man-Bat,Agility
+3207,Man-Bat,Flight
+3208,Man-Bat,Animal Attributes
+3209,Man-Bat,Super Strength
+3210,Man-Bat,Super Speed
+3211,Man-Bat,Animal Oriented Powers
+3212,Man-Bat,Shapeshifting
+3213,Man-Bat,Reflexes
+3214,Man-Bat,Enhanced Hearing
+3215,Man-Bat,Echolocation
+3216,Man-Bat,Natural Weapons
+3217,Man-Thing,Durability
+3218,Man-Thing,Stealth
+3219,Man-Thing,Underwater breathing
+3220,Man-Thing,Super Strength
+3221,Man-Thing,Immortality
+3222,Man-Thing,Invulnerability
+3223,Man-Thing,Empathy
+3224,Man-Thing,Substance Secretion
+3225,Man-Thing,Toxin and Disease Control
+3226,Man-Thing,Natural Weapons
+3227,Man-Thing,Toxin and Disease Resistance
+3228,Man-Wolf,Agility
+3229,Man-Wolf,Accelerated Healing
+3230,Man-Wolf,Super Strength
+3231,Man-Wolf,Stamina
+3232,Man-Wolf,Super Speed
+3233,Man-Wolf,Animal Oriented Powers
+3234,Man-Wolf,Enhanced Senses
+3235,Man-Wolf,Enhanced Hearing
+3236,Man-Wolf,Vision - Thermal
+3237,Mandarin,Weapons Master
+3238,Mandarin,Intelligence
+3239,Mandarin,Cryokinesis
+3240,Mandarin,Energy Blasts
+3241,Mandarin,Weapon-based Powers
+3242,Mandarin,Electrokinesis
+3243,Mandarin,Energy Beams
+3244,Mandarin,Self-Sustenance
+3245,Mandarin,Mind Control
+3246,Mandarin,Molecular Manipulation
+3247,Mandarin,Levitation
+3248,Mantis,Accelerated Healing
+3249,Mantis,Durability
+3250,Mantis,Flight
+3251,Mantis,Longevity
+3252,Mantis,Intelligence
+3253,Mantis,Telepathy
+3254,Mantis,Telekinesis
+3255,Mantis,Astral Projection
+3256,Mantis,Fire Control
+3257,Mantis,Empathy
+3258,Mantis,Precognition
+3259,Mantis,Regeneration
+3260,Mantis,Telepathy Resistance
+3261,Mantis,Plant Control
+3262,Martian Manhunter,Agility
+3263,Martian Manhunter,Durability
+3264,Martian Manhunter,Stealth
+3265,Martian Manhunter,Flight
+3266,Martian Manhunter,Marksmanship
+3267,Martian Manhunter,Intelligence
+3268,Martian Manhunter,Super Strength
+3269,Martian Manhunter,Telepathy
+3270,Martian Manhunter,Size Changing
+3271,Martian Manhunter,Stamina
+3272,Martian Manhunter,Super Speed
+3273,Martian Manhunter,Enhanced Senses
+3274,Martian Manhunter,Telekinesis
+3275,Martian Manhunter,Shapeshifting
+3276,Martian Manhunter,Phasing
+3277,Martian Manhunter,Astral Projection
+3278,Martian Manhunter,Reflexes
+3279,Martian Manhunter,Invulnerability
+3280,Martian Manhunter,Self-Sustenance
+3281,Martian Manhunter,Mind Control
+3282,Martian Manhunter,Enhanced Hearing
+3283,Martian Manhunter,Intangibility
+3284,Martian Manhunter,Regeneration
+3285,Martian Manhunter,Illusions
+3286,Martian Manhunter,Vision - Telescopic
+3287,Martian Manhunter,Toxin and Disease Resistance
+3288,Martian Manhunter,Telepathy Resistance
+3289,Martian Manhunter,Invisibility
+3290,Martian Manhunter,Vision - Microscopic
+3291,Martian Manhunter,Super Breath
+3292,Martian Manhunter,Vision - Night
+3293,Martian Manhunter,Vision - Infrared
+3294,Martian Manhunter,Vision - Heat
+3295,Martian Manhunter,Vision - X-Ray
+3296,Martian Manhunter,Vision - Thermal
+3297,Marvel Girl,Energy Absorption
+3298,Marvel Girl,Flight
+3299,Marvel Girl,Telepathy
+3300,Marvel Girl,Energy Blasts
+3301,Marvel Girl,Telekinesis
+3302,Marvel Girl,Astral Projection
+3303,Marvel Girl,Fire Control
+3304,Marvel Girl,Force Fields
+3305,Marvel Girl,Psionic Powers
+3306,Marvel Girl,Energy Manipulation
+3307,Marvel Girl,Time Travel
+3308,Master Brood,Accelerated Healing
+3309,Master Brood,Longevity
+3310,Master Brood,Immortality
+3311,Master Chief,Agility
+3312,Master Chief,Accelerated Healing
+3313,Master Chief,Durability
+3314,Master Chief,Marksmanship
+3315,Master Chief,Longevity
+3316,Master Chief,Stamina
+3317,Master Chief,Super Speed
+3318,Master Chief,Weapon-based Powers
+3319,Master Chief,Enhanced Senses
+3320,Master Chief,Camouflage
+3321,Master Chief,Force Fields
+3322,Match,Accelerated Healing
+3323,Match,Durability
+3324,Match,Energy Absorption
+3325,Match,Flight
+3326,Match,Super Strength
+3327,Match,Energy Blasts
+3328,Match,Super Speed
+3329,Match,Telekinesis
+3330,Match,Jump
+3331,Match,Invulnerability
+3332,Match,Enhanced Hearing
+3333,Match,Vision - Telescopic
+3334,Match,Super Breath
+3335,Match,Vision - Heat
+3336,Match,Vision - X-Ray
+3337,Matt Parkman,Telepathy
+3338,Maverick,Electrokinesis
+3339,Maxima,Durability
+3340,Maxima,Flight
+3341,Maxima,Super Strength
+3342,Maxima,Stamina
+3343,Maxima,Super Speed
+3344,Maxima,Telekinesis
+3345,Maxima,Force Fields
+3346,Maxima,Psionic Powers
+3347,Maxima,Mind Control
+3348,Maxima,Mind Blast
+3349,Maya Herrera,Substance Secretion
+3350,Maya Herrera,Toxin and Disease Control
+3351,Medusa,Durability
+3352,Medusa,Super Strength
+3353,Medusa,Stamina
+3354,Medusa,Super Speed
+3355,Medusa,Telekinesis
+3356,Medusa,Reflexes
+3357,Medusa,Hair Manipulation
+3358,Meltdown,Agility
+3359,Meltdown,Energy Absorption
+3360,Meltdown,Energy Blasts
+3361,Meltdown,Energy Beams
+3362,Meltdown,Energy Constructs
+3363,Meltdown,Psionic Powers
+3364,Meltdown,Energy Manipulation
+3365,Mephisto,Accelerated Healing
+3366,Mephisto,Dimensional Awareness
+3367,Mephisto,Durability
+3368,Mephisto,Longevity
+3369,Mephisto,Super Strength
+3370,Mephisto,Energy Blasts
+3371,Mephisto,Stamina
+3372,Mephisto,Super Speed
+3373,Mephisto,Magic
+3374,Mephisto,Dimensional Travel
+3375,Mephisto,Shapeshifting
+3376,Mephisto,Immortality
+3377,Mephisto,Astral Projection
+3378,Mephisto,Self-Sustenance
+3379,Mephisto,Molecular Manipulation
+3380,Mephisto,Illusions
+3381,Mephisto,Toxin and Disease Resistance
+3382,Mera,Cold Resistance
+3383,Mera,Durability
+3384,Mera,Stealth
+3385,Mera,Underwater breathing
+3386,Mera,Super Strength
+3387,Mera,Telepathy
+3388,Mera,Super Speed
+3389,Mera,Jump
+3390,Mera,Dimensional Travel
+3391,Mera,Reflexes
+3392,Mera,Enhanced Hearing
+3393,Mera,Water Control
+3394,Mera,Sub-Mariner
+3395,Mera,Vision - Night
+3396,Metallo,Durability
+3397,Metallo,Super Strength
+3398,Metallo,Size Changing
+3399,Metallo,Stamina
+3400,Metallo,Energy Beams
+3401,Metallo,Shapeshifting
+3402,Metallo,Radiation Control
+3403,Metallo,Technopath/Cyberpath
+3404,Metallo,Regeneration
+3405,Metamorpho,Shapeshifting
+3406,Metamorpho,Elemental Transmogrification
+3407,Metamorpho,Natural Armor
+3408,Metamorpho,Natural Weapons
+3409,Metron,Flight
+3410,Metron,Longevity
+3411,Metron,Intelligence
+3412,Metron,Teleportation
+3413,Metron,Time Travel
+3414,Micah Sanders,Technopath/Cyberpath
+3415,Michelangelo,Agility
+3416,Michelangelo,Accelerated Healing
+3417,Michelangelo,Stealth
+3418,Michelangelo,Marksmanship
+3419,Michelangelo,Weapons Master
+3420,Michelangelo,Stamina
+3421,Michelangelo,Jump
+3422,Michelangelo,Reflexes
+3423,Michelangelo,Natural Armor
+3424,Michelangelo,Sub-Mariner
+3425,Micro Lad,Size Changing
+3426,Mimic,Durability
+3427,Mimic,Flight
+3428,Mimic,Super Strength
+3429,Mimic,Cryokinesis
+3430,Mimic,Telepathy
+3431,Mimic,Energy Blasts
+3432,Mimic,Telekinesis
+3433,Mimic,Reflexes
+3434,Mimic,Gliding
+3435,Minna Murray,Durability
+3436,Minna Murray,Super Strength
+3437,Minna Murray,Super Speed
+3438,Minna Murray,Jump
+3439,Minna Murray,Immortality
+3440,Misfit,Accelerated Healing
+3441,Misfit,Super Strength
+3442,Misfit,Teleportation
+3443,Miss Martian,Accelerated Healing
+3444,Miss Martian,Flight
+3445,Miss Martian,Super Strength
+3446,Miss Martian,Telepathy
+3447,Miss Martian,Energy Blasts
+3448,Miss Martian,Size Changing
+3449,Miss Martian,Density Control
+3450,Miss Martian,Stamina
+3451,Miss Martian,Super Speed
+3452,Miss Martian,Telekinesis
+3453,Miss Martian,Shapeshifting
+3454,Miss Martian,Invulnerability
+3455,Miss Martian,Force Fields
+3456,Miss Martian,Self-Sustenance
+3457,Miss Martian,Invisibility
+3458,Miss Martian,Vision - X-Ray
+3459,Mister Fantastic,Durability
+3460,Mister Fantastic,Intelligence
+3461,Mister Fantastic,Size Changing
+3462,Mister Fantastic,Shapeshifting
+3463,Mister Fantastic,Elasticity
+3464,Mister Freeze,Cold Resistance
+3465,Mister Freeze,Durability
+3466,Mister Freeze,Longevity
+3467,Mister Freeze,Intelligence
+3468,Mister Freeze,Super Strength
+3469,Mister Freeze,Power Suit
+3470,Mister Knife,Weapons Master
+3471,Mister Knife,Intelligence
+3472,Mister Mxyzptlk,Agility
+3473,Mister Mxyzptlk,Accelerated Healing
+3474,Mister Mxyzptlk,Dimensional Awareness
+3475,Mister Mxyzptlk,Flight
+3476,Mister Mxyzptlk,Longevity
+3477,Mister Mxyzptlk,Intelligence
+3478,Mister Mxyzptlk,Cryokinesis
+3479,Mister Mxyzptlk,Energy Blasts
+3480,Mister Mxyzptlk,Duplication
+3481,Mister Mxyzptlk,Density Control
+3482,Mister Mxyzptlk,Teleportation
+3483,Mister Mxyzptlk,Telekinesis
+3484,Mister Mxyzptlk,Magic
+3485,Mister Mxyzptlk,Dimensional Travel
+3486,Mister Mxyzptlk,Shapeshifting
+3487,Mister Mxyzptlk,Immortality
+3488,Mister Mxyzptlk,Phasing
+3489,Mister Mxyzptlk,Astral Projection
+3490,Mister Mxyzptlk,Fire Control
+3491,Mister Mxyzptlk,Invulnerability
+3492,Mister Mxyzptlk,Energy Constructs
+3493,Mister Mxyzptlk,Force Fields
+3494,Mister Mxyzptlk,Elasticity
+3495,Mister Mxyzptlk,Animation
+3496,Mister Mxyzptlk,Molecular Manipulation
+3497,Mister Mxyzptlk,Gravity Control
+3498,Mister Mxyzptlk,Levitation
+3499,Mister Mxyzptlk,Time Travel
+3500,Mister Mxyzptlk,Time Manipulation
+3501,Mister Mxyzptlk,Weather Control
+3502,Mister Mxyzptlk,Reality Warping
+3503,Mister Sinister,Accelerated Healing
+3504,Mister Sinister,Durability
+3505,Mister Sinister,Flight
+3506,Mister Sinister,Animal Attributes
+3507,Mister Sinister,Longevity
+3508,Mister Sinister,Intelligence
+3509,Mister Sinister,Super Strength
+3510,Mister Sinister,Telepathy
+3511,Mister Sinister,Energy Blasts
+3512,Mister Sinister,Duplication
+3513,Mister Sinister,Size Changing
+3514,Mister Sinister,Stamina
+3515,Mister Sinister,Super Speed
+3516,Mister Sinister,Animal Oriented Powers
+3517,Mister Sinister,Teleportation
+3518,Mister Sinister,Telekinesis
+3519,Mister Sinister,Shapeshifting
+3520,Mister Sinister,Reflexes
+3521,Mister Sinister,Force Fields
+3522,Mister Sinister,Self-Sustenance
+3523,Mister Sinister,Power Nullifier
+3524,Mister Sinister,Mind Control
+3525,Mister Sinister,Molecular Manipulation
+3526,Mister Sinister,Mind Blast
+3527,Mockingbird,Agility
+3528,Mockingbird,Accelerated Healing
+3529,Mockingbird,Durability
+3530,Mockingbird,Stealth
+3531,Mockingbird,Weapons Master
+3532,Mockingbird,Longevity
+3533,Mockingbird,Super Strength
+3534,Mohinder Suresh,Super Strength
+3535,Molten Man,Durability
+3536,Molten Man,Super Strength
+3537,Molten Man,Heat Generation
+3538,Molten Man,Heat Resistance
+3539,Monarch,Flight
+3540,Monarch,Super Strength
+3541,Monarch,Invulnerability
+3542,Monarch,Force Fields
+3543,Monarch,Self-Sustenance
+3544,Monarch,Technopath/Cyberpath
+3545,Monarch,Time Travel
+3546,Monica Dawson,Photographic Reflexes
+3547,Moon Knight,Marksmanship
+3548,Moon Knight,Weapons Master
+3549,Moon Knight,Super Strength
+3550,Moon Knight,Stamina
+3551,Moon Knight,Reflexes
+3552,Moon Knight,Telepathy Resistance
+3553,Moonstone,Durability
+3554,Moonstone,Flight
+3555,Moonstone,Super Strength
+3556,Moonstone,Energy Blasts
+3557,Moonstone,Super Speed
+3558,Moonstone,Intangibility
+3559,Moonstone,Molecular Manipulation
+3560,Moonstone,Light Control
+3561,Morlun,Agility
+3562,Morlun,Durability
+3563,Morlun,Super Strength
+3564,Morlun,Stamina
+3565,Morlun,Super Speed
+3566,Morlun,Immortality
+3567,Morlun,Reflexes
+3568,Moses Magnum,Seismic Power
+3569,Mr Immortal,Accelerated Healing
+3570,Mr Immortal,Longevity
+3571,Mr Immortal,Immortality
+3572,Mr Incredible,Durability
+3573,Mr Incredible,Super Strength
+3574,Mr Incredible,Stamina
+3575,Mr Incredible,Super Speed
+3576,Mr Incredible,Enhanced Senses
+3577,Mr Incredible,Jump
+3578,Mr Incredible,Invulnerability
+3579,Ms Marvel II,Durability
+3580,Ms Marvel II,Super Strength
+3581,Multiple Man,Duplication
+3582,Mysterio,Weapons Master
+3583,Mysterio,Intelligence
+3584,Mysterio,Stamina
+3585,Mysterio,Weapon-based Powers
+3586,Mysterio,Magic
+3587,Mysterio,Jump
+3588,Mysterio,Peak Human Condition
+3589,Mysterio,Animation
+3590,Mysterio,Hypnokinesis
+3591,Mysterio,Power Suit
+3592,Mysterio,Illusions
+3593,Mysterio,Sonar
+3594,Mysterio,Web Creation
+3595,Mystique,Agility
+3596,Mystique,Accelerated Healing
+3597,Mystique,Stealth
+3598,Mystique,Marksmanship
+3599,Mystique,Weapons Master
+3600,Mystique,Longevity
+3601,Mystique,Intelligence
+3602,Mystique,Super Strength
+3603,Mystique,Stamina
+3604,Mystique,Shapeshifting
+3605,Mystique,Molecular Manipulation
+3606,Mystique,Toxin and Disease Resistance
+3607,Mystique,Telepathy Resistance
+3608,Namor,Agility
+3609,Namor,Accelerated Healing
+3610,Namor,Cold Resistance
+3611,Namor,Durability
+3612,Namor,Flight
+3613,Namor,Underwater breathing
+3614,Namor,Longevity
+3615,Namor,Intelligence
+3616,Namor,Super Strength
+3617,Namor,Telepathy
+3618,Namor,Stamina
+3619,Namor,Super Speed
+3620,Namor,Enhanced Senses
+3621,Namor,Reflexes
+3622,Namor,Animal Control
+3623,Namor,Sub-Mariner
+3624,Namor,Radiation Absorption
+3625,Namora,Accelerated Healing
+3626,Namora,Durability
+3627,Namora,Flight
+3628,Namora,Underwater breathing
+3629,Namora,Longevity
+3630,Namora,Super Strength
+3631,Namora,Telepathy
+3632,Namora,Stamina
+3633,Namora,Super Speed
+3634,Namora,Reflexes
+3635,Namorita,Agility
+3636,Namorita,Accelerated Healing
+3637,Namorita,Durability
+3638,Namorita,Flight
+3639,Namorita,Longevity
+3640,Namorita,Super Strength
+3641,Namorita,Stamina
+3642,Namorita,Super Speed
+3643,Namorita,Reflexes
+3644,Naruto Uzumaki,Agility
+3645,Naruto Uzumaki,Accelerated Healing
+3646,Naruto Uzumaki,Stealth
+3647,Naruto Uzumaki,Marksmanship
+3648,Naruto Uzumaki,Weapons Master
+3649,Naruto Uzumaki,Longevity
+3650,Naruto Uzumaki,Super Strength
+3651,Naruto Uzumaki,Duplication
+3652,Naruto Uzumaki,Stamina
+3653,Naruto Uzumaki,Super Speed
+3654,Naruto Uzumaki,Teleportation
+3655,Naruto Uzumaki,Magic
+3656,Naruto Uzumaki,Shapeshifting
+3657,Naruto Uzumaki,Camouflage
+3658,Naruto Uzumaki,Fire Control
+3659,Naruto Uzumaki,Energy Constructs
+3660,Naruto Uzumaki,Empathy
+3661,Naruto Uzumaki,Heat Generation
+3662,Naruto Uzumaki,Energy Manipulation
+3663,Naruto Uzumaki,Enhanced Smell
+3664,Naruto Uzumaki,Wallcrawling
+3665,Naruto Uzumaki,Weather Control
+3666,Nathan Petrelli,Flight
+3667,Nebula,Durability
+3668,Nebula,Marksmanship
+3669,Nebula,Super Strength
+3670,Negasonic Teenage Warhead,Telepathy
+3671,Negasonic Teenage Warhead,Precognition
+3672,Nick Fury,Weapons Master
+3673,Nick Fury,Longevity
+3674,Nightcrawler,Agility
+3675,Nightcrawler,Stealth
+3676,Nightcrawler,Teleportation
+3677,Nightcrawler,Camouflage
+3678,Nightcrawler,Reflexes
+3679,Nightcrawler,Wallcrawling
+3680,Nightcrawler,Vision - Night
+3681,Nightwing,Agility
+3682,Nightwing,Stealth
+3683,Nightwing,Marksmanship
+3684,Nightwing,Weapons Master
+3685,Nightwing,Intelligence
+3686,Nightwing,Stamina
+3687,Nightwing,Weapon-based Powers
+3688,Nightwing,Peak Human Condition
+3689,Niki Sanders,Super Strength
+3690,Nina Theroux,Psionic Powers
+3691,Nina Theroux,Mind Control
+3692,Northstar,Durability
+3693,Northstar,Super Speed
+3694,Northstar,Reflexes
+3695,Northstar,Molecular Manipulation
+3696,Northstar,Illumination
+3697,Nova,Agility
+3698,Nova,Accelerated Healing
+3699,Nova,Durability
+3700,Nova,Energy Absorption
+3701,Nova,Flight
+3702,Nova,Super Strength
+3703,Nova,Energy Blasts
+3704,Nova,Stamina
+3705,Nova,Super Speed
+3706,Nova,Energy Beams
+3707,Nova,Fire Control
+3708,Nova,Reflexes
+3709,Nova,Invulnerability
+3710,Nova,Fire Resistance
+3711,Nova,Nova Force
+3712,Nova,Heat Generation
+3713,Nova,Light Control
+3714,Nova,Energy Manipulation
+3715,Nova,Heat Resistance
+3716,Nova,Vision - Telescopic
+3717,Nova,Vision - Night
+3718,Nova,Vision - Infrared
+3719,Nova,Vision - X-Ray
+3720,Nova,Vision - Thermal
+3721,Odin,Agility
+3722,Odin,Accelerated Healing
+3723,Odin,Durability
+3724,Odin,Stealth
+3725,Odin,Energy Absorption
+3726,Odin,Longevity
+3727,Odin,Intelligence
+3728,Odin,Super Strength
+3729,Odin,Cryokinesis
+3730,Odin,Telepathy
+3731,Odin,Energy Blasts
+3732,Odin,Size Changing
+3733,Odin,Stamina
+3734,Odin,Super Speed
+3735,Odin,Teleportation
+3736,Odin,Telekinesis
+3737,Odin,Magic
+3738,Odin,Shapeshifting
+3739,Odin,Reflexes
+3740,Odin,Invulnerability
+3741,Odin,Force Fields
+3742,Odin,Precognition
+3743,Odin,Energy Manipulation
+3744,Odin,Time Travel
+3745,Odin,Illusions
+3746,Odin,Omnilingualism
+3747,Odin,Time Manipulation
+3748,Odin,Invisibility
+3749,Odin,Matter Absorption
+3750,Odin,Weather Control
+3751,Odin,Odin Force
+3752,Offspring,Cold Resistance
+3753,Offspring,Size Changing
+3754,Offspring,Density Control
+3755,Offspring,Shapeshifting
+3756,Offspring,Immortality
+3757,Offspring,Invulnerability
+3758,Offspring,Elasticity
+3759,Offspring,Heat Resistance
+3760,Offspring,Telepathy Resistance
+3761,Offspring,Mind Control Resistance
+3762,Omniscient,Intelligence
+3763,Omniscient,Telepathy
+3764,Omniscient,Teleportation
+3765,Omniscient,Mind Blast
+3766,Omniscient,Telepathy Resistance
+3767,Omniscient,Mind Control Resistance
+3768,One Punch Man,Agility
+3769,One Punch Man,Danger Sense
+3770,One Punch Man,Super Strength
+3771,One Punch Man,Stamina
+3772,One Punch Man,Super Speed
+3773,One Punch Man,Enhanced Senses
+3774,One Punch Man,Reflexes
+3775,One Punch Man,Invulnerability
+3776,One Punch Man,Telepathy Resistance
+3777,One-Above-All,Agility
+3778,One-Above-All,Accelerated Healing
+3779,One-Above-All,Dimensional Awareness
+3780,One-Above-All,Durability
+3781,One-Above-All,Energy Absorption
+3782,One-Above-All,Flight
+3783,One-Above-All,Intelligence
+3784,One-Above-All,Super Strength
+3785,One-Above-All,Size Changing
+3786,One-Above-All,Super Speed
+3787,One-Above-All,Death Touch
+3788,One-Above-All,Teleportation
+3789,One-Above-All,Magic
+3790,One-Above-All,Dimensional Travel
+3791,One-Above-All,Immortality
+3792,One-Above-All,Element Control
+3793,One-Above-All,Phasing
+3794,One-Above-All,Astral Projection
+3795,One-Above-All,Invulnerability
+3796,One-Above-All,Self-Sustenance
+3797,One-Above-All,Precognition
+3798,One-Above-All,Molecular Manipulation
+3799,One-Above-All,Gravity Control
+3800,One-Above-All,Energy Manipulation
+3801,One-Above-All,Time Travel
+3802,One-Above-All,Omnipotent
+3803,One-Above-All,Time Manipulation
+3804,One-Above-All,Invisibility
+3805,One-Above-All,Reality Warping
+3806,One-Above-All,Omnipresent
+3807,One-Above-All,Omniscient
+3808,Onslaught,Dimensional Awareness
+3809,Onslaught,Flight
+3810,Onslaught,Intelligence
+3811,Onslaught,Super Strength
+3812,Onslaught,Telepathy
+3813,Onslaught,Size Changing
+3814,Onslaught,Astral Travel
+3815,Onslaught,Telekinesis
+3816,Onslaught,Camouflage
+3817,Onslaught,Astral Projection
+3818,Onslaught,Invulnerability
+3819,Onslaught,Force Fields
+3820,Onslaught,Psionic Powers
+3821,Onslaught,Mind Control
+3822,Onslaught,Power Absorption
+3823,Onslaught,Intangibility
+3824,Onslaught,Mind Blast
+3825,Onslaught,Illusions
+3826,Onslaught,Telepathy Resistance
+3827,Onslaught,Magnetism
+3828,Onslaught,Vision - X-Ray
+3829,Onslaught,Reality Warping
+3830,Oracle,Intelligence
+3831,Osiris,Durability
+3832,Osiris,Flight
+3833,Osiris,Intelligence
+3834,Osiris,Super Strength
+3835,Osiris,Stamina
+3836,Osiris,Super Speed
+3837,Osiris,Clairvoyance
+3838,Osiris,Dimensional Travel
+3839,Osiris,Invulnerability
+3840,Osiris,Self-Sustenance
+3841,Overtkill,Super Strength
+3842,Overtkill,Super Speed
+3843,Overtkill,Enhanced Senses
+3844,Ozymandias,Agility
+3845,Ozymandias,Stealth
+3846,Ozymandias,Intelligence
+3847,Ozymandias,Stamina
+3848,Ozymandias,Peak Human Condition
+3849,Ozymandias,Enhanced Memory
+3850,Ozymandias,Reflexes
+3851,Ozymandias,Omnilingualism
+3852,Parademon,Flight
+3853,Parademon,Super Strength
+3854,Parademon,Shapeshifting
+3855,Parademon,Fire Resistance
+3856,Parademon,Heat Generation
+3857,Parademon,Gliding
+3858,Parademon,Power Suit
+3859,Parademon,Natural Weapons
+3860,Parademon,Super Breath
+3861,Penance II,Energy Blasts
+3862,Penguin,Intelligence
+3863,Peter Petrelli,Power Absorption
+3864,Phantom,Marksmanship
+3865,Phantom,Peak Human Condition
+3866,Phantom,Reflexes
+3867,Phantom Girl,Phasing
+3868,Phoenix,Agility
+3869,Phoenix,Energy Absorption
+3870,Phoenix,Telepathy
+3871,Phoenix,Telekinesis
+3872,Phoenix,Immortality
+3873,Phoenix,Astral Projection
+3874,Phoenix,Fire Control
+3875,Phoenix,Force Fields
+3876,Phoenix,Psionic Powers
+3877,Phoenix,Mind Control
+3878,Phoenix,Molecular Manipulation
+3879,Phoenix,Mind Blast
+3880,Phoenix,Levitation
+3881,Phoenix,Energy Manipulation
+3882,Phoenix,Illusions
+3883,Phoenix,Telepathy Resistance
+3884,Phoenix,Resurrection
+3885,Phoenix,Phoenix Force
+3886,Plantman,Durability
+3887,Plantman,Stealth
+3888,Plantman,Super Strength
+3889,Plantman,Invulnerability
+3890,Plantman,Plant Control
+3891,Plastic Man,Agility
+3892,Plastic Man,Accelerated Healing
+3893,Plastic Man,Durability
+3894,Plastic Man,Stealth
+3895,Plastic Man,Super Strength
+3896,Plastic Man,Size Changing
+3897,Plastic Man,Density Control
+3898,Plastic Man,Shapeshifting
+3899,Plastic Man,Immortality
+3900,Plastic Man,Invulnerability
+3901,Plastic Man,Elasticity
+3902,Plastic Man,Telepathy Resistance
+3903,Plastique,Energy Blasts
+3904,Poison Ivy,Agility
+3905,Poison Ivy,Accelerated Healing
+3906,Poison Ivy,Marksmanship
+3907,Poison Ivy,Super Strength
+3908,Poison Ivy,Death Touch
+3909,Poison Ivy,Substance Secretion
+3910,Poison Ivy,Hypnokinesis
+3911,Poison Ivy,Toxin and Disease Control
+3912,Poison Ivy,Toxin and Disease Resistance
+3913,Poison Ivy,Plant Control
+3914,Polaris,Energy Absorption
+3915,Polaris,Flight
+3916,Polaris,Intelligence
+3917,Polaris,Enhanced Senses
+3918,Polaris,Force Fields
+3919,Polaris,Molecular Manipulation
+3920,Polaris,Energy Manipulation
+3921,Polaris,Magnetism
+3922,Power Girl,Agility
+3923,Power Girl,Accelerated Healing
+3924,Power Girl,Durability
+3925,Power Girl,Energy Absorption
+3926,Power Girl,Flight
+3927,Power Girl,Intelligence
+3928,Power Girl,Super Strength
+3929,Power Girl,Stamina
+3930,Power Girl,Super Speed
+3931,Power Girl,Enhanced Senses
+3932,Power Girl,Jump
+3933,Power Girl,Enhanced Memory
+3934,Power Girl,Reflexes
+3935,Power Girl,Invulnerability
+3936,Power Girl,Enhanced Hearing
+3937,Power Girl,Vision - Telescopic
+3938,Power Girl,Toxin and Disease Resistance
+3939,Power Girl,Vision - Microscopic
+3940,Power Girl,Super Breath
+3941,Power Girl,Vision - Night
+3942,Power Girl,Vision - Infrared
+3943,Power Girl,Vision - Heat
+3944,Power Girl,Vision - X-Ray
+3945,Power Girl,Vision - Thermal
+3946,Predator,Accelerated Healing
+3947,Predator,Cold Resistance
+3948,Predator,Durability
+3949,Predator,Stealth
+3950,Predator,Marksmanship
+3951,Predator,Weapons Master
+3952,Predator,Longevity
+3953,Predator,Intelligence
+3954,Predator,Super Strength
+3955,Predator,Stamina
+3956,Predator,Jump
+3957,Predator,Camouflage
+3958,Predator,Reflexes
+3959,Predator,Power Suit
+3960,Predator,Natural Weapons
+3961,Predator,Cloaking
+3962,Predator,Toxin and Disease Resistance
+3963,Predator,Vision - Night
+3964,Predator,Vision - Infrared
+3965,Predator,Radar Sense
+3966,Predator,Vision - Thermal
+3967,Professor X,Intelligence
+3968,Professor X,Telepathy
+3969,Professor X,Possession
+3970,Professor X,Power Sense
+3971,Professor X,Astral Projection
+3972,Professor X,Projection
+3973,Professor X,Psionic Powers
+3974,Professor X,Mind Control
+3975,Professor X,Mind Blast
+3976,Professor X,Illusions
+3977,Professor Zoom,Stamina
+3978,Professor Zoom,Super Speed
+3979,Professor Zoom,Phasing
+3980,Professor Zoom,Reflexes
+3981,Professor Zoom,Time Travel
+3982,Proto-Goblin,Agility
+3983,Proto-Goblin,Durability
+3984,Proto-Goblin,Super Strength
+3985,Proto-Goblin,Natural Weapons
+3986,Psylocke,Agility
+3987,Psylocke,Stealth
+3988,Psylocke,Super Strength
+3989,Psylocke,Telepathy
+3990,Psylocke,Super Speed
+3991,Psylocke,Telekinesis
+3992,Psylocke,Astral Projection
+3993,Psylocke,Psionic Powers
+3994,Psylocke,Precognition
+3995,Psylocke,Mind Control
+3996,Psylocke,Illusions
+3997,Psylocke,Cloaking
+3998,Psylocke,Telepathy Resistance
+3999,Psylocke,Mind Control Resistance
+4000,Punisher,Agility
+4001,Punisher,Durability
+4002,Punisher,Stealth
+4003,Punisher,Marksmanship
+4004,Punisher,Weapons Master
+4005,Punisher,Stamina
+4006,Punisher,Weapon-based Powers
+4007,Punisher,Peak Human Condition
+4008,Punisher,Reflexes
+4009,Purple Man,Accelerated Healing
+4010,Purple Man,Telepathy
+4011,Purple Man,Substance Secretion
+4012,Purple Man,Mind Control
+4013,Purple Man,Hypnokinesis
+4014,Pyro,Fire Control
+4015,Q,Dimensional Awareness
+4016,Q,Stealth
+4017,Q,Intelligence
+4018,Q,Teleportation
+4019,Q,Telekinesis
+4020,Q,Magic
+4021,Q,Immortality
+4022,Q,Phasing
+4023,Q,Force Fields
+4024,Q,Probability Manipulation
+4025,Q,Gravity Control
+4026,Q,Time Travel
+4027,Q,Illusions
+4028,Q,Time Manipulation
+4029,Q,Reality Warping
+4030,Quantum,Super Speed
+4031,Question,Agility
+4032,Question,Intelligence
+4033,Quicksilver,Durability
+4034,Quicksilver,Super Strength
+4035,Quicksilver,Super Speed
+4036,Quicksilver,Molecular Manipulation
+4037,Quicksilver,Time Manipulation
+4038,Quill,Weapon-based Powers
+4039,Quill,Substance Secretion
+4040,Ra's Al Ghul,Agility
+4041,Ra's Al Ghul,Durability
+4042,Ra's Al Ghul,Longevity
+4043,Ra's Al Ghul,Intelligence
+4044,Ra's Al Ghul,Super Strength
+4045,Ra's Al Ghul,Stamina
+4046,Ra's Al Ghul,Super Speed
+4047,Ra's Al Ghul,Weapon-based Powers
+4048,Rachel Pirzad,Enhanced Senses
+4049,Rachel Pirzad,Enhanced Hearing
+4050,Rachel Pirzad,Enhanced Smell
+4051,Rachel Pirzad,Vision - Telescopic
+4052,Rachel Pirzad,Enhanced Touch
+4053,Rachel Pirzad,Vision - Microscopic
+4054,Rambo,Agility
+4055,Rambo,Stealth
+4056,Rambo,Marksmanship
+4057,Rambo,Weapons Master
+4058,Rambo,Stamina
+4059,Raphael,Agility
+4060,Raphael,Accelerated Healing
+4061,Raphael,Stealth
+4062,Raphael,Marksmanship
+4063,Raphael,Weapons Master
+4064,Raphael,Stamina
+4065,Raphael,Jump
+4066,Raphael,Reflexes
+4067,Raphael,Natural Armor
+4068,Raphael,Sub-Mariner
+4069,Raven,Flight
+4070,Raven,Teleportation
+4071,Raven,Telekinesis
+4072,Raven,Astral Projection
+4073,Raven,Empathy
+4074,Ray,Accelerated Healing
+4075,Ray,Durability
+4076,Ray,Stealth
+4077,Ray,Energy Absorption
+4078,Ray,Flight
+4079,Ray,Stamina
+4080,Ray,Super Speed
+4081,Ray,Energy Beams
+4082,Ray,Invulnerability
+4083,Ray,Energy Constructs
+4084,Ray,Force Fields
+4085,Ray,Elemental Transmogrification
+4086,Ray,Intangibility
+4087,Ray,Light Control
+4088,Ray,Illusions
+4089,Ray,Invisibility
+4090,Razor-Fist II,Weapon-based Powers
+4091,Razor-Fist II,Peak Human Condition
+4092,Red Arrow,Agility
+4093,Red Arrow,Stealth
+4094,Red Arrow,Marksmanship
+4095,Red Arrow,Weapons Master
+4096,Red Arrow,Stamina
+4097,Red Hood,Agility
+4098,Red Hood,Stealth
+4099,Red Hood,Marksmanship
+4100,Red Hood,Weapons Master
+4101,Red Hood,Intelligence
+4102,Red Hood,Stamina
+4103,Red Hood,Peak Human Condition
+4104,Red Hulk,Accelerated Healing
+4105,Red Hulk,Durability
+4106,Red Hulk,Energy Absorption
+4107,Red Hulk,Longevity
+4108,Red Hulk,Super Strength
+4109,Red Hulk,Stamina
+4110,Red Hulk,Super Speed
+4111,Red Hulk,Jump
+4112,Red Hulk,Radiation Control
+4113,Red Hulk,Radiation Immunity
+4114,Red Hulk,Toxin and Disease Resistance
+4115,Red Hulk,Radiation Absorption
+4116,Red Mist,Agility
+4117,Red Mist,Stamina
+4118,Red Robin,Agility
+4119,Red Robin,Stealth
+4120,Red Robin,Marksmanship
+4121,Red Robin,Weapons Master
+4122,Red Robin,Intelligence
+4123,Red Robin,Stamina
+4124,Red Skull,Enhanced Memory
+4125,Red Tornado,Agility
+4126,Red Tornado,Flight
+4127,Red Tornado,Super Strength
+4128,Red Tornado,Stamina
+4129,Red Tornado,Audio Control
+4130,Red Tornado,Super Speed
+4131,Red Tornado,Force Fields
+4132,Red Tornado,Self-Sustenance
+4133,Red Tornado,Technopath/Cyberpath
+4134,Red Tornado,Enhanced Hearing
+4135,Red Tornado,Regeneration
+4136,Red Tornado,Invisibility
+4137,Red Tornado,Wind Control
+4138,Red Tornado,Resurrection
+4139,Redeemer II,Durability
+4140,Redeemer II,Super Strength
+4141,Redeemer II,Energy Blasts
+4142,Redeemer II,Stamina
+4143,Redeemer II,Teleportation
+4144,Redeemer II,Energy Manipulation
+4145,Redeemer III,Durability
+4146,Redeemer III,Flight
+4147,Redeemer III,Super Strength
+4148,Redeemer III,Stamina
+4149,Redeemer III,Energy Manipulation
+4150,Rey,Agility
+4151,Rey,Stamina
+4152,Rey,Telekinesis
+4153,Rey,Mind Control
+4154,Rey,Mind Control Resistance
+4155,Rey,The Force
+4156,Rhino,Cold Resistance
+4157,Rhino,Durability
+4158,Rhino,Super Strength
+4159,Rhino,Stamina
+4160,Rhino,Super Speed
+4161,Rhino,Natural Armor
+4162,Rhino,Power Suit
+4163,Rhino,Heat Resistance
+4164,Rick Flag,Weapon-based Powers
+4165,Riddler,Intelligence
+4166,Rip Hunter,Dimensional Awareness
+4167,Rip Hunter,Stealth
+4168,Rip Hunter,Weapons Master
+4169,Rip Hunter,Intelligence
+4170,Rip Hunter,Power Suit
+4171,Rip Hunter,Time Travel
+4172,Rip Hunter,Time Manipulation
+4173,Ripcord,Weapon-based Powers
+4174,Ripcord,Jump
+4175,Robin,Marksmanship
+4176,Robin,Weapons Master
+4177,Robin,Intelligence
+4178,Robin,Weapon-based Powers
+4179,Robin,Peak Human Condition
+4180,Robin II,Agility
+4181,Robin II,Stealth
+4182,Robin II,Marksmanship
+4183,Robin II,Weapons Master
+4184,Robin II,Stamina
+4185,Robin III,Agility
+4186,Robin III,Stealth
+4187,Robin III,Marksmanship
+4188,Robin III,Weapons Master
+4189,Robin III,Stamina
+4190,Robin III,Weapon-based Powers
+4191,Robin V,Agility
+4192,Robin V,Stealth
+4193,Robin V,Weapons Master
+4194,Robin V,Longevity
+4195,Robin V,Reflexes
+4196,Robin VI,Agility
+4197,Robin VI,Stealth
+4198,Robin VI,Stamina
+4199,Rocket Raccoon,Agility
+4200,Rocket Raccoon,Cold Resistance
+4201,Rocket Raccoon,Marksmanship
+4202,Rocket Raccoon,Weapons Master
+4203,Rocket Raccoon,Animal Attributes
+4204,Rocket Raccoon,Animal Oriented Powers
+4205,Rocket Raccoon,Enhanced Senses
+4206,Rocket Raccoon,Enhanced Hearing
+4207,Rocket Raccoon,Enhanced Smell
+4208,Rocket Raccoon,Enhanced Touch
+4209,Rocket Raccoon,Vision - Night
+4210,Rogue,Energy Absorption
+4211,Rogue,Power Absorption
+4212,Rorschach,Agility
+4213,Rorschach,Stealth
+4214,Rorschach,Weapons Master
+4215,Rorschach,Intelligence
+4216,Rorschach,Stamina
+4217,Sabretooth,Agility
+4218,Sabretooth,Accelerated Healing
+4219,Sabretooth,Cold Resistance
+4220,Sabretooth,Durability
+4221,Sabretooth,Stealth
+4222,Sabretooth,Marksmanship
+4223,Sabretooth,Weapons Master
+4224,Sabretooth,Longevity
+4225,Sabretooth,Super Strength
+4226,Sabretooth,Stamina
+4227,Sabretooth,Super Speed
+4228,Sabretooth,Animal Oriented Powers
+4229,Sabretooth,Reflexes
+4230,Sabretooth,Enhanced Hearing
+4231,Sabretooth,Enhanced Sight
+4232,Sabretooth,Natural Weapons
+4233,Sabretooth,Enhanced Smell
+4234,Sabretooth,Toxin and Disease Resistance
+4235,Sage,Power Augmentation
+4236,Sage,Telepathy
+4237,Sage,Power Sense
+4238,Sage,Technopath/Cyberpath
+4239,Sage,Telepathy Resistance
+4240,Sandman,Agility
+4241,Sandman,Super Strength
+4242,Sandman,Size Changing
+4243,Sandman,Density Control
+4244,Sandman,Shapeshifting
+4245,Sandman,Invulnerability
+4246,Sandman,Natural Armor
+4247,Sandman,Intangibility
+4248,Sandman,Regeneration
+4249,Sandman,Heat Resistance
+4250,Sandman,Natural Weapons
+4251,Sasquatch,Agility
+4252,Sasquatch,Durability
+4253,Sasquatch,Super Strength
+4254,Sasquatch,Stamina
+4255,Sasquatch,Enhanced Senses
+4256,Sasquatch,Jump
+4257,Sauron,Accelerated Healing
+4258,Sauron,Weapons Master
+4259,Sauron,Longevity
+4260,Sauron,Intelligence
+4261,Sauron,Super Strength
+4262,Sauron,Energy Blasts
+4263,Sauron,Size Changing
+4264,Sauron,Stamina
+4265,Sauron,Super Speed
+4266,Sauron,Darkforce Manipulation
+4267,Sauron,Magic
+4268,Sauron,Shapeshifting
+4269,Sauron,Immortality
+4270,Sauron,Fire Control
+4271,Sauron,Invulnerability
+4272,Sauron,Enhanced Hearing
+4273,Sauron,Enhanced Sight
+4274,Sauron,Heat Generation
+4275,Sauron,Resurrection
+4276,Sauron,Weather Control
+4277,Savage Dragon,Accelerated Healing
+4278,Savage Dragon,Durability
+4279,Savage Dragon,Super Strength
+4280,Savage Dragon,Jump
+4281,Savage Dragon,Fire Resistance
+4282,Savage Dragon,Regeneration
+4283,Scarecrow,Psionic Powers
+4284,Scarecrow,Insanity
+4285,Scarlet Spider,Agility
+4286,Scarlet Spider,Accelerated Healing
+4287,Scarlet Spider,Durability
+4288,Scarlet Spider,Danger Sense
+4289,Scarlet Spider,Animal Attributes
+4290,Scarlet Spider,Super Strength
+4291,Scarlet Spider,Stamina
+4292,Scarlet Spider,Super Speed
+4293,Scarlet Spider,Animal Oriented Powers
+4294,Scarlet Spider,Enhanced Senses
+4295,Scarlet Spider,Jump
+4296,Scarlet Spider,Reflexes
+4297,Scarlet Spider,Natural Weapons
+4298,Scarlet Spider,Wallcrawling
+4299,Scarlet Spider,Vision - Night
+4300,Scarlet Spider II,Agility
+4301,Scarlet Spider II,Accelerated Healing
+4302,Scarlet Spider II,Durability
+4303,Scarlet Spider II,Animal Attributes
+4304,Scarlet Spider II,Super Strength
+4305,Scarlet Spider II,Stamina
+4306,Scarlet Spider II,Super Speed
+4307,Scarlet Spider II,Animal Oriented Powers
+4308,Scarlet Spider II,Reflexes
+4309,Scarlet Spider II,Wallcrawling
+4310,Scarlet Spider II,Web Creation
+4311,Scarlet Witch,Agility
+4312,Scarlet Witch,Dimensional Awareness
+4313,Scarlet Witch,Flight
+4314,Scarlet Witch,Longevity
+4315,Scarlet Witch,Energy Blasts
+4316,Scarlet Witch,Teleportation
+4317,Scarlet Witch,Telekinesis
+4318,Scarlet Witch,Magic
+4319,Scarlet Witch,Astral Projection
+4320,Scarlet Witch,Energy Constructs
+4321,Scarlet Witch,Probability Manipulation
+4322,Scarlet Witch,Levitation
+4323,Scarlet Witch,Illusions
+4324,Scarlet Witch,Reality Warping
+4325,Scorpia,Super Strength
+4326,Scorpia,Energy Blasts
+4327,Scorpia,Super Speed
+4328,Scorpia,Weapon-based Powers
+4329,Scorpia,Force Fields
+4330,Scorpion,Agility
+4331,Scorpion,Durability
+4332,Scorpion,Danger Sense
+4333,Scorpion,Super Strength
+4334,Scorpion,Super Speed
+4335,Scorpion,Weapon-based Powers
+4336,Scorpion,Reflexes
+4337,Scorpion,Power Suit
+4338,Scorpion,Wallcrawling
+4339,Sebastian Shaw,Agility
+4340,Sebastian Shaw,Durability
+4341,Sebastian Shaw,Energy Absorption
+4342,Sebastian Shaw,Super Strength
+4343,Sebastian Shaw,Energy Manipulation
+4344,Sentry,Agility
+4345,Sentry,Accelerated Healing
+4346,Sentry,Flight
+4347,Sentry,Intelligence
+4348,Sentry,Super Strength
+4349,Sentry,Telepathy
+4350,Sentry,Energy Blasts
+4351,Sentry,Stamina
+4352,Sentry,Super Speed
+4353,Sentry,Enhanced Senses
+4354,Sentry,Telekinesis
+4355,Sentry,Immortality
+4356,Sentry,Reflexes
+4357,Sentry,Invulnerability
+4358,Sentry,Force Fields
+4359,Sentry,Enhanced Hearing
+4360,Sentry,Molecular Manipulation
+4361,Sentry,Light Control
+4362,Sentry,Vision - Telescopic
+4363,Sentry,Vision - Infrared
+4364,Sentry,Resurrection
+4365,Sentry,Vision - Thermal
+4366,Shadow King,Telepathy
+4367,Shadow King,Possession
+4368,Shadow King,Immortality
+4369,Shadow King,Astral Projection
+4370,Shadow King,Psionic Powers
+4371,Shadow King,Natural Weapons
+4372,Shadow Lass,Agility
+4373,Shadow Lass,Stealth
+4374,Shadow Lass,Flight
+4375,Shadow Lass,Intelligence
+4376,Shadow Lass,Super Speed
+4377,Shadow Lass,Darkforce Manipulation
+4378,Shadowcat,Stealth
+4379,Shadowcat,Weapons Master
+4380,Shadowcat,Intelligence
+4381,Shadowcat,Camouflage
+4382,Shadowcat,Phasing
+4383,Shadowcat,Intangibility
+4384,Shadowcat,Levitation
+4385,Shadowcat,Cloaking
+4386,Shadowcat,Telepathy Resistance
+4387,Shang-Chi,Agility
+4388,Shang-Chi,Durability
+4389,Shang-Chi,Stealth
+4390,Shang-Chi,Stamina
+4391,Shang-Chi,Reflexes
+4392,Shang-Chi,Toxin and Disease Resistance
+4393,Shatterstar,Agility
+4394,Shatterstar,Accelerated Healing
+4395,Shatterstar,Durability
+4396,Shatterstar,Super Strength
+4397,Shatterstar,Energy Blasts
+4398,Shatterstar,Super Speed
+4399,She-Hulk,Accelerated Healing
+4400,She-Hulk,Durability
+4401,She-Hulk,Longevity
+4402,She-Hulk,Intelligence
+4403,She-Hulk,Super Strength
+4404,She-Hulk,Stamina
+4405,She-Hulk,Jump
+4406,She-Hulk,Invulnerability
+4407,She-Thing,Cold Resistance
+4408,She-Thing,Durability
+4409,She-Thing,Super Strength
+4410,She-Thing,Heat Resistance
+4411,Shocker,Marksmanship
+4412,Shocker,Weapons Master
+4413,Shocker,Energy Blasts
+4414,Shocker,Power Suit
+4415,Shriek,Flight
+4416,Shriek,Energy Blasts
+4417,Shriek,Audio Control
+4418,Shriek,Telekinesis
+4419,Shriek,Empathy
+4420,Shriek,Psionic Powers
+4421,Shriek,Levitation
+4422,Shriek,Sonic Scream
+4423,Sif,Agility
+4424,Sif,Accelerated Healing
+4425,Sif,Durability
+4426,Sif,Weapons Master
+4427,Sif,Longevity
+4428,Sif,Super Strength
+4429,Sif,Stamina
+4430,Sif,Super Speed
+4431,Sif,Teleportation
+4432,Sif,Enhanced Senses
+4433,Sif,Dimensional Travel
+4434,Sif,Reflexes
+4435,Silk,Agility
+4436,Silk,Accelerated Healing
+4437,Silk,Durability
+4438,Silk,Stealth
+4439,Silk,Danger Sense
+4440,Silk,Marksmanship
+4441,Silk,Animal Attributes
+4442,Silk,Super Strength
+4443,Silk,Stamina
+4444,Silk,Super Speed
+4445,Silk,Animal Oriented Powers
+4446,Silk,Jump
+4447,Silk,Reflexes
+4448,Silk,Substance Secretion
+4449,Silk,Natural Weapons
+4450,Silk,Wallcrawling
+4451,Silk,Web Creation
+4452,Silk Spectre,Peak Human Condition
+4453,Silk Spectre II,Peak Human Condition
+4454,Silver Surfer,Agility
+4455,Silver Surfer,Dimensional Awareness
+4456,Silver Surfer,Durability
+4457,Silver Surfer,Energy Absorption
+4458,Silver Surfer,Flight
+4459,Silver Surfer,Marksmanship
+4460,Silver Surfer,Super Strength
+4461,Silver Surfer,Energy Blasts
+4462,Silver Surfer,Stamina
+4463,Silver Surfer,Super Speed
+4464,Silver Surfer,Teleportation
+4465,Silver Surfer,Immortality
+4466,Silver Surfer,Phasing
+4467,Silver Surfer,Invulnerability
+4468,Silver Surfer,Intangibility
+4469,Silver Surfer,Molecular Manipulation
+4470,Silver Surfer,Gravity Control
+4471,Silver Surfer,Energy Manipulation
+4472,Silver Surfer,Time Travel
+4473,Silver Surfer,Power Cosmic
+4474,Silver Surfer,Portal Creation
+4475,Silverclaw,Agility
+4476,Silverclaw,Flight
+4477,Silverclaw,Super Strength
+4478,Silverclaw,Super Speed
+4479,Silverclaw,Animal Oriented Powers
+4480,Silverclaw,Enhanced Senses
+4481,Silverclaw,Shapeshifting
+4482,Simon Baz,Agility
+4483,Simon Baz,Accelerated Healing
+4484,Simon Baz,Lantern Power Ring
+4485,Simon Baz,Flight
+4486,Simon Baz,Marksmanship
+4487,Simon Baz,Super Strength
+4488,Simon Baz,Energy Armor
+4489,Simon Baz,Energy Blasts
+4490,Simon Baz,Stamina
+4491,Simon Baz,Super Speed
+4492,Simon Baz,Energy Beams
+4493,Simon Baz,Reflexes
+4494,Simon Baz,Energy Constructs
+4495,Simon Baz,Force Fields
+4496,Simon Baz,Precognition
+4497,Sinestro,Agility
+4498,Sinestro,Durability
+4499,Sinestro,Flight
+4500,Sinestro,Marksmanship
+4501,Sinestro,Super Strength
+4502,Sinestro,Energy Blasts
+4503,Sinestro,Super Speed
+4504,Sinestro,Energy Constructs
+4505,Sinestro,Force Fields
+4506,Sinestro,Qwardian Power Ring
+4507,Siren,Cold Resistance
+4508,Siren,Durability
+4509,Siren,Stealth
+4510,Siren,Underwater breathing
+4511,Siren,Super Strength
+4512,Siren,Telepathy
+4513,Siren,Super Speed
+4514,Siren,Jump
+4515,Siren,Dimensional Travel
+4516,Siren,Reflexes
+4517,Siren,Enhanced Hearing
+4518,Siren,Water Control
+4519,Siren,Sub-Mariner
+4520,Siren,Vision - Night
+4521,Siren II,Underwater breathing
+4522,Siren II,Super Strength
+4523,Siren II,Stamina
+4524,Siren II,Hypnokinesis
+4525,Siryn,Flight
+4526,Siryn,Enhanced Hearing
+4527,Siryn,Sonar
+4528,Siryn,Sonic Scream
+4529,Skaar,Accelerated Healing
+4530,Skaar,Super Strength
+4531,Skaar,Stamina
+4532,Skaar,Jump
+4533,Skaar,Elemental Transmogrification
+4534,Snowbird,Accelerated Healing
+4535,Snowbird,Flight
+4536,Snowbird,Animal Attributes
+4537,Snowbird,Super Strength
+4538,Snowbird,Stamina
+4539,Snowbird,Animal Oriented Powers
+4540,Snowbird,Enhanced Senses
+4541,Snowbird,Shapeshifting
+4542,Snowbird,Precognition
+4543,Sobek,Durability
+4544,Sobek,Super Strength
+4545,Solomon Grundy,Cold Resistance
+4546,Solomon Grundy,Durability
+4547,Solomon Grundy,Energy Absorption
+4548,Solomon Grundy,Super Strength
+4549,Solomon Grundy,Stamina
+4550,Solomon Grundy,Invulnerability
+4551,Solomon Grundy,Self-Sustenance
+4552,Solomon Grundy,Fire Resistance
+4553,Solomon Grundy,Toxin and Disease Resistance
+4554,Solomon Grundy,Resurrection
+4555,Songbird,Agility
+4556,Songbird,Durability
+4557,Songbird,Flight
+4558,Songbird,Super Strength
+4559,Songbird,Stamina
+4560,Songbird,Audio Control
+4561,Songbird,Super Speed
+4562,Songbird,Reflexes
+4563,Space Ghost,Agility
+4564,Space Ghost,Flight
+4565,Space Ghost,Weapons Master
+4566,Space Ghost,Intelligence
+4567,Space Ghost,Super Strength
+4568,Space Ghost,Energy Blasts
+4569,Space Ghost,Stamina
+4570,Space Ghost,Phasing
+4571,Space Ghost,Invulnerability
+4572,Space Ghost,Force Fields
+4573,Space Ghost,Heat Generation
+4574,Space Ghost,Magnetism
+4575,Space Ghost,Invisibility
+4576,Spawn,Agility
+4577,Spawn,Durability
+4578,Spawn,Stealth
+4579,Spawn,Flight
+4580,Spawn,Weapons Master
+4581,Spawn,Super Strength
+4582,Spawn,Telepathy
+4583,Spawn,Stamina
+4584,Spawn,Super Speed
+4585,Spawn,Teleportation
+4586,Spawn,Magic
+4587,Spawn,Shapeshifting
+4588,Spawn,Immortality
+4589,Spawn,Invulnerability
+4590,Spawn,Empathy
+4591,Spawn,Power Suit
+4592,Spawn,Resurrection
+4593,Spawn,Symbiote Costume
+4594,Spectre,Agility
+4595,Spectre,Accelerated Healing
+4596,Spectre,Dimensional Awareness
+4597,Spectre,Stealth
+4598,Spectre,Energy Absorption
+4599,Spectre,Flight
+4600,Spectre,Marksmanship
+4601,Spectre,Longevity
+4602,Spectre,Intelligence
+4603,Spectre,Super Strength
+4604,Spectre,Telepathy
+4605,Spectre,Energy Blasts
+4606,Spectre,Duplication
+4607,Spectre,Size Changing
+4608,Spectre,Density Control
+4609,Spectre,Stamina
+4610,Spectre,Super Speed
+4611,Spectre,Possession
+4612,Spectre,Electrokinesis
+4613,Spectre,Darkforce Manipulation
+4614,Spectre,Death Touch
+4615,Spectre,Teleportation
+4616,Spectre,Magic
+4617,Spectre,Immortality
+4618,Spectre,Phasing
+4619,Spectre,Astral Projection
+4620,Spectre,Fire Control
+4621,Spectre,Invulnerability
+4622,Spectre,Energy Constructs
+4623,Spectre,Force Fields
+4624,Spectre,Psionic Powers
+4625,Spectre,Elasticity
+4626,Spectre,Animation
+4627,Spectre,Precognition
+4628,Spectre,Hypnokinesis
+4629,Spectre,Animal Control
+4630,Spectre,Heat Generation
+4631,Spectre,Gravity Control
+4632,Spectre,Light Control
+4633,Spectre,Levitation
+4634,Spectre,Time Travel
+4635,Spectre,Illusions
+4636,Spectre,Water Control
+4637,Spectre,Omnilingualism
+4638,Spectre,Time Manipulation
+4639,Spectre,Invisibility
+4640,Spectre,Sub-Mariner
+4641,Spectre,Vision - Heat
+4642,Spectre,Reality Warping
+4643,Speedball,Energy Absorption
+4644,Speedball,Energy Armor
+4645,Speedball,Telekinesis
+4646,Speedball,Force Fields
+4647,Speedy,Stealth
+4648,Speedy,Marksmanship
+4649,Speedy,Weapons Master
+4650,Speedy,Stamina
+4651,Speedy,Reflexes
+4652,Spider-Girl,Agility
+4653,Spider-Girl,Accelerated Healing
+4654,Spider-Girl,Stealth
+4655,Spider-Girl,Danger Sense
+4656,Spider-Girl,Intelligence
+4657,Spider-Girl,Super Strength
+4658,Spider-Girl,Stamina
+4659,Spider-Girl,Dexterity
+4660,Spider-Girl,Super Speed
+4661,Spider-Girl,Jump
+4662,Spider-Girl,Reflexes
+4663,Spider-Girl,Enhanced Hearing
+4664,Spider-Girl,Natural Weapons
+4665,Spider-Girl,Wallcrawling
+4666,Spider-Girl,Web Creation
+4667,Spider-Gwen,Agility
+4668,Spider-Gwen,Accelerated Healing
+4669,Spider-Gwen,Durability
+4670,Spider-Gwen,Stealth
+4671,Spider-Gwen,Danger Sense
+4672,Spider-Gwen,Marksmanship
+4673,Spider-Gwen,Animal Attributes
+4674,Spider-Gwen,Super Strength
+4675,Spider-Gwen,Stamina
+4676,Spider-Gwen,Super Speed
+4677,Spider-Gwen,Animal Oriented Powers
+4678,Spider-Gwen,Jump
+4679,Spider-Gwen,Reflexes
+4680,Spider-Gwen,Substance Secretion
+4681,Spider-Gwen,Wallcrawling
+4682,Spider-Gwen,Web Creation
+4683,Spider-Man,Agility
+4684,Spider-Man,Accelerated Healing
+4685,Spider-Man,Durability
+4686,Spider-Man,Stealth
+4687,Spider-Man,Danger Sense
+4688,Spider-Man,Marksmanship
+4689,Spider-Man,Animal Attributes
+4690,Spider-Man,Super Strength
+4691,Spider-Man,Stamina
+4692,Spider-Man,Super Speed
+4693,Spider-Man,Animal Oriented Powers
+4694,Spider-Man,Enhanced Senses
+4695,Spider-Man,Jump
+4696,Spider-Man,Reflexes
+4697,Spider-Man,Substance Secretion
+4698,Spider-Man,Natural Weapons
+4699,Spider-Man,Toxin and Disease Resistance
+4700,Spider-Man,Wallcrawling
+4701,Spider-Man,Vision - Night
+4702,Spider-Man,Web Creation
+4703,Spider-Woman,Agility
+4704,Spider-Woman,Durability
+4705,Spider-Woman,Flight
+4706,Spider-Woman,Super Strength
+4707,Spider-Woman,Energy Blasts
+4708,Spider-Woman,Stamina
+4709,Spider-Woman,Super Speed
+4710,Spider-Woman,Reflexes
+4711,Spider-Woman,Enhanced Hearing
+4712,Spider-Woman,Toxin and Disease Control
+4713,Spider-Woman,Toxin and Disease Resistance
+4714,Spider-Woman,Wallcrawling
+4715,Spider-Woman III,Agility
+4716,Spider-Woman III,Flight
+4717,Spider-Woman III,Super Strength
+4718,Spider-Woman III,Telepathy
+4719,Spider-Woman III,Energy Blasts
+4720,Spider-Woman III,Stamina
+4721,Spider-Woman III,Super Speed
+4722,Spider-Woman III,Reflexes
+4723,Spider-Woman III,Wallcrawling
+4724,Spider-Woman IV,Agility
+4725,Spider-Woman IV,Flight
+4726,Spider-Woman IV,Super Strength
+4727,Spider-Woman IV,Telepathy
+4728,Spider-Woman IV,Energy Blasts
+4729,Spider-Woman IV,Super Speed
+4730,Spider-Woman IV,Psionic Powers
+4731,Spider-Woman IV,Precognition
+4732,Spider-Woman IV,Power Absorption
+4733,Spider-Woman IV,Hypnokinesis
+4734,Spider-Woman IV,Wallcrawling
+4735,Spock,Stealth
+4736,Spock,Longevity
+4737,Spock,Intelligence
+4738,Spock,Super Strength
+4739,Spock,Telepathy
+4740,Spock,Stamina
+4741,Spock,Psionic Powers
+4742,Spock,Enhanced Hearing
+4743,Spock,Omnilingualism
+4744,Spyke,Accelerated Healing
+4745,Spyke,Stamina
+4746,Spyke,Natural Armor
+4747,Spyke,Heat Generation
+4748,Spyke,Natural Weapons
+4749,Spyke,Wallcrawling
+4750,Star-Lord,Agility
+4751,Star-Lord,Durability
+4752,Star-Lord,Marksmanship
+4753,Star-Lord,Weapons Master
+4754,Star-Lord,Longevity
+4755,Star-Lord,Intelligence
+4756,Star-Lord,Stamina
+4757,Star-Lord,Peak Human Condition
+4758,Stardust,Durability
+4759,Stardust,Energy Absorption
+4760,Stardust,Flight
+4761,Stardust,Longevity
+4762,Stardust,Super Strength
+4763,Stardust,Energy Blasts
+4764,Stardust,Stamina
+4765,Stardust,Super Speed
+4766,Stardust,Energy Beams
+4767,Stardust,Invulnerability
+4768,Stardust,Force Fields
+4769,Stardust,Self-Sustenance
+4770,Stardust,Power Cosmic
+4771,Stardust,Toxin and Disease Resistance
+4772,Starfire,Durability
+4773,Starfire,Energy Absorption
+4774,Starfire,Flight
+4775,Starfire,Super Strength
+4776,Starfire,Energy Blasts
+4777,Starfire,Invulnerability
+4778,Starfire,Omnilingualism
+4779,Stargirl,Agility
+4780,Stargirl,Durability
+4781,Stargirl,Energy Absorption
+4782,Stargirl,Super Strength
+4783,Stargirl,Energy Blasts
+4784,Stargirl,Stamina
+4785,Stargirl,Super Speed
+4786,Stargirl,Invulnerability
+4787,Stargirl,Energy Constructs
+4788,Stargirl,Force Fields
+4789,Stargirl,Heat Generation
+4790,Stargirl,Gravity Control
+4791,Stargirl,Light Control
+4792,Stargirl,Energy Manipulation
+4793,Static,Agility
+4794,Static,Accelerated Healing
+4795,Static,Durability
+4796,Static,Energy Absorption
+4797,Static,Flight
+4798,Static,Marksmanship
+4799,Static,Intelligence
+4800,Static,Energy Blasts
+4801,Static,Electrokinesis
+4802,Static,Enhanced Senses
+4803,Static,Force Fields
+4804,Static,Levitation
+4805,Static,Energy Manipulation
+4806,Static,Mind Control Resistance
+4807,Steel,Durability
+4808,Steel,Flight
+4809,Steel,Super Strength
+4810,Steel,Weapon-based Powers
+4811,Steel,Power Suit
+4812,Steel,Heat Resistance
+4813,Steel,Radiation Immunity
+4814,Stephanie Powell,Accelerated Healing
+4815,Stephanie Powell,Super Speed
+4816,Steppenwolf,Agility
+4817,Steppenwolf,Accelerated Healing
+4818,Steppenwolf,Stealth
+4819,Steppenwolf,Weapons Master
+4820,Steppenwolf,Longevity
+4821,Steppenwolf,Intelligence
+4822,Steppenwolf,Super Strength
+4823,Steppenwolf,Stamina
+4824,Steppenwolf,Super Speed
+4825,Steppenwolf,Enhanced Senses
+4826,Steppenwolf,Immortality
+4827,Steppenwolf,Reflexes
+4828,Steppenwolf,Invulnerability
+4829,Steppenwolf,Toxin and Disease Resistance
+4830,Storm,Cold Resistance
+4831,Storm,Flight
+4832,Storm,Intelligence
+4833,Storm,Enhanced Senses
+4834,Storm,Empathy
+4835,Storm,Heat Resistance
+4836,Storm,Telepathy Resistance
+4837,Storm,Weather Control
+4838,Stormtrooper,Durability
+4839,Stormtrooper,Weapon-based Powers
+4840,Sunspot,Accelerated Healing
+4841,Sunspot,Flight
+4842,Sunspot,Super Strength
+4843,Sunspot,Energy Blasts
+4844,Sunspot,Stamina
+4845,Sunspot,Fire Control
+4846,Sunspot,Substance Secretion
+4847,Sunspot,Fire Resistance
+4848,Sunspot,Heat Generation
+4849,Sunspot,Light Control
+4850,Sunspot,Heat Resistance
+4851,Sunspot,Radiation Absorption
+4852,Superboy,Accelerated Healing
+4853,Superboy,Durability
+4854,Superboy,Energy Absorption
+4855,Superboy,Flight
+4856,Superboy,Super Strength
+4857,Superboy,Energy Blasts
+4858,Superboy,Super Speed
+4859,Superboy,Jump
+4860,Superboy,Invulnerability
+4861,Superboy,Force Fields
+4862,Superboy,Enhanced Hearing
+4863,Superboy,Vision - Telescopic
+4864,Superboy,Super Breath
+4865,Superboy,Vision - Heat
+4866,Superboy,Vision - X-Ray
+4867,Superboy-Prime,Accelerated Healing
+4868,Superboy-Prime,Durability
+4869,Superboy-Prime,Energy Absorption
+4870,Superboy-Prime,Flight
+4871,Superboy-Prime,Longevity
+4872,Superboy-Prime,Intelligence
+4873,Superboy-Prime,Super Strength
+4874,Superboy-Prime,Stamina
+4875,Superboy-Prime,Super Speed
+4876,Superboy-Prime,Enhanced Senses
+4877,Superboy-Prime,Jump
+4878,Superboy-Prime,Invulnerability
+4879,Superboy-Prime,Enhanced Hearing
+4880,Superboy-Prime,Hypnokinesis
+4881,Superboy-Prime,Power Suit
+4882,Superboy-Prime,Enhanced Smell
+4883,Superboy-Prime,Vision - Telescopic
+4884,Superboy-Prime,Magic Resistance
+4885,Superboy-Prime,Vision - Microscopic
+4886,Superboy-Prime,Super Breath
+4887,Superboy-Prime,Vision - Infrared
+4888,Superboy-Prime,Vision - Heat
+4889,Superboy-Prime,Vision - X-Ray
+4890,Supergirl,Agility
+4891,Supergirl,Accelerated Healing
+4892,Supergirl,Cold Resistance
+4893,Supergirl,Durability
+4894,Supergirl,Energy Absorption
+4895,Supergirl,Flight
+4896,Supergirl,Intelligence
+4897,Supergirl,Super Strength
+4898,Supergirl,Stamina
+4899,Supergirl,Super Speed
+4900,Supergirl,Enhanced Senses
+4901,Supergirl,Jump
+4902,Supergirl,Enhanced Memory
+4903,Supergirl,Reflexes
+4904,Supergirl,Invulnerability
+4905,Supergirl,Enhanced Hearing
+4906,Supergirl,Hypnokinesis
+4907,Supergirl,Heat Resistance
+4908,Supergirl,Vision - Telescopic
+4909,Supergirl,Toxin and Disease Resistance
+4910,Supergirl,Vision - Microscopic
+4911,Supergirl,Super Breath
+4912,Supergirl,Vision - Night
+4913,Supergirl,Vision - Infrared
+4914,Supergirl,Vision - Heat
+4915,Supergirl,Vision - X-Ray
+4916,Supergirl,Vision - Thermal
+4917,Superman,Agility
+4918,Superman,Accelerated Healing
+4919,Superman,Cold Resistance
+4920,Superman,Durability
+4921,Superman,Energy Absorption
+4922,Superman,Flight
+4923,Superman,Marksmanship
+4924,Superman,Longevity
+4925,Superman,Intelligence
+4926,Superman,Super Strength
+4927,Superman,Stamina
+4928,Superman,Super Speed
+4929,Superman,Enhanced Senses
+4930,Superman,Energy Beams
+4931,Superman,Jump
+4932,Superman,Enhanced Memory
+4933,Superman,Reflexes
+4934,Superman,Invulnerability
+4935,Superman,Fire Resistance
+4936,Superman,Enhanced Hearing
+4937,Superman,Hypnokinesis
+4938,Superman,Enhanced Sight
+4939,Superman,Heat Resistance
+4940,Superman,Enhanced Smell
+4941,Superman,Vision - Telescopic
+4942,Superman,Vision - Microscopic
+4943,Superman,Super Breath
+4944,Superman,Vision - Heat
+4945,Superman,Vision - X-Ray
+4946,Swamp Thing,Stealth
+4947,Swamp Thing,Flight
+4948,Swamp Thing,Longevity
+4949,Swamp Thing,Intelligence
+4950,Swamp Thing,Super Strength
+4951,Swamp Thing,Duplication
+4952,Swamp Thing,Size Changing
+4953,Swamp Thing,Immortality
+4954,Swamp Thing,Camouflage
+4955,Swamp Thing,Self-Sustenance
+4956,Swamp Thing,Natural Armor
+4957,Swamp Thing,Illusions
+4958,Swamp Thing,Plant Control
+4959,Swamp Thing,Resurrection
+4960,Swarm,Durability
+4961,Swarm,Flight
+4962,Swarm,Longevity
+4963,Swarm,Intelligence
+4964,Swarm,Super Strength
+4965,Swarm,Size Changing
+4966,Swarm,Animal Oriented Powers
+4967,Swarm,Shapeshifting
+4968,Swarm,Animal Control
+4969,Swarm,Intangibility
+4970,Sylar,Cryokinesis
+4971,Sylar,Telekinesis
+4972,Sylar,Enhanced Memory
+4973,Sylar,Radiation Control
+4974,Sylar,Precognition
+4975,Sylar,Enhanced Hearing
+4976,Sylar,Intuitive aptitude
+4977,Sylar,Melting
+4978,Synch,Power Absorption
+4979,T-1000,Agility
+4980,T-1000,Accelerated Healing
+4981,T-1000,Cold Resistance
+4982,T-1000,Durability
+4983,T-1000,Stealth
+4984,T-1000,Marksmanship
+4985,T-1000,Weapons Master
+4986,T-1000,Longevity
+4987,T-1000,Intelligence
+4988,T-1000,Super Strength
+4989,T-1000,Size Changing
+4990,T-1000,Stamina
+4991,T-1000,Super Speed
+4992,T-1000,Enhanced Senses
+4993,T-1000,Shapeshifting
+4994,T-1000,Camouflage
+4995,T-1000,Enhanced Memory
+4996,T-1000,Reflexes
+4997,T-1000,Invulnerability
+4998,T-1000,Technopath/Cyberpath
+4999,T-1000,Fire Resistance
+5000,T-1000,Enhanced Hearing
+5001,T-1000,Regeneration
+5002,T-1000,Heat Resistance
+5003,T-1000,Natural Weapons
+5004,T-1000,Enhanced Smell
+5005,T-1000,Vision - Telescopic
+5006,T-1000,Enhanced Touch
+5007,T-1000,Melting
+5008,T-1000,Vision - Night
+5009,T-1000,Vision - Infrared
+5010,T-1000,Vision - Thermal
+5011,T-800,Cold Resistance
+5012,T-800,Durability
+5013,T-800,Stealth
+5014,T-800,Weapons Master
+5015,T-800,Longevity
+5016,T-800,Super Strength
+5017,T-800,Stamina
+5018,T-800,Enhanced Memory
+5019,T-800,Invulnerability
+5020,T-800,Technopath/Cyberpath
+5021,T-800,Enhanced Hearing
+5022,T-800,Heat Resistance
+5023,T-800,Vision - Telescopic
+5024,T-800,Vision - Night
+5025,T-800,Vision - Infrared
+5026,T-800,Vision - Thermal
+5027,T-850,Accelerated Healing
+5028,T-850,Cold Resistance
+5029,T-850,Durability
+5030,T-850,Stealth
+5031,T-850,Weapons Master
+5032,T-850,Longevity
+5033,T-850,Super Strength
+5034,T-850,Stamina
+5035,T-850,Enhanced Memory
+5036,T-850,Invulnerability
+5037,T-850,Technopath/Cyberpath
+5038,T-850,Enhanced Hearing
+5039,T-850,Heat Resistance
+5040,T-850,Vision - Telescopic
+5041,T-850,Vision - Night
+5042,T-850,Vision - Infrared
+5043,T-850,Vision - Thermal
+5044,T-X,Agility
+5045,T-X,Accelerated Healing
+5046,T-X,Cold Resistance
+5047,T-X,Durability
+5048,T-X,Stealth
+5049,T-X,Marksmanship
+5050,T-X,Weapons Master
+5051,T-X,Longevity
+5052,T-X,Intelligence
+5053,T-X,Super Strength
+5054,T-X,Energy Blasts
+5055,T-X,Stamina
+5056,T-X,Super Speed
+5057,T-X,Enhanced Senses
+5058,T-X,Energy Beams
+5059,T-X,Shapeshifting
+5060,T-X,Camouflage
+5061,T-X,Enhanced Memory
+5062,T-X,Reflexes
+5063,T-X,Invulnerability
+5064,T-X,Technopath/Cyberpath
+5065,T-X,Fire Resistance
+5066,T-X,Enhanced Hearing
+5067,T-X,Regeneration
+5068,T-X,Heat Resistance
+5069,T-X,Natural Weapons
+5070,T-X,Enhanced Smell
+5071,T-X,Vision - Telescopic
+5072,T-X,Enhanced Touch
+5073,T-X,Vision - Microscopic
+5074,T-X,Vision - Night
+5075,T-X,Vision - Infrared
+5076,T-X,Vision - Thermal
+5077,Taskmaster,Agility
+5078,Taskmaster,Stealth
+5079,Taskmaster,Marksmanship
+5080,Taskmaster,Weapons Master
+5081,Taskmaster,Stamina
+5082,Taskmaster,Super Speed
+5083,Taskmaster,Weapon-based Powers
+5084,Taskmaster,Reflexes
+5085,Taskmaster,Photographic Reflexes
+5086,Taskmaster,Power Suit
+5087,Tempest,Flight
+5088,Tempest,Cryokinesis
+5089,Tempest,Fire Control
+5090,Tempest,Force Fields
+5091,Tempest,Wind Control
+5092,Thanos,Agility
+5093,Thanos,Accelerated Healing
+5094,Thanos,Cold Resistance
+5095,Thanos,Durability
+5096,Thanos,Flight
+5097,Thanos,Longevity
+5098,Thanos,Intelligence
+5099,Thanos,Super Strength
+5100,Thanos,Telepathy
+5101,Thanos,Energy Blasts
+5102,Thanos,Stamina
+5103,Thanos,Super Speed
+5104,Thanos,Teleportation
+5105,Thanos,Enhanced Senses
+5106,Thanos,Energy Beams
+5107,Thanos,Magic
+5108,Thanos,Immortality
+5109,Thanos,Reflexes
+5110,Thanos,Invulnerability
+5111,Thanos,Force Fields
+5112,Thanos,Molecular Manipulation
+5113,Thanos,Energy Manipulation
+5114,Thanos,Heat Resistance
+5115,Thanos,Radiation Immunity
+5116,Thanos,Toxin and Disease Resistance
+5117,Thanos,Telepathy Resistance
+5118,Thanos,Omnilingualism
+5119,Thanos,Time Manipulation
+5120,Thanos,Matter Absorption
+5121,Thanos,Vision - Heat
+5122,Thanos,Reality Warping
+5123,The Cape,Weapon-based Powers
+5124,The Comedian,Weapons Master
+5125,Thing,Cold Resistance
+5126,Thing,Durability
+5127,Thing,Longevity
+5128,Thing,Super Strength
+5129,Thing,Stamina
+5130,Thing,Invulnerability
+5131,Thing,Fire Resistance
+5132,Thing,Natural Armor
+5133,Thing,Heat Resistance
+5134,Thor,Agility
+5135,Thor,Accelerated Healing
+5136,Thor,Durability
+5137,Thor,Flight
+5138,Thor,Longevity
+5139,Thor,Super Strength
+5140,Thor,Stamina
+5141,Thor,Super Speed
+5142,Thor,Weapon-based Powers
+5143,Thor,Teleportation
+5144,Thor,Enhanced Senses
+5145,Thor,Magic
+5146,Thor,Element Control
+5147,Thor,Reflexes
+5148,Thor,Invulnerability
+5149,Thor,Toxin and Disease Resistance
+5150,Thor,Weather Control
+5151,Thor,Odin Force
+5152,Thor Girl,Durability
+5153,Thor Girl,Super Strength
+5154,Thor Girl,Stamina
+5155,Thor Girl,Super Speed
+5156,Thor Girl,Immortality
+5157,Thor Girl,Reflexes
+5158,Thor Girl,Invulnerability
+5159,Thor Girl,Toxin and Disease Resistance
+5160,Thunderbird,Durability
+5161,Thunderbird,Super Strength
+5162,Thunderbird,Stamina
+5163,Thunderbird,Super Speed
+5164,Thunderbird III,Energy Absorption
+5165,Thunderbird III,Flight
+5166,Thunderbird III,Energy Blasts
+5167,Thunderbird III,Natural Weapons
+5168,Thunderstrike,Accelerated Healing
+5169,Thunderstrike,Durability
+5170,Thunderstrike,Longevity
+5171,Thunderstrike,Super Strength
+5172,Thunderstrike,Stamina
+5173,Thunderstrike,Super Speed
+5174,Thunderstrike,Toxin and Disease Resistance
+5175,Thundra,Agility
+5176,Thundra,Super Strength
+5177,Thundra,Stamina
+5178,Thundra,Super Speed
+5179,Thundra,Reflexes
+5180,Tiger Shark,Agility
+5181,Tiger Shark,Accelerated Healing
+5182,Tiger Shark,Cold Resistance
+5183,Tiger Shark,Durability
+5184,Tiger Shark,Underwater breathing
+5185,Tiger Shark,Animal Attributes
+5186,Tiger Shark,Super Strength
+5187,Tiger Shark,Stamina
+5188,Tiger Shark,Super Speed
+5189,Tiger Shark,Animal Oriented Powers
+5190,Tiger Shark,Reflexes
+5191,Tiger Shark,Natural Armor
+5192,Tiger Shark,Enhanced Sight
+5193,Tiger Shark,Natural Weapons
+5194,Tiger Shark,Enhanced Smell
+5195,Tiger Shark,Sub-Mariner
+5196,Tigra,Agility
+5197,Tigra,Super Strength
+5198,Tigra,Stamina
+5199,Tigra,Super Speed
+5200,Tigra,Enhanced Senses
+5201,Tigra,Jump
+5202,Tinkerer,Intelligence
+5203,Titan,Flight
+5204,Titan,Super Strength
+5205,Titan,Super Speed
+5206,Toad,Agility
+5207,Toad,Accelerated Healing
+5208,Toad,Durability
+5209,Toad,Animal Attributes
+5210,Toad,Super Strength
+5211,Toad,Stamina
+5212,Toad,Animal Oriented Powers
+5213,Toad,Jump
+5214,Toad,Reflexes
+5215,Toad,Psionic Powers
+5216,Toad,Substance Secretion
+5217,Toad,Mind Control
+5218,Toad,Insanity
+5219,Toad,Toxin and Disease Control
+5220,Toad,Super Breath
+5221,Toad,Wallcrawling
+5222,Toad,Vision - Infrared
+5223,Toxin,Agility
+5224,Toxin,Accelerated Healing
+5225,Toxin,Durability
+5226,Toxin,Stealth
+5227,Toxin,Danger Sense
+5228,Toxin,Super Strength
+5229,Toxin,Size Changing
+5230,Toxin,Stamina
+5231,Toxin,Super Speed
+5232,Toxin,Weapon-based Powers
+5233,Toxin,Jump
+5234,Toxin,Shapeshifting
+5235,Toxin,Camouflage
+5236,Toxin,Reflexes
+5237,Toxin,Substance Secretion
+5238,Toxin,Natural Armor
+5239,Toxin,Natural Weapons
+5240,Toxin,Wallcrawling
+5241,Toxin,Web Creation
+5242,Toxin,Symbiote Costume
+5243,Tracy Strauss,Cold Resistance
+5244,Tracy Strauss,Cryokinesis
+5245,Trickster,Flight
+5246,Trigon,Accelerated Healing
+5247,Trigon,Durability
+5248,Trigon,Flight
+5249,Trigon,Super Strength
+5250,Trigon,Stamina
+5251,Trigon,Teleportation
+5252,Trigon,Telekinesis
+5253,Trigon,Dimensional Travel
+5254,Trigon,Fire Control
+5255,Trigon,Reflexes
+5256,Trigon,Mind Control
+5257,Trigon,Heat Generation
+5258,Trigon,Regeneration
+5259,Trigon,Illusions
+5260,Triplicate Girl,Flight
+5261,Triplicate Girl,Duplication
+5262,Triton,Agility
+5263,Triton,Cold Resistance
+5264,Triton,Durability
+5265,Triton,Underwater breathing
+5266,Triton,Super Strength
+5267,Triton,Stamina
+5268,Triton,Super Speed
+5269,Triton,Reflexes
+5270,Triton,Sub-Mariner
+5271,Ultragirl,Durability
+5272,Ultragirl,Flight
+5273,Ultragirl,Super Strength
+5274,Ultragirl,Stamina
+5275,Ultragirl,Super Speed
+5276,Ultragirl,Enhanced Senses
+5277,Ultragirl,Reflexes
+5278,Ultragirl,Invulnerability
+5279,Ultron,Agility
+5280,Ultron,Durability
+5281,Ultron,Stealth
+5282,Ultron,Energy Absorption
+5283,Ultron,Flight
+5284,Ultron,Super Strength
+5285,Ultron,Energy Armor
+5286,Ultron,Energy Blasts
+5287,Ultron,Stamina
+5288,Ultron,Super Speed
+5289,Ultron,Enhanced Senses
+5290,Ultron,Energy Beams
+5291,Ultron,Immortality
+5292,Ultron,Enhanced Memory
+5293,Ultron,Force Fields
+5294,Ultron,Radiation Control
+5295,Ultron,Technopath/Cyberpath
+5296,Ultron,Mind Control
+5297,Ultron,Enhanced Hearing
+5298,Ultron,Gravity Control
+5299,Ultron,Vision - Telescopic
+5300,Ultron,Radiation Absorption
+5301,Ultron,Vision - Night
+5302,Ultron,Vision - X-Ray
+5303,Ultron,Vision - Thermal
+5304,Utgard-Loki,Durability
+5305,Utgard-Loki,Longevity
+5306,Utgard-Loki,Super Strength
+5307,Utgard-Loki,Stamina
+5308,Utgard-Loki,Magic
+5309,Utgard-Loki,Invulnerability
+5310,Valerie Hart,Agility
+5311,Valerie Hart,Super Strength
+5312,Valerie Hart,Weapon-based Powers
+5313,Valerie Hart,Reflexes
+5314,Valerie Hart,Changing Armor
+5315,Valkyrie,Durability
+5316,Valkyrie,Super Strength
+5317,Valkyrie,Stamina
+5318,Valkyrie,Toxin and Disease Resistance
+5319,Vanisher,Teleportation
+5320,Vegeta,Agility
+5321,Vegeta,Accelerated Healing
+5322,Vegeta,Flight
+5323,Vegeta,Marksmanship
+5324,Vegeta,Longevity
+5325,Vegeta,Intelligence
+5326,Vegeta,Super Strength
+5327,Vegeta,Energy Blasts
+5328,Vegeta,Stamina
+5329,Vegeta,Super Speed
+5330,Vegeta,Jump
+5331,Vegeta,Shapeshifting
+5332,Vegeta,Immortality
+5333,Vegeta,Fire Control
+5334,Vegeta,Reflexes
+5335,Vegeta,Invulnerability
+5336,Vegeta,Force Fields
+5337,Vegeta,Enhanced Hearing
+5338,Vegeta,Heat Generation
+5339,Vegeta,Adaptation
+5340,Vegeta,Light Control
+5341,Vegeta,Levitation
+5342,Vegeta,Radar Sense
+5343,Venom,Accelerated Healing
+5344,Venom,Durability
+5345,Venom,Danger Sense
+5346,Venom,Super Strength
+5347,Venom,Stamina
+5348,Venom,Super Speed
+5349,Venom,Weapon-based Powers
+5350,Venom,Jump
+5351,Venom,Shapeshifting
+5352,Venom,Reflexes
+5353,Venom,Natural Weapons
+5354,Venom,Wallcrawling
+5355,Venom,Web Creation
+5356,Venom,Symbiote Costume
+5357,Venom II,Agility
+5358,Venom II,Durability
+5359,Venom II,Super Strength
+5360,Venom II,Super Speed
+5361,Venom II,Animal Oriented Powers
+5362,Venom II,Shapeshifting
+5363,Venom II,Camouflage
+5364,Venom II,Reflexes
+5365,Venom II,Wallcrawling
+5366,Venom III,Agility
+5367,Venom III,Accelerated Healing
+5368,Venom III,Durability
+5369,Venom III,Danger Sense
+5370,Venom III,Super Strength
+5371,Venom III,Stamina
+5372,Venom III,Super Speed
+5373,Venom III,Animal Oriented Powers
+5374,Venom III,Camouflage
+5375,Venom III,Reflexes
+5376,Venom III,Natural Weapons
+5377,Venom III,Wallcrawling
+5378,Venom III,Symbiote Costume
+5379,Venompool,Agility
+5380,Venompool,Accelerated Healing
+5381,Venompool,Dimensional Awareness
+5382,Venompool,Durability
+5383,Venompool,Stealth
+5384,Venompool,Danger Sense
+5385,Venompool,Marksmanship
+5386,Venompool,Weapons Master
+5387,Venompool,Longevity
+5388,Venompool,Super Strength
+5389,Venompool,Stamina
+5390,Venompool,Super Speed
+5391,Venompool,Weapon-based Powers
+5392,Venompool,Teleportation
+5393,Venompool,Jump
+5394,Venompool,Immortality
+5395,Venompool,Reflexes
+5396,Venompool,Natural Armor
+5397,Venompool,Regeneration
+5398,Venompool,Natural Weapons
+5399,Venompool,Toxin and Disease Resistance
+5400,Venompool,Telepathy Resistance
+5401,Venompool,Mind Control Resistance
+5402,Venompool,Wallcrawling
+5403,Venompool,Web Creation
+5404,Venompool,Symbiote Costume
+5405,Vertigo II,Psionic Powers
+5406,Vibe,Dimensional Awareness
+5407,Vibe,Energy Blasts
+5408,Vibe,Teleportation
+5409,Vibe,Dimensional Travel
+5410,Vibe,Power Nullifier
+5411,Vibe,Seismic Power
+5412,Vindicator,Durability
+5413,Vindicator,Flight
+5414,Vindicator,Energy Beams
+5415,Vindicator,Element Control
+5416,Vindicator,Force Fields
+5417,Vindicator,Heat Generation
+5418,Vindicator,Gravity Control
+5419,Vindicator,Water Control
+5420,Violator,Durability
+5421,Violator,Super Strength
+5422,Violator,Telepathy
+5423,Violator,Shapeshifting
+5424,Violator,Sonic Scream
+5425,Violet Parr,Stealth
+5426,Violet Parr,Intelligence
+5427,Violet Parr,Energy Constructs
+5428,Violet Parr,Force Fields
+5429,Violet Parr,Levitation
+5430,Violet Parr,Invisibility
+5431,Vision,Durability
+5432,Vision,Stealth
+5433,Vision,Energy Absorption
+5434,Vision,Flight
+5435,Vision,Marksmanship
+5436,Vision,Intelligence
+5437,Vision,Super Strength
+5438,Vision,Telepathy
+5439,Vision,Energy Blasts
+5440,Vision,Density Control
+5441,Vision,Stamina
+5442,Vision,Super Speed
+5443,Vision,Energy Beams
+5444,Vision,Phasing
+5445,Vision,Reflexes
+5446,Vision,Invulnerability
+5447,Vision,Technopath/Cyberpath
+5448,Vision,Enhanced Hearing
+5449,Vision,Natural Armor
+5450,Vision,Intangibility
+5451,Vixen,Agility
+5452,Vixen,Accelerated Healing
+5453,Vixen,Stealth
+5454,Vixen,Flight
+5455,Vixen,Danger Sense
+5456,Vixen,Animal Attributes
+5457,Vixen,Super Strength
+5458,Vixen,Stamina
+5459,Vixen,Super Speed
+5460,Vixen,Animal Oriented Powers
+5461,Vixen,Shapeshifting
+5462,Vixen,Force Fields
+5463,Vixen,Enhanced Hearing
+5464,Vixen,Enhanced Sight
+5465,Vixen,Natural Weapons
+5466,Vixen,Enhanced Smell
+5467,Vixen,Wallcrawling
+5468,Vulture,Agility
+5469,Vulture,Flight
+5470,Vulture,Marksmanship
+5471,Vulture,Super Strength
+5472,Vulture,Super Speed
+5473,Vulture,Animal Oriented Powers
+5474,Vulture,Gravity Control
+5475,Vulture,Levitation
+5476,Walrus,Durability
+5477,Walrus,Super Strength
+5478,Walrus,Natural Armor
+5479,Walrus,Natural Weapons
+5480,War Machine,Durability
+5481,War Machine,Energy Absorption
+5482,War Machine,Flight
+5483,War Machine,Underwater breathing
+5484,War Machine,Marksmanship
+5485,War Machine,Super Strength
+5486,War Machine,Energy Blasts
+5487,War Machine,Super Speed
+5488,War Machine,Weapon-based Powers
+5489,War Machine,Energy Beams
+5490,War Machine,Phasing
+5491,War Machine,Power Suit
+5492,War Machine,Radiation Immunity
+5493,War Machine,Vision - Telescopic
+5494,War Machine,Magnetism
+5495,War Machine,Invisibility
+5496,War Machine,Vision - Night
+5497,War Machine,Vision - Thermal
+5498,Warlock,Agility
+5499,Warlock,Durability
+5500,Warlock,Flight
+5501,Warlock,Super Strength
+5502,Warlock,Energy Blasts
+5503,Warlock,Stamina
+5504,Warlock,Super Speed
+5505,Warlock,Reflexes
+5506,Warlock,Energy Manipulation
+5507,Warp,Flight
+5508,Warp,Teleportation
+5509,Warpath,Agility
+5510,Warpath,Cold Resistance
+5511,Warpath,Durability
+5512,Warpath,Super Strength
+5513,Warpath,Stamina
+5514,Warpath,Super Speed
+5515,Warpath,Reflexes
+5516,Warpath,Enhanced Hearing
+5517,Warpath,Heat Resistance
+5518,Warpath,Vision - Telescopic
+5519,Warpath,Vision - Night
+5520,Wasp,Agility
+5521,Wasp,Stealth
+5522,Wasp,Flight
+5523,Wasp,Intelligence
+5524,Wasp,Super Strength
+5525,Wasp,Energy Blasts
+5526,Wasp,Size Changing
+5527,Wasp,Animal Oriented Powers
+5528,Wasp,Weapon-based Powers
+5529,Watcher,Dimensional Awareness
+5530,Watcher,Flight
+5531,Watcher,Intelligence
+5532,Watcher,Telepathy
+5533,Watcher,Size Changing
+5534,Watcher,Teleportation
+5535,Watcher,Immortality
+5536,Watcher,Phasing
+5537,Watcher,Invulnerability
+5538,Watcher,Force Fields
+5539,Watcher,Empathy
+5540,Watcher,Psionic Powers
+5541,Watcher,Enhanced Hearing
+5542,Watcher,Energy Manipulation
+5543,Watcher,Illusions
+5544,Watcher,Telepathy Resistance
+5545,Watcher,Omnilingualism
+5546,Watcher,Invisibility
+5547,Weapon XI,Agility
+5548,Weapon XI,Accelerated Healing
+5549,Weapon XI,Super Strength
+5550,Weapon XI,Energy Blasts
+5551,Weapon XI,Super Speed
+5552,Weapon XI,Weapon-based Powers
+5553,Weapon XI,Teleportation
+5554,White Canary,Agility
+5555,White Canary,Stealth
+5556,White Canary,Weapons Master
+5557,White Canary,Stamina
+5558,White Canary,Reflexes
+5559,Wildfire,Energy Absorption
+5560,Wildfire,Flight
+5561,Wildfire,Super Strength
+5562,Wildfire,Energy Blasts
+5563,Wildfire,Size Changing
+5564,Wildfire,Invulnerability
+5565,Wildfire,Energy Manipulation
+5566,Wildfire,Vision - X-Ray
+5567,Winter Soldier,Marksmanship
+5568,Winter Soldier,Longevity
+5569,Winter Soldier,Super Strength
+5570,Winter Soldier,Energy Blasts
+5571,Winter Soldier,Peak Human Condition
+5572,Wolfsbane,Animal Attributes
+5573,Wolfsbane,Super Strength
+5574,Wolfsbane,Super Speed
+5575,Wolfsbane,Enhanced Senses
+5576,Wolfsbane,Shapeshifting
+5577,Wolfsbane,Reflexes
+5578,Wolfsbane,Natural Weapons
+5579,Wolfsbane,Vision - Thermal
+5580,Wolverine,Agility
+5581,Wolverine,Accelerated Healing
+5582,Wolverine,Cold Resistance
+5583,Wolverine,Durability
+5584,Wolverine,Stealth
+5585,Wolverine,Longevity
+5586,Wolverine,Super Strength
+5587,Wolverine,Stamina
+5588,Wolverine,Animal Oriented Powers
+5589,Wolverine,Enhanced Senses
+5590,Wolverine,Jump
+5591,Wolverine,Reflexes
+5592,Wolverine,Empathy
+5593,Wolverine,Enhanced Hearing
+5594,Wolverine,Enhanced Sight
+5595,Wolverine,Regeneration
+5596,Wolverine,Natural Weapons
+5597,Wolverine,Enhanced Smell
+5598,Wolverine,Vision - Telescopic
+5599,Wolverine,Toxin and Disease Resistance
+5600,Wolverine,Vision - Night
+5601,Wonder Girl,Agility
+5602,Wonder Girl,Durability
+5603,Wonder Girl,Flight
+5604,Wonder Girl,Longevity
+5605,Wonder Girl,Intelligence
+5606,Wonder Girl,Super Strength
+5607,Wonder Girl,Super Speed
+5608,Wonder Girl,Electrokinesis
+5609,Wonder Girl,Invulnerability
+5610,Wonder Man,Durability
+5611,Wonder Man,Flight
+5612,Wonder Man,Longevity
+5613,Wonder Man,Super Strength
+5614,Wonder Man,Energy Blasts
+5615,Wonder Man,Size Changing
+5616,Wonder Man,Stamina
+5617,Wonder Man,Super Speed
+5618,Wonder Man,Reflexes
+5619,Wonder Man,Invulnerability
+5620,Wonder Man,Self-Sustenance
+5621,Wonder Woman,Accelerated Healing
+5622,Wonder Woman,Durability
+5623,Wonder Woman,Flight
+5624,Wonder Woman,Marksmanship
+5625,Wonder Woman,Weapons Master
+5626,Wonder Woman,Longevity
+5627,Wonder Woman,Intelligence
+5628,Wonder Woman,Super Strength
+5629,Wonder Woman,Telepathy
+5630,Wonder Woman,Stamina
+5631,Wonder Woman,Super Speed
+5632,Wonder Woman,Animal Oriented Powers
+5633,Wonder Woman,Weapon-based Powers
+5634,Wonder Woman,Enhanced Senses
+5635,Wonder Woman,Dimensional Travel
+5636,Wonder Woman,Enhanced Memory
+5637,Wonder Woman,Reflexes
+5638,Wonder Woman,Force Fields
+5639,Wonder Woman,Fire Resistance
+5640,Wonder Woman,Enhanced Hearing
+5641,Wonder Woman,Hypnokinesis
+5642,Wonder Woman,Enhanced Smell
+5643,Wonder Woman,Vision - Telescopic
+5644,Wonder Woman,Toxin and Disease Resistance
+5645,Wonder Woman,Magic Resistance
+5646,Wonder Woman,Vision - Microscopic
+5647,Wonder Woman,Vision - Night
+5648,Wonder Woman,Vision - Infrared
+5649,Wonder Woman,Vision - X-Ray
+5650,Wonder Woman,Vision - Thermal
+5651,X-23,Agility
+5652,X-23,Accelerated Healing
+5653,X-23,Durability
+5654,X-23,Stealth
+5655,X-23,Marksmanship
+5656,X-23,Longevity
+5657,X-23,Super Strength
+5658,X-23,Stamina
+5659,X-23,Jump
+5660,X-23,Reflexes
+5661,X-23,Enhanced Hearing
+5662,X-23,Enhanced Sight
+5663,X-23,Natural Weapons
+5664,X-23,Enhanced Smell
+5665,X-23,Vision - Telescopic
+5666,X-23,Toxin and Disease Resistance
+5667,X-23,Vision - Night
+5668,X-Man,Flight
+5669,X-Man,Telepathy
+5670,X-Man,Astral Travel
+5671,X-Man,Teleportation
+5672,X-Man,Telekinesis
+5673,X-Man,Phasing
+5674,X-Man,Astral Projection
+5675,X-Man,Psionic Powers
+5676,X-Man,Mind Control
+5677,X-Man,Intangibility
+5678,X-Man,Illusions
+5679,Yellowjacket,Size Changing
+5680,Yellowjacket,Animal Oriented Powers
+5681,Yellowjacket II,Flight
+5682,Yellowjacket II,Energy Blasts
+5683,Yellowjacket II,Size Changing
+5684,Ymir,Cold Resistance
+5685,Ymir,Durability
+5686,Ymir,Longevity
+5687,Ymir,Super Strength
+5688,Ymir,Cryokinesis
+5689,Ymir,Immortality
+5690,Yoda,Agility
+5691,Yoda,Stealth
+5692,Yoda,Danger Sense
+5693,Yoda,Marksmanship
+5694,Yoda,Weapons Master
+5695,Yoda,Longevity
+5696,Yoda,Intelligence
+5697,Yoda,Telepathy
+5698,Yoda,Energy Blasts
+5699,Yoda,Stamina
+5700,Yoda,Super Speed
+5701,Yoda,Telekinesis
+5702,Yoda,Jump
+5703,Yoda,Reflexes
+5704,Yoda,Force Fields
+5705,Yoda,Empathy
+5706,Yoda,Precognition
+5707,Yoda,Cloaking
+5708,Yoda,The Force
+5709,Zatanna,Cryokinesis
+5710,Zatanna,Telepathy
+5711,Zatanna,Magic
+5712,Zatanna,Fire Control
+5713,Zatanna,Probability Manipulation
+5714,Zatanna,Water Control
+5715,Zatanna,Terrakinesis
+5716,Zatanna,Weather Control
+5717,Zoom,Super Speed
+5718,Zoom,Intangibility
+5719,Zoom,Time Travel
+5720,Zoom,Time Manipulation
