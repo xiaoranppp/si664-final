@@ -48,9 +48,9 @@ class Comics(models.Model):
 
     def __str__(self):
         return self.comic_name
-    #def characters_display(self):
-    #   return ', '.join(
-    #       character.character_name for character in self.character.all())
+    def character_display(self):
+       return ', '.join(
+           character.character_name for character in self.character.all())
 
     #characters_display.short_description = 'characters'
 class Powers(models.Model):
@@ -68,9 +68,9 @@ class Powers(models.Model):
 
     def __str__(self):
         return self.power_name
-    #def characters_display(self):
-       #return ', '.join(
-           #characters.character_name for characters in self.characters.all())
+    def character_display(self):
+       return ', '.join(
+           character.character_name for character in self.character.all())
 
     #characters_display.short_description = 'characters'
 class Characters(models.Model):

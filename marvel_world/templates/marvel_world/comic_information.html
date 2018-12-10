@@ -1,0 +1,53 @@
+{% extends 'marvel_world/base.html' %}
+{% block content %}
+
+<!-- safe filter on for raw HTML stored in database -->
+
+<h2>{{comic.comic_name | safe}}</h2>
+{% if comic.comic_name %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Comic Name</p>
+    </div>
+    <div class="col-sm-10">
+      {{comic.comic_name | safe}}
+    </div>
+  </div>
+{% endif %}
+
+
+{% if comic.comic_number %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Comic Number</p>
+    </div>
+    <div class="col-sm-10">
+      {{comic.comic_number | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if comic.issue_number %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Issue Number</p>
+    </div>
+    <div class="col-sm-10">
+      {{comic.issue_number | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if comic.description %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Description</p>
+    </div>
+    <div class="col-sm-10">
+      {{comic.description| safe}}
+    </div>
+  </div>
+{% endif %}
+
+
+
+
+{% endblock content %}}

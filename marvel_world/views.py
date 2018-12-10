@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from django.views import generic
 
-from .models import Characters
+from .models import Characters,Comics
 
 
 def index(request):
@@ -29,6 +29,18 @@ class CharacterDetailView(generic.DetailView):
     model = Characters
     context_object_name=  'character'
     template_name = 'marvel_world/character_information.html'
+class ComicListView(generic.ListView):
+	model = Comics
+	context_object_name = 'comics'
+	template_name = 'marvel_world/comics.html'
+	paginate_by = 50
+
+	def get_queryset(self):
+		return Comics.objects.all().order_by('comic_name')
+class ComicDetailView(generic.DetailView):
+    model = Comics
+    context_object_name=  'comic'
+    template_name = 'marvel_world/comic_information.html'
 
 #class CharacterDetailView(generic.DetailView):model = Characters context_object_name=  'character'template_name='marvel_world/character_information.html'
 
