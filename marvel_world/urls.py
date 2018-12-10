@@ -8,4 +8,6 @@ urlpatterns = [
     path('chracters/<int:pk>/', views.CharacterDetailView.as_view(), name='character_information'),
     path('comics/', views.ComicListView.as_view(), name='comics'),
     path('comics/<int:pk>/', views.ComicDetailView.as_view(), name='comic_information'),
+    path('powers/', views.PowerListView.as_view(), name='super_power'),
+    path('powers/<int:pk>/', views.PowerDetailView.as_view(), name='super_power_information'),
 ]
