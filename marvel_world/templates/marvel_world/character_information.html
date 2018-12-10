@@ -1,0 +1,246 @@
+{% extends 'marvel_world/base.html' %}
+{% block content %}
+
+<!-- safe filter on for raw HTML stored in database -->
+
+<h2>{{character.character_name | safe}}</h2>
+{% if character.character_name %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Character Name</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.character_name | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.super_power_display %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Super Power</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.super_power_display | safe}}
+    </div>
+  </div>
+{% endif %}
+
+{% if character.character_number %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Character Number</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.character_number | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.gender %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Gender</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.gender | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.alignment %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Alignment</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.alignment | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.race %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Race</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.race | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.publisher %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Publisher</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.publisher | safe}}
+    </div>
+  </div>
+{% endif %}
+
+
+{% if character.eye_color %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Eye color</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.eye_color | safe}}
+    </div>
+  </div>
+{% endif %}
+
+{% if character.skin_color %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Skin Color</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.skin_color | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.hair_color %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Hair Color</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.hair_color | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.height %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Height</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.height| safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.weight %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Weight</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.weight | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.intelligence %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Intelligence</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.intelligence | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.strength %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Strength</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.strength | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.power %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Power</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.power | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.durability %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Durability</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.durability| safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.combat%}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Combat</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.combat | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.speed%}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Speed</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.speed | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.total %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Total</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.total | safe}}
+    </div>
+  </div>
+{% endif %}
+{% if character.comics_display %}
+  <div class="row">
+    <div class="col-sm-2">
+      <p>Comics</p>
+    </div>
+    <div class="col-sm-10">
+      {{character.comics_display | safe}}
+    </div>
+  </div>
+{% endif %}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% endblock content %}}
