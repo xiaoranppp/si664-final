@@ -1,6 +1,6 @@
 {% extends 'marvel_world/base.html' %}
 {% block content %}
-
+{% if user.is_authenticated %}
 <article>
   <header>
     <h2>Marvel Super Power</h2>
@@ -63,5 +63,8 @@
 
   <p>page count: {{ powers.count }}</p>
 </article>
+{% else %}
+    <a href="{% url 'login' %}">Log in</a>
+  {% endif %}
 
 {% endblock content %}}

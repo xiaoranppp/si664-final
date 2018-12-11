@@ -3,7 +3,7 @@ from django.contrib import admin
 import marvel_world.models as models
 
 
-@admin.register(models.Comics)
+@admin.register(models.Comic)
 class ComicsAdmin(admin.ModelAdmin):
 	fields = [
 		'comic_name',
@@ -23,7 +23,7 @@ class ComicsAdmin(admin.ModelAdmin):
 # admin.site.register(models.CountryArea)
 
 
-@admin.register(models.Powers)
+@admin.register(models.Power)
 class PowersAdmin(admin.ModelAdmin):
 	fields = ['power_name']
 	list_display = ['power_name']
@@ -32,7 +32,7 @@ class PowersAdmin(admin.ModelAdmin):
 # admin.site.register(models.DevStatus)
 
 
-@admin.register(models.Characters)
+@admin.register(models.Character)
 class CharactersAdmin(admin.ModelAdmin):
 	fieldsets = (
 		(None, {
@@ -100,7 +100,7 @@ class CharactersAdmin(admin.ModelAdmin):
 # admin.site.register(models.HeritageSite)
 
 
-@admin.register(models.Alignments)
+@admin.register(models.Alignment)
 class AlignmentsAdmin(admin.ModelAdmin):
 	fields = ['alignment_name']
 	list_display = ['alignment_name']
@@ -109,34 +109,34 @@ class AlignmentsAdmin(admin.ModelAdmin):
 # admin.site.register(models.HeritageSiteCategory)
 
 
-@admin.register(models.EyeColors)
+@admin.register(models.EyeColor)
 class EyeColorsAdmin(admin.ModelAdmin):
 	fields = ['eye_color_name']
 	list_display = ['eye_color_name']
 	ordering = ['eye_color_name']
 
-@admin.register(models.SkinColors)
+@admin.register(models.SkinColor)
 class SkinColorsAdmin(admin.ModelAdmin):
 	fields = ['skin_color_name']
 	list_display = ['skin_color_name']
 	ordering = ['skin_color_name']
-@admin.register(models.HairColors)
+@admin.register(models.HairColor)
 class HairColorsAdmin(admin.ModelAdmin):
 	fields = ['hair_color_name']
 	list_display = ['hair_color_name']
 	ordering = ['hair_color_name']
-@admin.register(models.Publishers)
+@admin.register(models.Publisher)
 class PublishersAdmin(admin.ModelAdmin):
 	fields = ['publisher_name']
 	list_display = ['publisher_name']
 	ordering = ['publisher_name']
-@admin.register(models.Races)
+@admin.register(models.Race)
 class RacesAdmin(admin.ModelAdmin):
 	fields = ['race_name']
 	list_display = ['race_name']
 	ordering = ['race_name']
 # admin.site.register(models.IntermediateRegion)
-@admin.register(models.Genders)
+@admin.register(models.Gender)
 class GendersAdmin(admin.ModelAdmin):
 	fields = ['gender_name']
 	list_display = ['gender_name']

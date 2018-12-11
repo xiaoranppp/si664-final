@@ -1,8 +1,9 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from django.views import generic
-
-from .models import Characters,Comics,Powers
+from django.contrib.auth.decorators import login_required
+from django.utils.decorators import method_decorator
+from .models import Character,Comic,Power
 
 
 def index(request):
@@ -16,41 +17,46 @@ class AboutPageView(generic.TemplateView):
 class HomePageView(generic.TemplateView):
 	template_name = 'marvel_world/home.html'
 
-
+@method_decorator(login_required, name='dispatch')
 class CharacterListView(generic.ListView):
-	model = Characters
+	model = Character
 	context_object_name = 'characters'
 	template_name = 'marvel_world/characters.html'
 	paginate_by = 50
 
 	def get_queryset(self):
-		return Characters.objects.all().select_related('alignment','eye_color','skin_color','hair_color','race','gender','publisher').order_by('character_name')
+		return Character.objects.all().select_related('alignment','eye_color','skin_color','hair_color','race','gender','publisher').order_by('character_name')
+@method_decorator(login_required, name='dispatch')
 class CharacterDetailView(generic.DetailView):
-    model = Characters
+    model = Character
     context_object_name=  'character'
     template_name = 'marvel_world/character_information.html'
+@method_decorator(login_required, name='dispatch')
 class ComicListView(generic.ListView):
-	model = Comics
+	model = Comic
 	context_object_name = 'comics'
 	template_name = 'marvel_world/comics.html'
 	paginate_by = 50
 
 	def get_queryset(self):
-		return Comics.objects.all().order_by('comic_name')
+		return Comic.objects.all().order_by('comic_name')
+@method_decorator(login_required, name='dispatch')
 class ComicDetailView(generic.DetailView):
-    model = Comics
+    model = Comic
     context_object_name=  'comic'
     template_name = 'marvel_world/comic_information.html'
+@method_decorator(login_required, name='dispatch')
 class PowerListView(generic.ListView):
-	model = Powers
+	model = Power
 	context_object_name = 'powers'
 	template_name = 'marvel_world/super_power.html'
 	paginate_by = 50
 
 	def get_queryset(self):
-		return Powers.objects.all().order_by('power_name')
+		return Power.objects.all().order_by('power_name')
+@method_decorator(login_required, name='dispatch')
 class PowerDetailView(generic.DetailView):
-    model = Powers
+    model = Power
     context_object_name=  'power'
     template_name = 'marvel_world/super_power_information.html'
 

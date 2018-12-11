@@ -1,6 +1,6 @@
 {% extends 'marvel_world/base.html' %}
 {% block content %}
-
+  {% if user.is_authenticated %}
 <!-- safe filter on for raw HTML stored in database -->
 
 <h2>{{comic.comic_name | safe}}</h2>
@@ -46,8 +46,22 @@
     </div>
   </div>
 {% endif %}
+{% if comic.characters.all %}
 
-
+    <div class="row">
+        <div class="col-sm-2">
+          <p>Characters</p>
+        </div>
+    {% for character in comic.characters.all %}
+   
+        <a href="{% url 'character_information' character.pk %}"> <p style="display:inline;margin-left:10px">{{character.character_name }}</p></a>
+        
+    {% endfor %}
+  </div>
+{% endif %}
+{% else %}
+    <a href="{% url 'login' %}">Log in</a>
+  {% endif %}
 
 
 {% endblock content %}}

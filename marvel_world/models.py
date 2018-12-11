@@ -7,8 +7,8 @@ from django.db import models
 
 class CharacterComic(models.Model):
     character_comic_id = models.AutoField(primary_key=True)
-    character = models.ForeignKey('Characters', models.DO_NOTHING)
-    comic = models.ForeignKey('Comics', models.DO_NOTHING)
+    character = models.ForeignKey('Character', models.DO_NOTHING)
+    comic = models.ForeignKey('Comic', models.DO_NOTHING)
 
     class Meta:
         managed = False
@@ -21,8 +21,8 @@ class CharacterComic(models.Model):
 
 class CharacterPower(models.Model):
     character_power_id = models.AutoField(primary_key=True)
-    character = models.ForeignKey('Characters', models.DO_NOTHING)
-    power = models.ForeignKey('Powers', models.DO_NOTHING)
+    character = models.ForeignKey('Character', models.DO_NOTHING)
+    power = models.ForeignKey('Power', models.DO_NOTHING)
 
     class Meta:
         managed = False
@@ -31,7 +31,7 @@ class CharacterPower(models.Model):
         verbose_name = 'character power relationship'
         verbose_name_plural = 'character power relationship'
 
-class Comics(models.Model):
+class Comic(models.Model):
     comic_id = models.AutoField(primary_key=True)
     comic_number = models.CharField(unique=True, max_length=25)
     comic_name = models.CharField(unique=True, max_length=25)
@@ -48,12 +48,10 @@ class Comics(models.Model):
 
     def __str__(self):
         return self.comic_name
-    def character_display(self):
-       return ', '.join(
-           character.character_name for character in self.character.all())
+   
 
     #characters_display.short_description = 'characters'
-class Powers(models.Model):
+class Power(models.Model):
     power_id = models.AutoField(primary_key=True)
     power_name = models.CharField(unique=True, max_length=25)
     #characters=models.ManyToManyField(Characters,through='CharacterPower')
@@ -68,21 +66,18 @@ class Powers(models.Model):
 
     def __str__(self):
         return self.power_name
-    def character_display(self):
-       return ', '.join(
-           character.character_name for character in self.character.all())
-
+    
     #characters_display.short_description = 'characters'
-class Characters(models.Model):
+class Character(models.Model):
     character_id = models.AutoField(primary_key=True)
     character_name = models.CharField(unique=True, max_length=20)
-    alignment = models.ForeignKey('Alignments', models.DO_NOTHING, blank=True, null=True)
-    gender = models.ForeignKey('Genders', models.DO_NOTHING, blank=True, null=True)
-    eye_color = models.ForeignKey('EyeColors', models.DO_NOTHING, blank=True, null=True)
-    race = models.ForeignKey('Races', models.DO_NOTHING, blank=True, null=True)
-    hair_color = models.ForeignKey('HairColors', models.DO_NOTHING, blank=True, null=True)
-    publisher = models.ForeignKey('Publishers', models.DO_NOTHING, blank=True, null=True)
-    skin_color = models.ForeignKey('SkinColors', models.DO_NOTHING, blank=True, null=True)
+    alignment = models.ForeignKey('Alignment', models.DO_NOTHING, blank=True, null=True)
+    gender = models.ForeignKey('Gender', models.DO_NOTHING, blank=True, null=True)
+    eye_color = models.ForeignKey('EyeColor', models.DO_NOTHING, blank=True, null=True)
+    race = models.ForeignKey('Race', models.DO_NOTHING, blank=True, null=True)
+    hair_color = models.ForeignKey('HairColor', models.DO_NOTHING, blank=True, null=True)
+    publisher = models.ForeignKey('Publisher', models.DO_NOTHING, blank=True, null=True)
+    skin_color = models.ForeignKey('SkinColor', models.DO_NOTHING, blank=True, null=True)
     height = models.IntegerField()
     weight = models.IntegerField()
     character_number = models.CharField(max_length=8)
@@ -93,8 +88,8 @@ class Characters(models.Model):
     power = models.IntegerField(blank=True, null=True)
     combat = models.IntegerField(blank=True, null=True)
     total = models.IntegerField(blank=True, null=True)
-    super_power = models.ManyToManyField(Powers, through='CharacterPower')
-    comics=models.ManyToManyField(Comics,through='CharacterComic')
+    super_power = models.ManyToManyField(Power, through='CharacterPower',related_name='characters')
+    comics=models.ManyToManyField(Comic,through='CharacterComic',related_name='characters')
 
     class Meta:
         managed = False
@@ -123,7 +118,7 @@ class Characters(models.Model):
 
         
 
-class Alignments(models.Model):
+class Alignment(models.Model):
     alignment_id = models.AutoField(primary_key=True)
     alignment_name = models.CharField(unique=True, max_length=8)
 
@@ -137,7 +132,7 @@ class Alignments(models.Model):
     def __str__(self):
         return self.alignment_name
 
-class EyeColors(models.Model):
+class EyeColor(models.Model):
     eye_color_id = models.AutoField(primary_key=True)
     eye_color_name = models.CharField(unique=True, max_length=25)
 
@@ -152,7 +147,7 @@ class EyeColors(models.Model):
         return self.eye_color_name
 
 
-class Genders(models.Model):
+class Gender(models.Model):
     gender_id = models.AutoField(primary_key=True)
     gender_name = models.CharField(unique=True, max_length=8)
 
@@ -167,7 +162,7 @@ class Genders(models.Model):
         return self.gender_name
 
 
-class HairColors(models.Model):
+class HairColor(models.Model):
     hair_color_id = models.AutoField(primary_key=True)
     hair_color_name = models.CharField(unique=True, max_length=25)
 
@@ -185,7 +180,7 @@ class HairColors(models.Model):
 
 
 
-class Publishers(models.Model):
+class Publisher(models.Model):
     publisher_id = models.AutoField(primary_key=True)
     publisher_name = models.CharField(unique=True, max_length=25)
 
@@ -200,7 +195,7 @@ class Publishers(models.Model):
         return self.publisher_name
 
 
-class Races(models.Model):
+class Race(models.Model):
     race_id = models.AutoField(primary_key=True)
     race_name = models.CharField(unique=True, max_length=25)
 
@@ -215,7 +210,7 @@ class Races(models.Model):
         return self.race_name
 
 
-class SkinColors(models.Model):
+class SkinColor(models.Model):
     skin_color_id = models.AutoField(primary_key=True)
     skin_color_name = models.CharField(unique=True, max_length=25)
 
