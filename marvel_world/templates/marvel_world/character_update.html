@@ -1,0 +1,134 @@
+{% extends 'marvel_world/base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block content %}
+
+<header>
+  <h2>Character Update</h2>
+</header>
+
+<!-- novalidate attribute required to render validation messages -->
+<form method="post" novalidate>
+  {% csrf_token %}
+
+
+  <!-- Restore missing fields rendered using Bootstrap rows and columns classes -->
+  <div class="row">
+    <div class="col-6">
+        {{ form.character_name|as_crispy_field }}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-6">
+        {{ form.super_power|as_crispy_field }}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-6">
+        {{ form.comics|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.alignment|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.gender|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.race|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.publisher|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.skin_color|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.eye_color|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.hair_color|as_crispy_field }}
+    </div>
+</div>
+
+<!-- Restore missing fields rendered using Bootstrap rows and columns classes -->
+<div class="row">
+    <div class="col-6">
+        {{ form.character_number|as_crispy_field }}
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-6">
+        {{ form.weight|as_crispy_field }}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-6">
+        {{ form.height|as_crispy_field }}
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-6">
+        {{ form.intelligence|as_crispy_field }}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-6">
+        {{ form.strength|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.power|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.speed|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.combat|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.durability|as_crispy_field }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        {{ form.total|as_crispy_field }}
+    </div>
+</div>
+
+  <button type="submit" class="btn btn-outline-success">Update</button>
+  &nbsp;<a class="btn btn-outline-secondary" href="{% url 'character_information' character.pk %}">cancel</a>
+  <!-- Restore missing button -->
+
+</form>
+
+{% endblock content %}

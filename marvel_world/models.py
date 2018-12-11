@@ -1,5 +1,6 @@
 
 from django.db import models
+from django.urls import reverse
 
 
 
@@ -101,6 +102,8 @@ class Character(models.Model):
 
     def __str__(self):
         return self.character_name
+    def get_absolute_url(self):
+        return reverse('character_information', kwargs={'pk': self.pk})
     @property
     def comic_names(self):
    

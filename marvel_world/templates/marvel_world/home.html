@@ -1,6 +1,16 @@
 {% extends 'marvel_world/base.html' %}
 {% block content %}
-<h1>Marvel World</h1>
-
-<p>TODO: add overview later.</p>
+<h1 style='text-align: center'>Marvel World</h1>
+<div style='text-align: center'>
+    {% load static %}
+    <img src="{% static 'first.jpg' %}" alt='welcome page'>
+</div>
+<div style='margin-left:220px;'>
+<p>Hi! Welcome to the marvel hero website designed by Xianran. This app is a class homework of SI664 in the university of Michigan</p>
+<p>On the Character page, you can click the name of the Super hero to see all the information about this hero </p>
+<p>On the Chracter Filter page, you can search for heros by their name, super power, gender, alignment, race, publisher, skin color, eye color, hair color weight and height</p>
+<p>On the Comic page, you can explore the information of each comic by click their name.</p>
+<p>On the Comic Filter page, you can search a comic by its name, year when it was produced, description and characters in these comics.</p>
+<p>On the Super Power page, you can get the characters who have aspecific super power by click the name of the super power.</p>
+</div>
 {% endblock content %}

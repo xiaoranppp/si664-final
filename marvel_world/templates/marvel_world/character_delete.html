@@ -1,0 +1,13 @@
+{% extends 'marvel_world/base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block content %}
+  <form method="post">
+    {% csrf_token %}
+    <p>Are you sure you want to delete the Character "{{ character.character_name}}"?</p>
+    <button type="submit" class="btn btn-outline-danger">delete</button>
+    &nbsp;<a class="btn btn-outline-secondary" href="{% url 'character_information' character.pk  %}">cancel</a>
+  </form>
+
+{% endblock content %}
