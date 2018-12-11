@@ -90,7 +90,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'marvel',
+        'NAME': 'marvel1',
         'USER': 'xiaoran',
         'OPTIONS': {
             'read_default_file': 'C:\ProgramData\MySQL\MySQL Server 8.0\my.ini',

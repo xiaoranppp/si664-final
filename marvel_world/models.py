@@ -41,7 +41,7 @@ class Comic(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'comics'
+        db_table = 'comic'
         ordering = ['comic_name']
         verbose_name = 'comic information'
         verbose_name_plural = 'comic information'
@@ -59,7 +59,7 @@ class Power(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'powers'
+        db_table = 'power'
         ordering = ['power_name']
         verbose_name = 'super power information'
         verbose_name_plural = 'super power information'
@@ -93,7 +93,7 @@ class Character(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'characters'
+        db_table = 'character_info'
         ordering = ['character_name']
         verbose_name = 'character information'
         verbose_name_plural = 'character information'
@@ -124,7 +124,7 @@ class Alignment(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'alignments'
+        db_table = 'alignment'
         ordering = ['alignment_name']
         verbose_name = 'marvel heros alignment'
         verbose_name_plural = 'marvel heros alignment'
@@ -138,7 +138,7 @@ class EyeColor(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'eye_colors'
+        db_table = 'eye_color'
         ordering = ['eye_color_name']
         verbose_name = 'eye colors of marvel heros'
         verbose_name_plural = 'eye colors of marvel heros '
@@ -153,7 +153,7 @@ class Gender(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'genders'
+        db_table = 'gender'
         ordering = ['gender_name']
         verbose_name = 'gender of marvel heros'
         verbose_name_plural = 'gender of marvel heros'
@@ -168,7 +168,7 @@ class HairColor(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'hair_colors'
+        db_table = 'hair_color'
         ordering = ['hair_color_name']
         verbose_name = 'hair colors of marvel heros'
         verbose_name_plural = 'hair colors of marvel heros '
@@ -186,7 +186,7 @@ class Publisher(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'publishers'
+        db_table = 'publisher'
         ordering = ['publisher_name']
         verbose_name = 'publishers of marvel heros'
         verbose_name_plural = 'publishers of marvel heros '
@@ -201,7 +201,7 @@ class Race(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'races'
+        db_table = 'race'
         ordering = ['race_name']
         verbose_name = 'races of marvel heros'
         verbose_name_plural = 'races of marvel heros '
@@ -216,7 +216,7 @@ class SkinColor(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'skin_colors'
+        db_table = 'skin_color'
         ordering = ['skin_color_name']
         verbose_name = 'skin colors of marvel heros'
         verbose_name_plural = 'skin colors of marvel heros '

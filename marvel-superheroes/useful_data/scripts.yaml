@@ -3,5 +3,5 @@ mysql:
   port: 3306
   user: xiaoran
   passwd: PXRpxr19950208
-  db: marvel
+  db: marvel1
   local_infile: True
