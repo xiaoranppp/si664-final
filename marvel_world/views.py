@@ -4,7 +4,8 @@ from django.views import generic
 from django.contrib.auth.decorators import login_required
 from django.utils.decorators import method_decorator
 from .models import Character,Comic,Power
-
+from django_filters.views import FilterView
+from .filters import Marvel_worldFilter,Marvel_comicFilter
 
 def index(request):
 	return HttpResponse("Hello, world. You're at the marvel world super hero")
@@ -59,6 +60,13 @@ class PowerDetailView(generic.DetailView):
     model = Power
     context_object_name=  'power'
     template_name = 'marvel_world/super_power_information.html'
-
+@method_decorator(login_required, name='dispatch')
+class CharacterFilterView(FilterView):
+	filterset_class = Marvel_worldFilter
+	template_name = 'marvel_world/character_filter.html'
+@method_decorator(login_required, name='dispatch')
+class ComicFilterView(FilterView):
+	filterset_class = Marvel_comicFilter
+	template_name = 'marvel_world/comic_filter.html'
 #class CharacterDetailView(generic.DetailView):model = Characters context_object_name=  'character'template_name='marvel_world/character_information.html'
 

@@ -49,6 +49,7 @@ class Comic(models.Model):
     def __str__(self):
         return self.comic_name
    
+   
 
     #characters_display.short_description = 'characters'
 class Power(models.Model):
@@ -100,7 +101,36 @@ class Character(models.Model):
 
     def __str__(self):
         return self.character_name
-    
+    @property
+    def comic_names(self):
+   
+        comics = self.comics.all()
+
+        names = []
+        for comic in comics:
+            name =comic.comic_name
+            if name is None:
+                continue
+
+            if name not in names:
+                names.append(name)
+
+        return ', '.join(names)
+    @property
+    def power_names(self):
+   
+        powers = self.super_power.all()
+
+        names = []
+        for power in powers:
+            name =power.power_name
+            if name is None:
+                continue
+
+            if name not in names:
+                names.append(name)
+
+        return ', '.join(names)
     def comics_display(self):
         return ', '.join(
             comics.comic_name for comics in self.comics.all())

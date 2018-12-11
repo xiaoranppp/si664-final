@@ -18,17 +18,17 @@
     </div>
   </div>
 {% endif %}
-{% if character.super_power_display %}
-  <div class="row">
-    <div class="col-sm-2">
-      <p>Super Power</p>
-    </div>
-    <div class="col-sm-10">
-      {{character.super_power_display | safe}}
-    </div>
-  </div>
-{% endif %}
 
+{% if character.power_names %}
+<div class="row">
+  <div class="col-sm-2">
+    <p>Super Power</p>
+  </div>
+  <div class="col-sm-10">
+    <p>{{ character.power_names }}</p>
+  </div>
+</div>
+{% endif %}
 {% if character.character_number %}
   <div class="row">
     <div class="col-sm-2">
@@ -115,7 +115,7 @@
 {% if character.height %}
   <div class="row">
     <div class="col-sm-2">
-      <p>Height</p>
+      <p>Height(cm)</p>
     </div>
     <div class="col-sm-10">
       {{character.height| safe}}
@@ -125,7 +125,7 @@
 {% if character.weight %}
   <div class="row">
     <div class="col-sm-2">
-      <p>Weight</p>
+      <p>Weight(kg)</p>
     </div>
     <div class="col-sm-10">
       {{character.weight | safe}}
@@ -202,15 +202,17 @@
     </div>
   </div>
 {% endif %}
-{% if character.comics_display %}
-  <div class="row">
-    <div class="col-sm-2">
-      <p>Comics</p>
-    </div>
-    <div class="col-sm-10">
-      {{character.comics_display | safe}}
-    </div>
+
+
+{% if character.comic_names %}
+<div class="row">
+  <div class="col-sm-2">
+    <p>Comics</p>
   </div>
+  <div class="col-sm-10">
+    <p>{{ character.comic_names }}</p>
+  </div>
+</div>
 {% endif %}
 {% else %}
     <a href="{% url 'login' %}">Log in</a>

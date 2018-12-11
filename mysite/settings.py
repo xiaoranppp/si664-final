@@ -38,7 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'marvel_world',
-    'social_django', 
+    'social_django',
+    'crispy_forms',
+    'django_filters', 
 ]
 
 MIDDLEWARE = [
