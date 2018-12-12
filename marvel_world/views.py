@@ -6,7 +6,7 @@ from django.utils.decorators import method_decorator
 from .models import Character,Comic,Power,CharacterPower,CharacterComic
 from django_filters.views import FilterView
 from .filters import Marvel_worldFilter,Marvel_comicFilter
-from .forms import CharacterForm
+from .forms import CharacterForm,PowerForm
 from django.urls import reverse,reverse_lazy
 def index(request):
 	return HttpResponse("Hello, world. You're at the marvel world super hero")
@@ -97,6 +97,31 @@ class CharacterCreateView(generic.View):
 	def get(self, request):
 		form = CharacterForm()
 		return render(request, 'marvel_world/character_new.html', {'form': form})
+class PowerCreateView(generic.View):
+	model = Power
+	form_class = PowerForm
+	success_message = "Super power created successfully"
+	template_name = 'marvel_world/power_new.html'
+	# fields = '__all__' <-- superseded by form_class
+	# success_url = reverse_lazy('heritagesites/site_list')
+
+	def dispatch(self, *args, **kwargs):
+		return super().dispatch(*args, **kwargs)
+
+	def post(self, request):
+		form = PowerForm(request.POST)
+		if form.is_valid():
+			power = form.save(commit=False)
+			power.save()
+			#for character in form.cleaned_data['characters']:
+			#	CharacterPower.objects.create(character=character, power=power)
+			return redirect(power) # shortcut to object's get_absolute_url()
+			# return HttpResponseRedirect(site.get_absolute_url())
+		return render(request, 'marvel_world/power_new.html', {'form': form})
+
+	def get(self, request):
+		form = PowerForm()
+		return render(request, 'marvel_world/power_new.html', {'form': form})
 #class CharacterDetailView(generic.DetailView):model = Characters context_object_name=  'character'template_name='marvel_world/character_information.html'
 
 @method_decorator(login_required, name='dispatch')
@@ -183,6 +208,61 @@ class CharacterUpdateView(generic.UpdateView):
 					.delete()
 
 		return HttpResponseRedirect(character.get_absolute_url())
+@method_decorator(login_required, name='dispatch')
+class PowerUpdateView(generic.UpdateView):
+	model = Power
+	form_class = PowerForm
+	# fields = '__all__' <-- superseded by form_class
+	context_object_name = 'power'
+	# pk_url_kwarg = 'site_pk'
+	success_message = "Super power updated successfully"
+	template_name = 'marvel_world/power_update.html'
+
+	def dispatch(self, *args, **kwargs):
+		return super().dispatch(*args, **kwargs)
+
+	def form_valid(self, form):
+		power = form.save(commit=False)
+		# site.updated_by = self.request.user
+		# site.date_updated = timezone.now()
+		power.save()
+
+		# Current country_area_id values linked to site
+		old_ids = CharacterPower.objects\
+			.values_list('character_id', flat=True)\
+			.filter(power_id=power.power_id)
+
+		# New countries list
+		new_chs = form.cleaned_data['character_set']
+
+		# TODO can these loops be refactored?
+
+		# New ids
+		new_ids = []
+
+		# Insert new unmatched country entries
+		for character in new_chs:
+			new_id = character.character_id
+			new_ids.append(new_id)
+			if new_id in old_ids:
+				continue
+			else:
+				CharacterPower.objects \
+					.create(character=character, power=power)
+
+		# Delete old unmatched country entries
+		for old_id in old_ids:
+			if old_id in new_ids:
+				continue
+			else:
+				CharacterPower.objects \
+					.filter(character_id=old_id, power_id=power.power_id) \
+					.delete()
+
+
+		
+
+		return HttpResponseRedirect(power.get_absolute_url())
 		# return redirect('heritagesites/site_detail', pk=site.pk)
 @method_decorator(login_required, name='dispatch')
 class CharacterDeleteView(generic.DeleteView):
@@ -204,6 +284,28 @@ class CharacterDeleteView(generic.DeleteView):
 			.delete()
 		CharacterComic.objects \
 			.filter(character_id=self.object.character_id) \
+			.delete()
+
+		self.object.delete()
+
+		return HttpResponseRedirect(self.get_success_url())
+@method_decorator(login_required, name='dispatch')
+class PowerDeleteView(generic.DeleteView):
+	model =Power
+	success_message = "Super power deleted successfully"
+	success_url = reverse_lazy('super_power')
+	context_object_name = 'power'
+	template_name = 'marvel_world/power_delete.html'
+
+	def dispatch(self, *args, **kwargs):
+		return super().dispatch(*args, **kwargs)
+
+	def delete(self, request, *args, **kwargs):
+		self.object = self.get_object()
+
+		# Delete HeritageSiteJurisdiction entries
+		CharacterPower.objects \
+			.filter(power_id=self.object.power_id) \
 			.delete()
 
 		self.object.delete()

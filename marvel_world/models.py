@@ -68,6 +68,11 @@ class Power(models.Model):
 
     def __str__(self):
         return self.power_name
+    def get_absolute_url(self):
+        return reverse('super_power_information', kwargs={'pk': self.pk})
+    def characters_display(self):
+        return ', '.join(
+            characters.character_name for characters in self.characters.all())
     
     #characters_display.short_description = 'characters'
 class Character(models.Model):

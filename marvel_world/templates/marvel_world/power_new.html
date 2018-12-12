@@ -1,0 +1,30 @@
+{% extends 'marvel_world/base.html' %}
+
+<!-- {% load crispy_forms_tags %} -->
+{% load crispy_forms_tags %}  
+{% block content %}
+
+<header>
+    <h2>New Super Power</h2>
+</header>
+
+<form method="post" novalidate>
+    {% csrf_token %}
+ <div class="row">
+        <div class="col-6">
+            {{ form.power_name|as_crispy_field }}
+        </div>
+    </div> 
+   
+   
+    
+    
+        
+
+     
+
+    <button type="submit" class="btn btn-outline-success">Add</button>
+    &nbsp;<a class="btn btn-outline-secondary" href="{% url 'super_power' %}">cancel</a>
+</form> 
+
+{% endblock content %}

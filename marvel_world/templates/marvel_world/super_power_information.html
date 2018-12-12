@@ -3,7 +3,23 @@
 
 <!-- safe filter on for raw HTML stored in database -->
 {% if user.is_authenticated %}
-<h2>{{power.power_name | safe}}</h2>
+<header>
+  <div class="row">
+    <div class="col-sm-10">
+      <h2>{{ power.power_name | safe }}</h2>
+    </div>
+    <div class="col-xs-1">
+      {% if user.is_authenticated %}
+        <a class="btn btn-outline-secondary" href="{% url 'power_update' power.pk %}">edit</a>
+      {% endif %}
+    </div>
+    <div class="col-xs-1">
+      {% if user.is_authenticated %}
+        &nbsp;<a class="btn btn-outline-warning" href="{% url 'power_delete' power.pk %}">delete</a>
+      {% endif %}
+    </div>
+  </div>
+</header>
 <p style="color:red">Characters who have this power( {{ power.characters.all.count }} heros):
 {% if power.characters.all %}
 <div class="row">

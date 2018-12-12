@@ -15,6 +15,10 @@ urlpatterns = [
     path('characters/new/', views.CharacterCreateView.as_view(), name='character_new'),
     path('characters/<int:pk>/delete/', views.CharacterDeleteView.as_view(), name='character_delete'),
     path('characters/<int:pk>/update/', views.CharacterUpdateView.as_view(), name='character_update'),
+    path('powers/new/', views.PowerCreateView.as_view(), name='power_new'),
+    path('powers/<int:pk>/delete/', views.PowerDeleteView.as_view(), name='power_delete'),
+    path('powers/<int:pk>/update/', views.PowerUpdateView.as_view(), name='power_update'),
+    
 
    # path('logoutpage/', views.LogoutPageView.as_view(), name='logoutpage'),
 ]
