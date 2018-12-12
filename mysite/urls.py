@@ -27,4 +27,9 @@ urlpatterns = [
     path('login/', LoginView.as_view(), name='login'),
     path('logout/', LogoutView.as_view(), {'next_page': settings.LOGOUT_REDIRECT_URL},name='logout'),
     path('marvel_world/', include('marvel_world.urls')),
+    path('api-auth/', include('rest_framework.urls')),
+    path('marvel_world/api/', include('api.urls')),
+    path('marvel_world/api/rest-auth/', include('rest_auth.urls')),
+    path('marvel_world/api/rest-auth/registration/', include('rest_auth.registration.urls'))
+   
 ]

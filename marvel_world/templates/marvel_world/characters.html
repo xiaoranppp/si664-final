@@ -59,7 +59,7 @@
 
   {% if characters %}
   <ul>
-
+    
     {% for character in characters %}
     <!-- safe filter on for raw HTML stored in database -->
     <li><a href="{% url 'character_information' character.pk %}">{{ character.character_name | safe }}</a></li>
