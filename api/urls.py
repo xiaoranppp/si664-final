@@ -2,7 +2,7 @@ from django.urls import include, path
 from rest_framework.documentation import include_docs_urls
 from rest_framework.routers import SimpleRouter
 from rest_framework_swagger.views import get_swagger_view
-from api.views import CharacterViewSet
+from api.views import CharacterViewSet,ComicViewSet
 
 API_TITLE = 'marvel wprld API'
 API_DESC = 'A web API for creating, modifying and deleting marvel'
@@ -25,6 +25,8 @@ schema_view = get_schema_view(
 
 router = SimpleRouter()
 router.register(r'characters', CharacterViewSet, base_name='characters')
+router.register(r'comics', ComicViewSet, base_name='comics')
+
 # urlpatterns = router.urls
 
 # The API URLs are now determined automatically by the router.

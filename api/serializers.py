@@ -40,30 +40,6 @@ class EyeColorSerializer(serializers.ModelSerializer):
 	class Meta:
 		model = EyeColor
 		fields = ('eye_color_id', 'eye_color_name')
-class ComicSerializer(serializers.ModelSerializer):
-
-	class Meta:
-		model = Comic
-		fields = (
-			'comic_id',
-			'comic_name',
-			'comic_number',
-			'description',
-            'issue_number'
-			)
-class PowerSerializer(serializers.ModelSerializer):
-
-	class Meta:
-		model = Power
-		fields = (
-			'power_id',
-			'power_name',
-			)
-
-
-
-
-
 class CharacterComicSerializer(serializers.ModelSerializer):
 	character_id = serializers.ReadOnlyField(source='character.character_id')
 	comic_id = serializers.ReadOnlyField(source='comic.comic_id')
@@ -78,6 +54,123 @@ class CharacterPowerSerializer(serializers.ModelSerializer):
 	class Meta:
 		model = CharacterPower
 		fields = ('character_id', 'power_id')
+class ComicSerializer(serializers.ModelSerializer):
+	comic_name = serializers.CharField(
+		allow_blank=False,
+		max_length=25
+	)
+	comic_number = serializers.CharField(
+		allow_blank=False,
+		max_length=25
+	)
+	description= serializers.CharField(
+		allow_null=True
+	)
+	issue_number= serializers.CharField(
+		allow_null=True
+	)
+	character_comic = CharacterComicSerializer(
+		source='character_comic_set', # Note use of _set
+		many=True,
+		read_only=True
+	)
+	character_comic_ids = serializers.PrimaryKeyRelatedField(
+		many=True,
+		write_only=True,
+		queryset=Character.objects.all(),
+		source='character_comic'
+	)
+	class Meta:
+		model = Comic
+		fields = (
+			'comic_id',
+			'comic_name',
+			'comic_number',
+			'description',
+			'issue_number',
+			'character_comic',
+            'character_comic_ids'
+			)
+	def create(self, validated_data):
+
+
+		characters = validated_data.pop('character_comic')
+		comic = Comic.objects.create(**validated_data)
+
+		if characters is not None:
+			for character in characters:
+				CharacterComic.objects.create(
+					character_id=character.character_id,
+					comic_id=comic.comic_id
+				)
+		return comic
+	def update(self, instance, validated_data):
+		# site_id = validated_data.pop('heritage_site_id')
+		comic_id = instance.comic_id
+		new_characters = validated_data.pop('character_comic')
+		instance.comic_name = validated_data.get(
+			'comic_name',
+			instance.comic_name
+		)
+		instance.comic_number = validated_data.get(
+			'comic_number',
+			instance.comic_number
+		)
+		instance.description = validated_data.get(
+			'description',
+			instance.description
+		)
+		instance.issue_number = validated_data.get(
+			'issue_number',
+			instance.issue_number
+		)
+		
+		instance.save()
+		new_ids1 = []
+		old_ids1 = CharacterComic.objects \
+			.values_list('character_id', flat=True) \
+			.filter(comic_id__exact=comic_id)
+
+		# TODO Insert may not be required (Just return instance)
+
+		# Insert new unmatched country entries
+		for character in new_characters:
+			new_id1 = character.character_id
+			new_ids1.append(new_id1)
+			if new_id1 in old_ids1:
+				continue
+			else:
+				CharacterComic.objects \
+					.create(character_id=new_id1, comic_id=comic_id)
+
+		# Delete old unmatched country entries
+		for old_id1 in old_ids1:
+			if old_id1 in new_ids1:
+				continue
+			else:
+				CharacterComic.objects \
+					.filter(character_id=old_id1, comic_id=comic_id) \
+					.delete()
+
+		# If any existing country/areas are not in updated list, delete them
+
+		return instance
+
+		
+class PowerSerializer(serializers.ModelSerializer):
+
+	class Meta:
+		model = Power
+		fields = (
+			'power_id',
+			'power_name',
+			)
+
+
+
+
+
+
 
 
 class CharacterSerializer(serializers.ModelSerializer):
