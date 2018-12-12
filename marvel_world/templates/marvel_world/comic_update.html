@@ -5,7 +5,7 @@
 {% block content %}
 
 <header>
-  <h2>Power Update</h2>
+  <h2>Comic Update</h2>
 </header>
 
 <!-- novalidate attribute required to render validation messages -->
@@ -16,7 +16,7 @@
   <!-- Restore missing fields rendered using Bootstrap rows and columns classes -->
   <div class="row">
     <div class="col-6">
-        {{ form.power_name|as_crispy_field }}
+        {{ form.comic_name|as_crispy_field }}
     </div>
 </div>
 <div class="row">
@@ -24,13 +24,27 @@
         {{ form.character|as_crispy_field }}
     </div>
 </div>
-
+<div class="row">
+    <div class="col-6">
+        {{ form.comic_number|as_crispy_field }}
+    </div>
+</div> 
+<div class="row">
+    <div class="col-6">
+        {{ form.issue_number|as_crispy_field }}
+    </div>
+</div> 
+<div class="row">
+    <div class="col-6">
+        {{ form.description|as_crispy_field }}
+    </div>
+</div> 
 
 
 
 
   <button type="submit" class="btn btn-outline-success">Update</button>
-  &nbsp;<a class="btn btn-outline-secondary" href="{% url 'super_power_information' power.pk %}">cancel</a>
+  &nbsp;<a class="btn btn-outline-secondary" href="{% url 'comic_information' comic.pk %}">cancel</a>
   <!-- Restore missing button -->
 
 </form>

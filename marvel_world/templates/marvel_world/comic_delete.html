@@ -1,0 +1,13 @@
+{% extends 'marvel_world/base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block content %}
+  <form method="post">
+    {% csrf_token %}
+    <p>Are you sure you want to delete the power "{{ comic.comic_name}}"?</p>
+    <button type="submit" class="btn btn-outline-danger">delete</button>
+    &nbsp;<a class="btn btn-outline-secondary" href="{% url 'comic_information' comic.pk  %}">cancel</a>
+  </form>
+
+{% endblock content %}

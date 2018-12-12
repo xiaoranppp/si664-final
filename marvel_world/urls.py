@@ -18,6 +18,9 @@ urlpatterns = [
     path('powers/new/', views.PowerCreateView.as_view(), name='power_new'),
     path('powers/<int:pk>/delete/', views.PowerDeleteView.as_view(), name='power_delete'),
     path('powers/<int:pk>/update/', views.PowerUpdateView.as_view(), name='power_update'),
+    path('comics/new/', views.ComicCreateView.as_view(), name='comic_new'),
+    path('comics/<int:pk>/delete/', views.ComicDeleteView.as_view(), name='comic_delete'),
+    path('comics/<int:pk>/update/', views.ComicUpdateView.as_view(), name='comic_update'),
     
 
    # path('logoutpage/', views.LogoutPageView.as_view(), name='logoutpage'),

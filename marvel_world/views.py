@@ -6,7 +6,7 @@ from django.utils.decorators import method_decorator
 from .models import Character,Comic,Power,CharacterPower,CharacterComic
 from django_filters.views import FilterView
 from .filters import Marvel_worldFilter,Marvel_comicFilter
-from .forms import CharacterForm,PowerForm
+from .forms import CharacterForm,PowerForm,ComicForm
 from django.urls import reverse,reverse_lazy
 def index(request):
 	return HttpResponse("Hello, world. You're at the marvel world super hero")
@@ -97,6 +97,7 @@ class CharacterCreateView(generic.View):
 	def get(self, request):
 		form = CharacterForm()
 		return render(request, 'marvel_world/character_new.html', {'form': form})
+@method_decorator(login_required, name='dispatch')
 class PowerCreateView(generic.View):
 	model = Power
 	form_class = PowerForm
@@ -113,8 +114,8 @@ class PowerCreateView(generic.View):
 		if form.is_valid():
 			power = form.save(commit=False)
 			power.save()
-			#for character in form.cleaned_data['characters']:
-			#	CharacterPower.objects.create(character=character, power=power)
+			for character in form.cleaned_data['character']:
+				CharacterPower.objects.create(character=character, power=power)
 			return redirect(power) # shortcut to object's get_absolute_url()
 			# return HttpResponseRedirect(site.get_absolute_url())
 		return render(request, 'marvel_world/power_new.html', {'form': form})
@@ -122,6 +123,32 @@ class PowerCreateView(generic.View):
 	def get(self, request):
 		form = PowerForm()
 		return render(request, 'marvel_world/power_new.html', {'form': form})
+@method_decorator(login_required, name='dispatch')
+class ComicCreateView(generic.View):
+	model = Comic
+	form_class = ComicForm
+	success_message = "Comic created successfully"
+	template_name = 'marvel_world/comic_new.html'
+	# fields = '__all__' <-- superseded by form_class
+	# success_url = reverse_lazy('heritagesites/site_list')
+
+	def dispatch(self, *args, **kwargs):
+		return super().dispatch(*args, **kwargs)
+
+	def post(self, request):
+		form = ComicForm(request.POST)
+		if form.is_valid():
+			comic = form.save(commit=False)
+			comic.save()
+			for character in form.cleaned_data['character']:
+				CharacterComic.objects.create(character=character, comic=comic)
+			return redirect(comic) # shortcut to object's get_absolute_url()
+			# return HttpResponseRedirect(site.get_absolute_url())
+		return render(request, 'marvel_world/comic_new.html', {'form': form})
+
+	def get(self, request):
+		form = ComicForm()
+		return render(request, 'marvel_world/comic_new.html', {'form': form})
 #class CharacterDetailView(generic.DetailView):model = Characters context_object_name=  'character'template_name='marvel_world/character_information.html'
 
 @method_decorator(login_required, name='dispatch')
@@ -233,7 +260,7 @@ class PowerUpdateView(generic.UpdateView):
 			.filter(power_id=power.power_id)
 
 		# New countries list
-		new_chs = form.cleaned_data['character_set']
+		new_chs = form.cleaned_data['character']
 
 		# TODO can these loops be refactored?
 
@@ -264,6 +291,61 @@ class PowerUpdateView(generic.UpdateView):
 
 		return HttpResponseRedirect(power.get_absolute_url())
 		# return redirect('heritagesites/site_detail', pk=site.pk)
+@method_decorator(login_required, name='dispatch')
+class ComicUpdateView(generic.UpdateView):
+	model = Comic
+	form_class = ComicForm
+	# fields = '__all__' <-- superseded by form_class
+	context_object_name = 'comic'
+	# pk_url_kwarg = 'site_pk'
+	success_message = "Comic updated successfully"
+	template_name = 'marvel_world/comic_update.html'
+
+	def dispatch(self, *args, **kwargs):
+		return super().dispatch(*args, **kwargs)
+
+	def form_valid(self, form):
+		comic = form.save(commit=False)
+		# site.updated_by = self.request.user
+		# site.date_updated = timezone.now()
+		comic.save()
+
+		# Current country_area_id values linked to site
+		old_ids = CharacterComic.objects\
+			.values_list('character_id', flat=True)\
+			.filter(comic_id=comic.comic_id)
+
+		# New countries list
+		new_chs = form.cleaned_data['character']
+
+		# TODO can these loops be refactored?
+
+		# New ids
+		new_ids = []
+
+		# Insert new unmatched country entries
+		for character in new_chs:
+			new_id = character.character_id
+			new_ids.append(new_id)
+			if new_id in old_ids:
+				continue
+			else:
+				CharacterComic.objects \
+					.create(character=character, comic=comic)
+
+		# Delete old unmatched country entries
+		for old_id in old_ids:
+			if old_id in new_ids:
+				continue
+			else:
+				CharacterComic.objects \
+					.filter(character_id=old_id, comic_id=comic.comic_id) \
+					.delete()
+
+
+		
+
+		return HttpResponseRedirect(comic.get_absolute_url())
 @method_decorator(login_required, name='dispatch')
 class CharacterDeleteView(generic.DeleteView):
 	model =Character
@@ -306,6 +388,28 @@ class PowerDeleteView(generic.DeleteView):
 		# Delete HeritageSiteJurisdiction entries
 		CharacterPower.objects \
 			.filter(power_id=self.object.power_id) \
+			.delete()
+
+		self.object.delete()
+
+		return HttpResponseRedirect(self.get_success_url())
+@method_decorator(login_required, name='dispatch')
+class ComicDeleteView(generic.DeleteView):
+	model =Comic
+	success_message = "Comic deleted successfully"
+	success_url = reverse_lazy('comics')
+	context_object_name = 'comic'
+	template_name = 'marvel_world/comic_delete.html'
+
+	def dispatch(self, *args, **kwargs):
+		return super().dispatch(*args, **kwargs)
+
+	def delete(self, request, *args, **kwargs):
+		self.object = self.get_object()
+
+		# Delete HeritageSiteJurisdiction entries
+		CharacterComic.objects \
+			.filter(comic_id=self.object.comic_id) \
 			.delete()
 
 		self.object.delete()

@@ -49,6 +49,8 @@ class Comic(models.Model):
 
     def __str__(self):
         return self.comic_name
+    def get_absolute_url(self):
+        return reverse('comic_information', kwargs={'pk': self.pk})
    
    
 
