@@ -20,7 +20,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = ')-m9dh9tk8!=j4_+1fwbq==!@0whh&dt)&xk0l($sn%bjkn0eb'
+from mysite import secrets
+
+SECRET_KEY = secrets.SECRET_KEY
+
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = secrets.SOCIAL_AUTH_GOOGLE_OAUTH2_KEY
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = secrets.SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -40,10 +45,14 @@ INSTALLED_APPS = [
     'marvel_world',
     'social_django',
     'crispy_forms',
-    'django_filters', 
+    'django_filters',
+    'rest_framework'，
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware'
+    'django.middleware.common.CommonMiddleware'
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -152,8 +161,19 @@ MIDDLEWARE = [
 ]
 SOCIAL_AUTH_URL_NAMESPACE = 'social'
 LOGIN_URL = '/auth/login/google-oauth2/'
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '1016293643402-qkert4te1e9be4284l9oon4hsd9e394d.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'AqMn1OWWSQIMnHobuwiGK_3U'
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework.authentication.TokenAuthentication',
+        'rest_framework.authentication.SessionAuthentication'
+    ],
+    'DEFAULT_PERMISSION_CLASSES': [
+	    'rest_framework.permissions.IsAuthenticatedOrReadOnly'
+        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+        # 'rest_framework.permissions.AllowAny'
+    ],
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10
+}
 
 # LOGIN_URL = 'login'
 

@@ -8,8 +8,8 @@ from django.urls import reverse
 
 class CharacterComic(models.Model):
     character_comic_id = models.AutoField(primary_key=True)
-    character = models.ForeignKey('Character', models.DO_NOTHING)
-    comic = models.ForeignKey('Comic', models.DO_NOTHING)
+    character = models.ForeignKey('Character', on_delete=models.CASCADE)
+    comic = models.ForeignKey('Comic', on_delete=models.CASCADE)
 
     class Meta:
         managed = False
@@ -22,8 +22,8 @@ class CharacterComic(models.Model):
 
 class CharacterPower(models.Model):
     character_power_id = models.AutoField(primary_key=True)
-    character = models.ForeignKey('Character', models.DO_NOTHING)
-    power = models.ForeignKey('Power', models.DO_NOTHING)
+    character = models.ForeignKey('Character', on_delete=models.CASCADE)
+    power = models.ForeignKey('Power', on_delete=models.CASCADE)
 
     class Meta:
         managed = False
@@ -80,13 +80,13 @@ class Power(models.Model):
 class Character(models.Model):
     character_id = models.AutoField(primary_key=True)
     character_name = models.CharField(unique=True, max_length=20)
-    alignment = models.ForeignKey('Alignment', models.DO_NOTHING, blank=True, null=True)
-    gender = models.ForeignKey('Gender', models.DO_NOTHING, blank=True, null=True)
-    eye_color = models.ForeignKey('EyeColor', models.DO_NOTHING, blank=True, null=True)
-    race = models.ForeignKey('Race', models.DO_NOTHING, blank=True, null=True)
-    hair_color = models.ForeignKey('HairColor', models.DO_NOTHING, blank=True, null=True)
-    publisher = models.ForeignKey('Publisher', models.DO_NOTHING, blank=True, null=True)
-    skin_color = models.ForeignKey('SkinColor', models.DO_NOTHING, blank=True, null=True)
+    alignment = models.ForeignKey('Alignment',  on_delete=models.PROTECT)
+    gender = models.ForeignKey('Gender',  on_delete=models.PROTECT)
+    eye_color = models.ForeignKey('EyeColor',  on_delete=models.PROTECT)
+    race = models.ForeignKey('Race',  on_delete=models.PROTECT)
+    hair_color = models.ForeignKey('HairColor',  on_delete=models.PROTECT)
+    publisher = models.ForeignKey('Publisher',  on_delete=models.PROTECT)
+    skin_color = models.ForeignKey('SkinColor',  on_delete=models.PROTECT)
     height = models.IntegerField()
     weight = models.IntegerField()
     character_number = models.CharField(max_length=8)
